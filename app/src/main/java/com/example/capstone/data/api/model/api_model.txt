@@ -1,0 +1,1 @@
+API 응답용 model(JSON 매핑을 위해 필요함)

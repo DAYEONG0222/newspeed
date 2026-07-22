@@ -1,0 +1,4824 @@
+{
+    "spanish_vocabulary": [
+        {
+            "spanish": "enterarse",
+            "korean": "(무엇을)알아차리다, 알아내다"
+        },
+        {
+            "spanish": "no obstante",
+            "korean": "그러나, 그렇지만"
+        },
+        {
+            "spanish": "descaro",
+            "korean": "뻔뻔함, 철면피, 건방짐"
+        },
+        {
+            "spanish": "arrastrar",
+            "korean": "끌다, 질질끌다"
+        },
+        {
+            "spanish": "convenir",
+            "korean": "(무엇에) 어울리다, 적당하다 / 합의하다"
+        },
+        {
+            "spanish": "espinar",
+            "korean": "찌르다, 쏘다"
+        },
+        {
+            "spanish": "torcer",
+            "korean": "꼬다, 비틀다, 삐다, 접질리다"
+        },
+        {
+            "spanish": "desahucio",
+            "korean": "쫓아냄, 퇴거, 퇴출"
+        },
+        {
+            "spanish": "tacha",
+            "korean": "티, 흠, 결함"
+        },
+        {
+            "spanish": "estancia",
+            "korean": "체류, 머무름"
+        },
+        {
+            "spanish": "apenar",
+            "korean": "슬프게하다 / 슬퍼하다, 부끄러워하다"
+        },
+        {
+            "spanish": "derribar",
+            "korean": "때려 부수다, 철거하다, 쓰러뜨리다"
+        },
+        {
+            "spanish": "restregar",
+            "korean": "문지르다, 비비다"
+        },
+        {
+            "spanish": "acosar",
+            "korean": "스토킹하다, 쫓다"
+        },
+        {
+            "spanish": "adivinar",
+            "korean": "알아맞히다"
+        },
+        {
+            "spanish": "suposición",
+            "korean": "추측, 짐작"
+        },
+        {
+            "spanish": "encantador/a",
+            "korean": "매력적인, 마술사, 마법사"
+        },
+        {
+            "spanish": "pretender",
+            "korean": "바라다, 노리다, 시도하다"
+        },
+        {
+            "spanish": "desprecio",
+            "korean": "실례, 무례 / 경멸, 무시"
+        },
+        {
+            "spanish": "arrinconar",
+            "korean": "(무엇을)구석에 놓다, 궁지에 몰아넣다"
+        },
+        {
+            "spanish": "forcejear",
+            "korean": "(어떤 저항을 이겨내기 위해)힘쓰다, 버둥거리다, 완강히 반대하다"
+        },
+        {
+            "spanish": "arremeter",
+            "korean": "습격하다, 공격하다"
+        },
+        {
+            "spanish": "invertir",
+            "korean": "뒤집다, 거꾸로하다 / 투자하다"
+        },
+        {
+            "spanish": "impedir",
+            "korean": "막다, 방지하다"
+        },
+        {
+            "spanish": "tumulto",
+            "korean": "소동, 혼란"
+        },
+        {
+            "spanish": "trecho",
+            "korean": "거리, 간격"
+        },
+        {
+            "spanish": "aflojar",
+            "korean": "늦추다, 완화하다, 느슨히 하다"
+        },
+        {
+            "spanish": "atentar",
+            "korean": "습격하다, 위협을 가하다"
+        },
+        {
+            "spanish": "requiebro",
+            "korean": "칭찬, 아첨"
+        },
+        {
+            "spanish": "requebrar",
+            "korean": "다시 잘게 부수다, 여자를 구슬리다, 아첨하다"
+        },
+        {
+            "spanish": "entorno",
+            "korean": "환경, 주위의 상황"
+        },
+        {
+            "spanish": "inculcar",
+            "korean": "주입시키다"
+        },
+        {
+            "spanish": "con empeño",
+            "korean": "열심히 끈질기게"
+        },
+        {
+            "spanish": "fisura",
+            "korean": "균열, 금"
+        },
+        {
+            "spanish": "desobediente",
+            "korean": "반항적인, 반항아"
+        },
+        {
+            "spanish": "corromper",
+            "korean": "바꾸다, 변질시키다, 부패시키다, 썩히다, 매수하다"
+        },
+        {
+            "spanish": "adherir",
+            "korean": "붙이다, 붙다"
+        },
+        {
+            "spanish": "asunción",
+            "korean": "(책임을) 떠맡음, 받아들임, 수락, 승천"
+        },
+        {
+            "spanish": "flaquear",
+            "korean": "약해지다, 흔들리다, 불안정해지다"
+        },
+        {
+            "spanish": "verosímil",
+            "korean": "진짜 같은, 있을 법한"
+        },
+        {
+            "spanish": "quebradizo",
+            "korean": "깨지기[부서지기] 쉬운"
+        },
+        {
+            "spanish": "pujanza",
+            "korean": "힘, 투지"
+        },
+        {
+            "spanish": "vivaz",
+            "korean": "오래사는, 장수하는, 활기찬, 활발한"
+        },
+        {
+            "spanish": "ingenioso/a",
+            "korean": "재치있는, 기발한, 영리한"
+        },
+        {
+            "spanish": "deslindar",
+            "korean": "경계를 짓다[정하다]"
+        },
+        {
+            "spanish": "enfático/a",
+            "korean": "강조의"
+        },
+        {
+            "spanish": "estándar",
+            "korean": "표준의, 보통의, 생활 수준, 표준 단위[규격]"
+        },
+        {
+            "spanish": "enraizar",
+            "korean": "뿌리를 내리다"
+        },
+        {
+            "spanish": "rodar",
+            "korean": "구르다, 굴리다, [영화]촬영하다"
+        },
+        {
+            "spanish": "reprobar",
+            "korean": "낙제시키다, 떨어트리다"
+        },
+        {
+            "spanish": "sollozar",
+            "korean": "흐느끼다, 흐느껴 울다"
+        },
+        {
+            "spanish": "rodear",
+            "korean": "둘러싸다, 에워싸다, 감다, 포위하다"
+        },
+        {
+            "spanish": "ajetreado/a",
+            "korean": "귀찮게 하는, 지친, 바쁜"
+        },
+        {
+            "spanish": "capricho",
+            "korean": "변덕, 욕망"
+        },
+        {
+            "spanish": "avaro/a",
+            "korean": "탐욕스러운, 구두쇠"
+        },
+        {
+            "spanish": "alardear",
+            "korean": "뽐내다, 자랑하다, 과시하다"
+        },
+        {
+            "spanish": "puñado",
+            "korean": "한 줌, 한 움큼"
+        },
+        {
+            "spanish": "atesorar",
+            "korean": "소유하다, 모으다"
+        },
+        {
+            "spanish": "deparar",
+            "korean": "제공하다, 주다"
+        },
+        {
+            "spanish": "ceder",
+            "korean": "양보하다, 양도하다, 굴복하다"
+        },
+        {
+            "spanish": "voluntariamente",
+            "korean": "자발적으로"
+        },
+        {
+            "spanish": "trono",
+            "korean": "왕위, 왕좌"
+        },
+        {
+            "spanish": "rentable",
+            "korean": "돈이 되는, 수입이 좋은"
+        },
+        {
+            "spanish": "miga",
+            "korean": "(빵 등의) 부스러기, 쪼가리"
+        },
+        {
+            "spanish": "derramar",
+            "korean": "흘리다, 엎지르다"
+        },
+        {
+            "spanish": "enhebrar",
+            "korean": "(바늘에)실을 꿰다"
+        },
+        {
+            "spanish": "reprender",
+            "korean": "꾸짖다, 혼내다, 나무라다"
+        },
+        {
+            "spanish": "clamar",
+            "korean": "애원하다, 간절히 바라다 / 외치다"
+        },
+        {
+            "spanish": "acudir",
+            "korean": "자주 가다, 오다, 기대다"
+        },
+        {
+            "spanish": "despejar",
+            "korean": "치우다, 제거하다"
+        },
+        {
+            "spanish": "enfrascarse",
+            "korean": "(무엇에)몰두하다, 열중하다"
+        },
+        {
+            "spanish": "percatarse",
+            "korean": "깨닫다, 알아차리다"
+        },
+        {
+            "spanish": "enhorabuena",
+            "korean": "축하 인사 / 축하합니다!"
+        },
+        {
+            "spanish": "azar",
+            "korean": "랜덤, 가능성, 우연"
+        },
+        {
+            "spanish": "vencimiento",
+            "korean": "기한, 만기, 만료"
+        },
+        {
+            "spanish": "pronosticar",
+            "korean": "예상하다, 예측하다"
+        },
+        {
+            "spanish": "correspondencia",
+            "korean": "서신, 편지, 통신"
+        },
+        {
+            "spanish": "inundación",
+            "korean": "홍수"
+        },
+        {
+            "spanish": "entretener",
+            "korean": "즐겁게하다, 기분전환을 시키다"
+        },
+        {
+            "spanish": "ingrediente",
+            "korean": "(주로 음식물의)성분, 재료 / 구성 요소"
+        },
+        {
+            "spanish": "simpatía",
+            "korean": "동정, 연민 / 다정함, 친근함"
+        },
+        {
+            "spanish": "hembra",
+            "korean": "암컷, 여성"
+        },
+        {
+            "spanish": "suicidarse",
+            "korean": "자살하다"
+        },
+        {
+            "spanish": "pasatiempo",
+            "korean": "취미, 기분전환"
+        },
+        {
+            "spanish": "jarabe",
+            "korean": "시럽"
+        },
+        {
+            "spanish": "estimular",
+            "korean": "자극하다"
+        },
+        {
+            "spanish": "impulsar",
+            "korean": "밀다/복돋우다,신장시키다 / 나아가게 하다"
+        },
+        {
+            "spanish": "tesis",
+            "korean": "논문"
+        },
+        {
+            "spanish": "titularse",
+            "korean": "학위를 받다"
+        },
+        {
+            "spanish": "interactuar",
+            "korean": "소통하다"
+        },
+        {
+            "spanish": "estable",
+            "korean": "안정된, 안정적인"
+        },
+        {
+            "spanish": "convivir",
+            "korean": "동거하다, 함께 살다"
+        },
+        {
+            "spanish": "para terminar",
+            "korean": "끝으로, 마지막으로"
+        },
+        {
+            "spanish": "más adelante",
+            "korean": "나중에"
+        },
+        {
+            "spanish": "jubilado",
+            "korean": "퇴직한"
+        },
+        {
+            "spanish": "montaña rusa",
+            "korean": "롤러코스터"
+        },
+        {
+            "spanish": "estacionamiento",
+            "korean": "주차장"
+        },
+        {
+            "spanish": "guardarropa",
+            "korean": "옷장"
+        },
+        {
+            "spanish": "recámara",
+            "korean": "침실"
+        },
+        {
+            "spanish": "con vista al mar",
+            "korean": "바다가 보이는"
+        },
+        {
+            "spanish": "por porte",
+            "korean": "취미로, 여가로"
+        },
+        {
+            "spanish": "preferencia",
+            "korean": "선호, 우선, 취향"
+        },
+        {
+            "spanish": "manifestar",
+            "korean": "나타내다, 표명하다"
+        },
+        {
+            "spanish": "por tanto",
+            "korean": "그러므로"
+        },
+        {
+            "spanish": "acumular",
+            "korean": "축적하다, 모으다"
+        },
+        {
+            "spanish": "con cuidado",
+            "korean": "조심히, 신중하게"
+        },
+        {
+            "spanish": "acariciar",
+            "korean": "쓰다듬다"
+        },
+        {
+            "spanish": "salpicar",
+            "korean": "(액체가)튀다, 적시다"
+        },
+        {
+            "spanish": "barro",
+            "korean": "진흙, 흙탕물"
+        },
+        {
+            "spanish": "faltar a clase",
+            "korean": "수업에 빠지다, 결석하다"
+        },
+        {
+            "spanish": "vidrio",
+            "korean": "유리"
+        },
+        {
+            "spanish": "arruga",
+            "korean": "주름"
+        },
+        {
+            "spanish": "tocar a alguien hacer algo",
+            "korean": "~할 차례이다, 해야한다"
+        },
+        {
+            "spanish": "incidente",
+            "korean": "사건"
+        },
+        {
+            "spanish": "suspirar",
+            "korean": "한숨을 내쉬다"
+        },
+        {
+            "spanish": "sufrimiento",
+            "korean": "고통, 고생"
+        },
+        {
+            "spanish": "pacificar",
+            "korean": "진정시키다, 평화를 정착시키다"
+        },
+        {
+            "spanish": "paulatinamente",
+            "korean": "조금씩, 천천히"
+        },
+        {
+            "spanish": "difundir",
+            "korean": "널리 퍼뜨리다, 유포하다"
+        },
+        {
+            "spanish": "unificación",
+            "korean": "통일, 통합"
+        },
+        {
+            "spanish": "en torno a",
+            "korean": "~에 대해서, 주위에"
+        },
+        {
+            "spanish": "implicar",
+            "korean": "의미하다, 내포시키다"
+        },
+        {
+            "spanish": "nacional",
+            "korean": "국가의, 나라의, 국민"
+        },
+        {
+            "spanish": "búsqueda",
+            "korean": "탐색, 조사, 검색"
+        },
+        {
+            "spanish": "manifestación",
+            "korean": "나타냄, 표명"
+        },
+        {
+            "spanish": "indígena",
+            "korean": "인디언의"
+        },
+        {
+            "spanish": "contemporáneo",
+            "korean": "현대의"
+        },
+        {
+            "spanish": "sustituir",
+            "korean": "대체하다, 교체하다"
+        },
+        {
+            "spanish": "ubicarse",
+            "korean": "있다, 위치하다"
+        },
+        {
+            "spanish": "asomar",
+            "korean": "내밀다, 들여다보다, 엿보다"
+        },
+        {
+            "spanish": "semejante",
+            "korean": "닮은, 비슷한"
+        },
+        {
+            "spanish": "surgir",
+            "korean": "치솟다, (갑자기)나타나다, 등장하다"
+        },
+        {
+            "spanish": "transmitir",
+            "korean": "전달하다, 옮겨지다, 전해지다"
+        },
+        {
+            "spanish": "oralmente",
+            "korean": "구두로, 입을 통해서"
+        },
+        {
+            "spanish": "retomar",
+            "korean": "다시 시작하다 재개하다"
+        },
+        {
+            "spanish": "brindar",
+            "korean": "제공하다, 건배하다, 신고하다"
+        },
+        {
+            "spanish": "conformar",
+            "korean": "만족시키다, 형성하다"
+        },
+        {
+            "spanish": "estar considerado como",
+            "korean": "~로 간주되다"
+        },
+        {
+            "spanish": "patrimonio cultural",
+            "korean": "문화유산"
+        },
+        {
+            "spanish": "población",
+            "korean": "(집합명사)주민, 시민, 인구"
+        },
+        {
+            "spanish": "rescate",
+            "korean": "구조, 구출"
+        },
+        {
+            "spanish": "apertura",
+            "korean": "개시, 개막"
+        },
+        {
+            "spanish": "vínculo",
+            "korean": "인연, 연결, 한정 상속 재산"
+        },
+        {
+            "spanish": "estético",
+            "korean": "미학적인"
+        },
+        {
+            "spanish": "notable",
+            "korean": "주목할만한, 중요한, 저명한"
+        },
+        {
+            "spanish": "digno",
+            "korean": "~할 만한, 품격있는"
+        },
+        {
+            "spanish": "caracterizarse",
+            "korean": "(무엇이)특징이다"
+        },
+        {
+            "spanish": "asumir",
+            "korean": "(책임이나 의무를)지다, 맡다"
+        },
+        {
+            "spanish": "inquietud",
+            "korean": "(주로 복수)불안,초조 ,궁금증"
+        },
+        {
+            "spanish": "vanguardia",
+            "korean": "선두, 선구자"
+        },
+        {
+            "spanish": "papel",
+            "korean": "역할"
+        },
+        {
+            "spanish": "étnico",
+            "korean": "민족의, 국민의"
+        },
+        {
+            "spanish": "contraste",
+            "korean": "대비, 대조"
+        },
+        {
+            "spanish": "iluminar",
+            "korean": "비추다"
+        },
+        {
+            "spanish": "enfatizar",
+            "korean": "강조하다"
+        },
+        {
+            "spanish": "dorado",
+            "korean": "황금색의, 금색의"
+        },
+        {
+            "spanish": "alegoría",
+            "korean": "비유, 풍자"
+        },
+        {
+            "spanish": "piedra",
+            "korean": "돌, 바위"
+        },
+        {
+            "spanish": "transportable",
+            "korean": "운반 가능한"
+        },
+        {
+            "spanish": "catalogar",
+            "korean": "분류하다"
+        },
+        {
+            "spanish": "recorrer",
+            "korean": "돌아다니다"
+        },
+        {
+            "spanish": "reconocer",
+            "korean": "인정하다, 알아보다"
+        },
+        {
+            "spanish": "representar",
+            "korean": "나타내다, 표현하다"
+        },
+        {
+            "spanish": "encargado",
+            "korean": "담당, 담당자"
+        },
+        {
+            "spanish": "acondicionar",
+            "korean": "정리하다, 정비하다"
+        },
+        {
+            "spanish": "en consecuencia",
+            "korean": "따라서, 그 결과"
+        },
+        {
+            "spanish": "átomo",
+            "korean": "원자"
+        },
+        {
+            "spanish": "tiniebla",
+            "korean": "(주로 복수)어둠"
+        },
+        {
+            "spanish": "antorcha",
+            "korean": "횃불"
+        },
+        {
+            "spanish": "hoguera",
+            "korean": "모닥불"
+        },
+        {
+            "spanish": "prodigio",
+            "korean": "기적, 경이, 불가사의"
+        },
+        {
+            "spanish": "era",
+            "korean": "기원, 시대"
+        },
+        {
+            "spanish": "desvanecerse",
+            "korean": "없어지다, 실신하다"
+        },
+        {
+            "spanish": "tallo",
+            "korean": "줄기, 움, 싹"
+        },
+        {
+            "spanish": "gastronomía",
+            "korean": "음식, 미식"
+        },
+        {
+            "spanish": "trágico",
+            "korean": "비극의, 비극적인, 비극 작가"
+        },
+        {
+            "spanish": "desacuerdo",
+            "korean": "(의견,행동)불일치, 부조화"
+        },
+        {
+            "spanish": "permisivo",
+            "korean": "관대한, 용인하는"
+        },
+        {
+            "spanish": "traicionar",
+            "korean": "배신하다"
+        },
+        {
+            "spanish": "miserable",
+            "korean": "불행한, 불쌍한"
+        },
+        {
+            "spanish": "poliomielítico",
+            "korean": "소아마비 환자"
+        },
+        {
+            "spanish": "tranvía",
+            "korean": "전차"
+        },
+        {
+            "spanish": "recurrir",
+            "korean": "도움을 청하다, 호소하다"
+        },
+        {
+            "spanish": "fundamentalmente",
+            "korean": "본래, 기본적으로"
+        },
+        {
+            "spanish": "transcurrir",
+            "korean": "(시간이)경과하다, 지나다"
+        },
+        {
+            "spanish": "jalar",
+            "korean": "끌어당기다, 잡아당기다"
+        },
+        {
+            "spanish": "ascendencia",
+            "korean": "선조, 조상"
+        },
+        {
+            "spanish": "heredero",
+            "korean": "상속자"
+        },
+        {
+            "spanish": "exiliado",
+            "korean": "추방된, 망명된"
+        },
+        {
+            "spanish": "deportar",
+            "korean": "추방하다"
+        },
+        {
+            "spanish": "destacar",
+            "korean": "강조하다, 파견하다, 두드러지게 하다"
+        },
+        {
+            "spanish": "ensayista",
+            "korean": "수필가"
+        },
+        {
+            "spanish": "condecorar",
+            "korean": "(누구에게 훈장을)수여하다, 표창하다"
+        },
+        {
+            "spanish": "intelectual",
+            "korean": "지적인, 지식인"
+        },
+        {
+            "spanish": "realizador",
+            "korean": "감독, 프로듀서"
+        },
+        {
+            "spanish": "asesor",
+            "korean": "조언하는, 고문의, 조언자, 고문"
+        },
+        {
+            "spanish": "rodaje",
+            "korean": "촬영"
+        },
+        {
+            "spanish": "supervivencia",
+            "korean": "생존"
+        },
+        {
+            "spanish": "muro",
+            "korean": "담, 벽"
+        },
+        {
+            "spanish": "lápida",
+            "korean": "비석"
+        },
+        {
+            "spanish": "acontecimiento",
+            "korean": "사건, 사고"
+        },
+        {
+            "spanish": "dar un cachetón",
+            "korean": "뺨을 때리다"
+        },
+        {
+            "spanish": "escaso",
+            "korean": "근소한, 부족한"
+        },
+        {
+            "spanish": "decapitar",
+            "korean": "참수하다, 목을 자르다"
+        },
+        {
+            "spanish": "desmembrar",
+            "korean": "(사지를)떼어내다"
+        },
+        {
+            "spanish": "conspirador",
+            "korean": "공모자, 음모자"
+        },
+        {
+            "spanish": "conspirar",
+            "korean": "음모를 꾸미다"
+        },
+        {
+            "spanish": "descender",
+            "korean": "내리다, 내려가다"
+        },
+        {
+            "spanish": "estar destinado a",
+            "korean": "~할 운명에 처해있다"
+        },
+        {
+            "spanish": "apresar",
+            "korean": "붙잡다, 체포하다"
+        },
+        {
+            "spanish": "declarar culpable",
+            "korean": "유죄를 선고하다"
+        },
+        {
+            "spanish": "sentenciar",
+            "korean": "판결하다"
+        },
+        {
+            "spanish": "encabezar",
+            "korean": "등기하다, 앞장서다, 거느리다, 통솔하다"
+        },
+        {
+            "spanish": "condenar",
+            "korean": "선고하다, 유죄판결을 내리다, 비난하다"
+        },
+        {
+            "spanish": "vencido",
+            "korean": "패배한, 패자"
+        },
+        {
+            "spanish": "gaceta",
+            "korean": "정기 간행물, 신문"
+        },
+        {
+            "spanish": "noticiero",
+            "korean": "신문"
+        },
+        {
+            "spanish": "cimiento",
+            "korean": "부지, 토대"
+        },
+        {
+            "spanish": "terreno",
+            "korean": "땅의, 토지, 땅"
+        },
+        {
+            "spanish": "predio",
+            "korean": "땅, 토지"
+        },
+        {
+            "spanish": "basurero",
+            "korean": "쓰레기장"
+        },
+        {
+            "spanish": "relatar",
+            "korean": "이야기하다, 말하다"
+        },
+        {
+            "spanish": "librar",
+            "korean": "해방시키다, 면제하다"
+        },
+        {
+            "spanish": "dominio",
+            "korean": "지배"
+        },
+        {
+            "spanish": "liso",
+            "korean": "평평한, 매끄러운"
+        },
+        {
+            "spanish": "plano",
+            "korean": "납작한, 반반한, 면, 평면, 도면"
+        },
+        {
+            "spanish": "traza",
+            "korean": "설계도, 구상, 계획"
+        },
+        {
+            "spanish": "perjudicar",
+            "korean": "해를 끼치다"
+        },
+        {
+            "spanish": "efectuar",
+            "korean": "행하다, 실시되다, 행해지다"
+        },
+        {
+            "spanish": "rebelde",
+            "korean": "반란의, 반역의, 반역자"
+        },
+        {
+            "spanish": "pedazo",
+            "korean": "조각, 부스러기"
+        },
+        {
+            "spanish": "gerente",
+            "korean": "매니저, 관리인"
+        },
+        {
+            "spanish": "sucursal",
+            "korean": "지점, 지사"
+        },
+        {
+            "spanish": "en pedazos",
+            "korean": "조각조각"
+        },
+        {
+            "spanish": "concordar",
+            "korean": "일치하다, 일치시키다"
+        },
+        {
+            "spanish": "demoler",
+            "korean": "(건물등을)헐다, 부수다"
+        },
+        {
+            "spanish": "coherente",
+            "korean": "일관된, 일관성 있는"
+        },
+        {
+            "spanish": "relámpago",
+            "korean": "번개"
+        },
+        {
+            "spanish": "mina",
+            "korean": "광산"
+        },
+        {
+            "spanish": "cualidad",
+            "korean": "특성, 성질"
+        },
+        {
+            "spanish": "supersticioso",
+            "korean": "미신적인"
+        },
+        {
+            "spanish": "grieta",
+            "korean": "균열, 틈"
+        },
+        {
+            "spanish": "cruz",
+            "korean": "십자가"
+        },
+        {
+            "spanish": "amuleto",
+            "korean": "부적, 마스코트"
+        },
+        {
+            "spanish": "fértil",
+            "korean": "비옥한, 풍족한"
+        },
+        {
+            "spanish": "tabú",
+            "korean": "금기, 금기어"
+        },
+        {
+            "spanish": "estar quieto",
+            "korean": "가만히 있다"
+        },
+        {
+            "spanish": "multar",
+            "korean": "벌금을 물리다(부과하다)"
+        },
+        {
+            "spanish": "ensuciar",
+            "korean": "더럽히다, 더럽게하다"
+        },
+        {
+            "spanish": "esforzarse",
+            "korean": "노력하다, 힘쓰다"
+        },
+        {
+            "spanish": "desembarcar",
+            "korean": "상륙하다, 내리다"
+        },
+        {
+            "spanish": "firme",
+            "korean": "단단한, 튼튼한"
+        },
+        {
+            "spanish": "fundar",
+            "korean": "창설하다, 짓다, 세우다"
+        },
+        {
+            "spanish": "formar",
+            "korean": "형성하다, 구성하다, 조직하다"
+        },
+        {
+            "spanish": "ayuntamiento",
+            "korean": "시, 시청"
+        },
+        {
+            "spanish": "guajolote",
+            "korean": "칠면조"
+        },
+        {
+            "spanish": "pólvora",
+            "korean": "화약, 불꽃, 나쁜 성질"
+        },
+        {
+            "spanish": "tela",
+            "korean": "천, 옷감"
+        },
+        {
+            "spanish": "mercadería",
+            "korean": "(복수)상품, 재화, 잡화"
+        },
+        {
+            "spanish": "extracción",
+            "korean": "추출, 채굴"
+        },
+        {
+            "spanish": "exportar",
+            "korean": "수출하다"
+        },
+        {
+            "spanish": "atraer",
+            "korean": "끌어당기다, (주의나 흥미를)끌다"
+        },
+        {
+            "spanish": "prosperidad",
+            "korean": "번영, 호황"
+        },
+        {
+            "spanish": "auge",
+            "korean": "절정, 붐, 유행"
+        },
+        {
+            "spanish": "corsario",
+            "korean": "해적의, 해적"
+        },
+        {
+            "spanish": "considerable",
+            "korean": "상당한, 중요한"
+        },
+        {
+            "spanish": "muralla",
+            "korean": "담, 성벽"
+        },
+        {
+            "spanish": "advertir",
+            "korean": "알아차리다, 깨닫다 / 충고하다, 경고하다"
+        },
+        {
+            "spanish": "asentamiento",
+            "korean": "정착"
+        },
+        {
+            "spanish": "representativo",
+            "korean": "대표적인"
+        },
+        {
+            "spanish": "mestizaje",
+            "korean": "혼혈"
+        },
+        {
+            "spanish": "convencerse de",
+            "korean": "~을 확신하다"
+        },
+        {
+            "spanish": "confrontar",
+            "korean": "대조하다, 직면하다"
+        },
+        {
+            "spanish": "huella",
+            "korean": "지문, 발자국, 흔적"
+        },
+        {
+            "spanish": "conciliar",
+            "korean": "화해시키다, 화해하다"
+        },
+        {
+            "spanish": "atorar",
+            "korean": "막다, 막히다"
+        },
+        {
+            "spanish": "podrido",
+            "korean": "썩은, 부패한"
+        },
+        {
+            "spanish": "reflexionar",
+            "korean": "숙고하다, 반성하다"
+        },
+        {
+            "spanish": "potable",
+            "korean": "마실 수 있는"
+        },
+        {
+            "spanish": "sordo",
+            "korean": "귀머거리"
+        },
+        {
+            "spanish": "quedar confuso",
+            "korean": "불명확하다"
+        },
+        {
+            "spanish": "década",
+            "korean": "10개, 10년, 연대"
+        },
+        {
+            "spanish": "la década de 1970",
+            "korean": "1970년대"
+        },
+        {
+            "spanish": "unificar",
+            "korean": "통합하다, 통일하다"
+        },
+        {
+            "spanish": "invasor",
+            "korean": "침략자"
+        },
+        {
+            "spanish": "derrotar",
+            "korean": "낭비하다, 물리치다, 대파하다"
+        },
+        {
+            "spanish": "exuberante",
+            "korean": "울창한"
+        },
+        {
+            "spanish": "vegetación",
+            "korean": "식물"
+        },
+        {
+            "spanish": "deslumbrante",
+            "korean": "눈부신"
+        },
+        {
+            "spanish": "integral",
+            "korean": "완전한, 전체의"
+        },
+        {
+            "spanish": "hambriento",
+            "korean": "굶주린, 허기진"
+        },
+        {
+            "spanish": "devorar",
+            "korean": "먹어치우다"
+        },
+        {
+            "spanish": "apetitoso",
+            "korean": "먹음직스러운"
+        },
+        {
+            "spanish": "apetito",
+            "korean": "식욕"
+        },
+        {
+            "spanish": "olor penetrante",
+            "korean": "코를 찌르는 냄새"
+        },
+        {
+            "spanish": "embrujar",
+            "korean": "요술을 부리다"
+        },
+        {
+            "spanish": "equilibrado",
+            "korean": "균형잡힌"
+        },
+        {
+            "spanish": "adaptarse",
+            "korean": "~에 꼭 맞다, 적응하다"
+        },
+        {
+            "spanish": "hipertensión",
+            "korean": "고혈압"
+        },
+        {
+            "spanish": "pieza",
+            "korean": "조각, 천 조각, 화폐"
+        },
+        {
+            "spanish": "exigente",
+            "korean": "까다로운"
+        },
+        {
+            "spanish": "brujo",
+            "korean": "마법사"
+        },
+        {
+            "spanish": "ir en busca",
+            "korean": "찾아다니다"
+        },
+        {
+            "spanish": "cazar",
+            "korean": "사냥하다"
+        },
+        {
+            "spanish": "tóxico",
+            "korean": "독의, 독성의"
+        },
+        {
+            "spanish": "a fin de",
+            "korean": "~을 위해서, 목적으로"
+        },
+        {
+            "spanish": "indudablemente",
+            "korean": "확실히"
+        },
+        {
+            "spanish": "influencia",
+            "korean": "영향, 세력"
+        },
+        {
+            "spanish": "veneno",
+            "korean": "독이 있는"
+        },
+        {
+            "spanish": "por fortuna",
+            "korean": "다행히"
+        },
+        {
+            "spanish": "en contraste con",
+            "korean": "~에 대비해서"
+        },
+        {
+            "spanish": "por turnos",
+            "korean": "돌아가며, 돌림으로, 교대로"
+        },
+        {
+            "spanish": "hallarse",
+            "korean": "(~에)있다, (상태)이다"
+        },
+        {
+            "spanish": "originario",
+            "korean": "원산의, 출생의"
+        },
+        {
+            "spanish": "ejecutar",
+            "korean": "실행하다, 처형하다"
+        },
+        {
+            "spanish": "tronco",
+            "korean": "통나무"
+        },
+        {
+            "spanish": "vertical",
+            "korean": "수직의, 세로의"
+        },
+        {
+            "spanish": "aparato",
+            "korean": "기구, 기계, 기기"
+        },
+        {
+            "spanish": "giratorio",
+            "korean": "회전하는"
+        },
+        {
+            "spanish": "punta",
+            "korean": "뾰족한 끝"
+        },
+        {
+            "spanish": "ave",
+            "korean": "새"
+        },
+        {
+            "spanish": "disfrazar",
+            "korean": "변장시키다, 변장하다"
+        },
+        {
+            "spanish": "extremadamente",
+            "korean": "굉장히, 극히"
+        },
+        {
+            "spanish": "cuidadoso",
+            "korean": "신경을 쓰는, 주의 깊은"
+        },
+        {
+            "spanish": "colocación",
+            "korean": "배치, 배열"
+        },
+        {
+            "spanish": "ocasionar",
+            "korean": "(무엇을)일으키다, 초래하다"
+        },
+        {
+            "spanish": "fenómeno natural",
+            "korean": "자연현상"
+        },
+        {
+            "spanish": "propiciar",
+            "korean": "화를 달래다, 호의를 얻다"
+        },
+        {
+            "spanish": "preservar",
+            "korean": "예방하다, 보호하다"
+        },
+        {
+            "spanish": "en orden",
+            "korean": "순서대로"
+        },
+        {
+            "spanish": "fascinar",
+            "korean": "매혹시키다, 매료되다"
+        },
+        {
+            "spanish": "culto",
+            "korean": "숭배, 신앙"
+        },
+        {
+            "spanish": "agrario",
+            "korean": "농업의"
+        },
+        {
+            "spanish": "surgimiento",
+            "korean": "나타남, 출현"
+        },
+        {
+            "spanish": "conmemorar",
+            "korean": "기념하다, 축하하다"
+        },
+        {
+            "spanish": "cosecha",
+            "korean": "수확, 추수"
+        },
+        {
+            "spanish": "fogata",
+            "korean": "모닥불"
+        },
+        {
+            "spanish": "propagarse",
+            "korean": "널리 퍼뜨리다, 번식시키다"
+        },
+        {
+            "spanish": "desfile",
+            "korean": "행진, 퍼레이드"
+        },
+        {
+            "spanish": "contagioso",
+            "korean": "전염성의, 전염병의"
+        },
+        {
+            "spanish": "puro",
+            "korean": "시가(담배)"
+        },
+        {
+            "spanish": "borroso",
+            "korean": "흐릿한, 읽기 어려운"
+        },
+        {
+            "spanish": "soleado",
+            "korean": "화창한"
+        },
+        {
+            "spanish": "nublado",
+            "korean": "흐린"
+        },
+        {
+            "spanish": "escenario",
+            "korean": "무대, 극장"
+        },
+        {
+            "spanish": "cadena",
+            "korean": "쇠사슬, 체인, 체인점"
+        },
+        {
+            "spanish": "abarrotado",
+            "korean": "꽉찬, 미어터지는"
+        },
+        {
+            "spanish": "vagabundo",
+            "korean": "방랑자, 떠돌이"
+        },
+        {
+            "spanish": "despedir",
+            "korean": "해고하다, 헤어지다, 작별하다"
+        },
+        {
+            "spanish": "encontrarse a",
+            "korean": "우연히 만나다"
+        },
+        {
+            "spanish": "encontrarse con",
+            "korean": "약속하고 만나다"
+        },
+        {
+            "spanish": "impreciso",
+            "korean": "애매한, 부정확한"
+        },
+        {
+            "spanish": "embeber",
+            "korean": "빨아들이다, 흡수하다"
+        },
+        {
+            "spanish": "calificativo",
+            "korean": "수식어, 형용어"
+        },
+        {
+            "spanish": "impedir",
+            "korean": "막다, 방해하다"
+        },
+        {
+            "spanish": "distinguir",
+            "korean": "구별하다"
+        },
+        {
+            "spanish": "divisader",
+            "korean": "전망대"
+        },
+        {
+            "spanish": "chango",
+            "korean": "원숭이"
+        },
+        {
+            "spanish": "detectar",
+            "korean": "발견하다, 검출하다"
+        },
+        {
+            "spanish": "bautizar",
+            "korean": "이름을 붙이다, 명명하다"
+        },
+        {
+            "spanish": "cascada",
+            "korean": "폭포"
+        },
+        {
+            "spanish": "servir de",
+            "korean": "~의 역할을 하다"
+        },
+        {
+            "spanish": "morada",
+            "korean": "거주, 거주지"
+        },
+        {
+            "spanish": "excluir",
+            "korean": "제외하다, 배제하다"
+        },
+        {
+            "spanish": "aldea",
+            "korean": "마을, 촌"
+        },
+        {
+            "spanish": "a excepción de",
+            "korean": "제외하고"
+        },
+        {
+            "spanish": "misionario",
+            "korean": "선교사"
+        },
+        {
+            "spanish": "alejado",
+            "korean": "(~에서)먼"
+        },
+        {
+            "spanish": "con abundancia",
+            "korean": "풍부하게"
+        },
+        {
+            "spanish": "ocasionalmente",
+            "korean": "가끔, 어쩌다"
+        },
+        {
+            "spanish": "deberse a",
+            "korean": "~때문이다, 덕분이다"
+        },
+        {
+            "spanish": "playera",
+            "korean": "티셔츠"
+        },
+        {
+            "spanish": "darse",
+            "korean": "(농작물)나다, 생산되다"
+        },
+        {
+            "spanish": "hacer paradas",
+            "korean": "거쳐가다"
+        },
+        {
+            "spanish": "tomar medidas",
+            "korean": "조치하다, 손을 쓰다"
+        },
+        {
+            "spanish": "incendio",
+            "korean": "화재"
+        },
+        {
+            "spanish": "contaminar",
+            "korean": "오염시키다"
+        },
+        {
+            "spanish": "pese a",
+            "korean": "불구하고"
+        },
+        {
+            "spanish": "oponer",
+            "korean": "대치하다, 반대하다"
+        },
+        {
+            "spanish": "circular",
+            "korean": "돌다, 흐르다, 순환하다"
+        },
+        {
+            "spanish": "despedazar",
+            "korean": "토막내다, 발기발기 찢다"
+        },
+        {
+            "spanish": "supuestamente",
+            "korean": "아마, 추정컨대"
+        },
+        {
+            "spanish": "ecosistema",
+            "korean": "생태계"
+        },
+        {
+            "spanish": "succionar",
+            "korean": "빨다, 빨아올리다"
+        },
+        {
+            "spanish": "arrojar",
+            "korean": "내뿜다, 분출하다"
+        },
+        {
+            "spanish": "fierro",
+            "korean": "철, 쇠"
+        },
+        {
+            "spanish": "de acuerdo a",
+            "korean": "~에 따라"
+        },
+        {
+            "spanish": "per cápita",
+            "korean": "1인당"
+        },
+        {
+            "spanish": "confeccionar",
+            "korean": "제조하다"
+        },
+        {
+            "spanish": "estadística",
+            "korean": "통계"
+        },
+        {
+            "spanish": "sorprendente",
+            "korean": "놀라운"
+        },
+        {
+            "spanish": "majestuoso",
+            "korean": "장엄한, 위엄있는"
+        },
+        {
+            "spanish": "jurásico",
+            "korean": "주라기"
+        },
+        {
+            "spanish": "aventajar",
+            "korean": "우선시키다. 능가하다, 뛰어나다"
+        },
+        {
+            "spanish": "altitud",
+            "korean": "높이, 고도"
+        },
+        {
+            "spanish": "acantilado",
+            "korean": "층계를 이루는, 가파른, 벼랑, 절벽"
+        },
+        {
+            "spanish": "fase",
+            "korean": "국면, 측면, 관점, 단계"
+        },
+        {
+            "spanish": "de acuerdo con",
+            "korean": "~에 따라, 따르면"
+        },
+        {
+            "spanish": "maravilla",
+            "korean": "놀라운 일, 굉장한 것, 경이, 경탄, 불가사의"
+        },
+        {
+            "spanish": "revelar",
+            "korean": "밝히다, 드러나다, 밝혀지다"
+        },
+        {
+            "spanish": "placentero",
+            "korean": "즐거운, 유쾌한"
+        },
+        {
+            "spanish": "determinar",
+            "korean": "결정하다, 규정하다"
+        },
+        {
+            "spanish": "fusilamiento",
+            "korean": "총살, 표절"
+        },
+        {
+            "spanish": "emperador",
+            "korean": "황제"
+        },
+        {
+            "spanish": "intrépido",
+            "korean": "대담함, 용맹함, 심사숙고하지 않고 행동하는"
+        },
+        {
+            "spanish": "prudente",
+            "korean": "신중한"
+        },
+        {
+            "spanish": "eficiente",
+            "korean": "효율적인"
+        },
+        {
+            "spanish": "distraer",
+            "korean": "주의를 딴데로 돌리다, 기분전환하다"
+        },
+        {
+            "spanish": "hostil",
+            "korean": "공격적인, 적대적인"
+        },
+        {
+            "spanish": "opresión",
+            "korean": "억압, 압박"
+        },
+        {
+            "spanish": "integridad",
+            "korean": "진실성, 청렴결백"
+        },
+        {
+            "spanish": "glaciar",
+            "korean": "빙하, 빙하의"
+        },
+        {
+            "spanish": "en vez de cuando",
+            "korean": "가끔씩"
+        },
+        {
+            "spanish": "desprender",
+            "korean": "벗기다, 떼어내다, 벗겨지다, 떨어지다"
+        },
+        {
+            "spanish": "témpano",
+            "korean": "빙산"
+        },
+        {
+            "spanish": "a la deriva",
+            "korean": "정처없이, 표류하여"
+        },
+        {
+            "spanish": "dique",
+            "korean": "제방, 둑, 댐"
+        },
+        {
+            "spanish": "desprendimiento",
+            "korean": "낙석, 낙하"
+        },
+        {
+            "spanish": "cuenca",
+            "korean": "분지"
+        },
+        {
+            "spanish": "valle",
+            "korean": "계곡"
+        },
+        {
+            "spanish": "lacustre",
+            "korean": "호수의"
+        },
+        {
+            "spanish": "vasto",
+            "korean": "광대한, 넓은"
+        },
+        {
+            "spanish": "estruendo",
+            "korean": "굉음, 큰소리, 화려함, 성대함"
+        },
+        {
+            "spanish": "asumir",
+            "korean": "(책임)지다, 맡다"
+        },
+        {
+            "spanish": "imponente",
+            "korean": "위압적인"
+        },
+        {
+            "spanish": "prolongar",
+            "korean": "늘이다, 연장하다"
+        },
+        {
+            "spanish": "descalzo",
+            "korean": "맨발의"
+        },
+        {
+            "spanish": "idóneo",
+            "korean": "적절한"
+        },
+        {
+            "spanish": "en lugar de",
+            "korean": "대신에"
+        },
+        {
+            "spanish": "cenicero",
+            "korean": "재떨이"
+        },
+        {
+            "spanish": "cuerpo de agua",
+            "korean": "lago"
+        },
+        {
+            "spanish": "fenómeno",
+            "korean": "현상"
+        },
+        {
+            "spanish": "congregar",
+            "korean": "(사람을)모으다, 모이다"
+        },
+        {
+            "spanish": "mediante",
+            "korean": "통해서"
+        },
+        {
+            "spanish": "fauna",
+            "korean": "그룹, 동물"
+        },
+        {
+            "spanish": "compensar",
+            "korean": "보상하다, 배상하다"
+        },
+        {
+            "spanish": "corresponder",
+            "korean": "상응하다"
+        },
+        {
+            "spanish": "subrayar",
+            "korean": "밑줄을 긋다, 강조하다"
+        },
+        {
+            "spanish": "volante",
+            "korean": "나는, 운전대, 팸플릿"
+        },
+        {
+            "spanish": "pegajoso",
+            "korean": "끈적끈적한, 중독성 있는"
+        },
+        {
+            "spanish": "impactante",
+            "korean": "충격적인"
+        },
+        {
+            "spanish": "arco iris",
+            "korean": "무지개"
+        },
+        {
+            "spanish": "convenir",
+            "korean": "적당하다, 어울리다, 합의하다"
+        },
+        {
+            "spanish": "cumbre",
+            "korean": "산꼭대기, 정점, 수뇌 회담"
+        },
+        {
+            "spanish": "en ayunas",
+            "korean": "식전, 소식 없이, 아무것도 모르고"
+        },
+        {
+            "spanish": "por separado",
+            "korean": "따로따로, 각기, 각자"
+        },
+        {
+            "spanish": "amenizar",
+            "korean": "활기를 띠우다"
+        },
+        {
+            "spanish": "damnificado",
+            "korean": "이재민, 희생자, 피해자"
+        },
+        {
+            "spanish": "ruinas",
+            "korean": "유적"
+        },
+        {
+            "spanish": "huérfano",
+            "korean": "고아"
+        },
+        {
+            "spanish": "asilo",
+            "korean": "보호 시설, 피난처"
+        },
+        {
+            "spanish": "formalmente",
+            "korean": "정식으로, 형식적으로, 격식에 맞춰"
+        },
+        {
+            "spanish": "ambiguo",
+            "korean": "애매한, 부정확한"
+        },
+        {
+            "spanish": "campana",
+            "korean": "종"
+        },
+        {
+            "spanish": "catarata",
+            "korean": "폭포, 호우, 백내장"
+        },
+        {
+            "spanish": "hada",
+            "korean": "요정, 선녀"
+        },
+        {
+            "spanish": "cuenta",
+            "korean": "계산, 계산서"
+        },
+        {
+            "spanish": "axila",
+            "korean": "겨드랑이"
+        },
+        {
+            "spanish": "alpinista",
+            "korean": "등산가"
+        },
+        {
+            "spanish": "inclemente",
+            "korean": "냉혹한, 혹독한"
+        },
+        {
+            "spanish": "portador",
+            "korean": "운반자, 전달자, 운반하는"
+        },
+        {
+            "spanish": "remontar",
+            "korean": "오르다, 난관을 극복하다"
+        },
+        {
+            "spanish": "gastronomía",
+            "korean": "미식, 요리"
+        },
+        {
+            "spanish": "proporcionar",
+            "korean": "비례시키다. 균형이 잡히다.제공하다"
+        },
+        {
+            "spanish": "fronterizo",
+            "korean": "국경의"
+        },
+        {
+            "spanish": "salvaguardar",
+            "korean": "보호하다"
+        },
+        {
+            "spanish": "prácticamente",
+            "korean": "사실상, 실제로"
+        },
+        {
+            "spanish": "permanecer",
+            "korean": "있다, 머물다, 체류하다"
+        },
+        {
+            "spanish": "estimar",
+            "korean": "추산하다, 평가하다"
+        },
+        {
+            "spanish": "delicadeza",
+            "korean": "정교함, 섬세함"
+        },
+        {
+            "spanish": "bordado",
+            "korean": "자수, 손바느질"
+        },
+        {
+            "spanish": "repertorio",
+            "korean": "레퍼토리"
+        },
+        {
+            "spanish": "sabido",
+            "korean": "박식한, 세상에 알려진"
+        },
+        {
+            "spanish": "localidad",
+            "korean": "지역, 입장권"
+        },
+        {
+            "spanish": "concertar",
+            "korean": "맺다, 약정하다"
+        },
+        {
+            "spanish": "matrimonio concertado",
+            "korean": "중매결혼"
+        },
+        {
+            "spanish": "ofensa",
+            "korean": "모욕, 치욕"
+        },
+        {
+            "spanish": "previo",
+            "korean": "사전의, 앞선"
+        },
+        {
+            "spanish": "noviazgo",
+            "korean": "약혼관계"
+        },
+        {
+            "spanish": "desposado/a",
+            "korean": "갓 결혼한, 수갑을 찬, 신랑, 신부"
+        },
+        {
+            "spanish": "familia política",
+            "korean": "사돈댁"
+        },
+        {
+            "spanish": "posteriormente",
+            "korean": "뒤에, 이후에"
+        },
+        {
+            "spanish": "colaborar",
+            "korean": "(에)협력하다"
+        },
+        {
+            "spanish": "naturaleza",
+            "korean": "자연, 자연계, 경향, 성격"
+        },
+        {
+            "spanish": "determinado",
+            "korean": "특정한, 정해진"
+        },
+        {
+            "spanish": "gastar en",
+            "korean": "~에 돈을 쓰다"
+        },
+        {
+            "spanish": "justificar",
+            "korean": "정당화하다, 변명하다"
+        },
+        {
+            "spanish": "ponerse de acuerdo",
+            "korean": "타협하다, 화해하다"
+        },
+        {
+            "spanish": "comprometerse",
+            "korean": "(~할 것을)굳게 약속하다"
+        },
+        {
+            "spanish": "desocupado",
+            "korean": "한가한, 조용한"
+        },
+        {
+            "spanish": "dialogar",
+            "korean": "얘기하다, 대화하다"
+        },
+        {
+            "spanish": "veta",
+            "korean": "광맥, 줄무늬"
+        },
+        {
+            "spanish": "a mediados de",
+            "korean": "중순에, 중반에"
+        },
+        {
+            "spanish": "teatral",
+            "korean": "연극의, 과장된"
+        },
+        {
+            "spanish": "al aire libre",
+            "korean": "야외에, 야외에서"
+        },
+        {
+            "spanish": "como resultado de",
+            "korean": "~의 결과로"
+        },
+        {
+            "spanish": "sede",
+            "korean": "본사, 개최지"
+        },
+        {
+            "spanish": "duque",
+            "korean": "공작, 공"
+        },
+        {
+            "spanish": "de honor",
+            "korean": "명예의"
+        },
+        {
+            "spanish": "en cada ocasión",
+            "korean": "기회가 있을 때 마다"
+        },
+        {
+            "spanish": "significativo",
+            "korean": "의미있는, 뜻있는"
+        },
+        {
+            "spanish": "enseres",
+            "korean": "도구, 집기"
+        },
+        {
+            "spanish": "representante",
+            "korean": "대표, 대표자"
+        },
+        {
+            "spanish": "libreta",
+            "korean": "수첩, 메모장"
+        },
+        {
+            "spanish": "en honor de",
+            "korean": "(누구를)위하여, 기념하여"
+        },
+        {
+            "spanish": "envolver",
+            "korean": "싸다, 포장하다, 말다"
+        },
+        {
+            "spanish": "angosto",
+            "korean": "좁은, 협소한"
+        },
+        {
+            "spanish": "callejuela",
+            "korean": "좁은 뒷골목"
+        },
+        {
+            "spanish": "patrocinio",
+            "korean": "후원, 지원"
+        },
+        {
+            "spanish": "de renombre",
+            "korean": "유명한"
+        },
+        {
+            "spanish": "dureza",
+            "korean": "단단함, 견고함"
+        },
+        {
+            "spanish": "espléndido",
+            "korean": "화려한, 찬란한"
+        },
+        {
+            "spanish": "patrimonio",
+            "korean": "유산, 자산"
+        },
+        {
+            "spanish": "incrementar",
+            "korean": "증가시키다"
+        },
+        {
+            "spanish": "depósito",
+            "korean": "위탁, 창고, 탱크"
+        },
+        {
+            "spanish": "mineral",
+            "korean": "광물, 광석"
+        },
+        {
+            "spanish": "adquirir",
+            "korean": "얻다, 취득하다"
+        },
+        {
+            "spanish": "cesar",
+            "korean": "그치다, 멎다, 끝나다"
+        },
+        {
+            "spanish": "a favor de",
+            "korean": "위하여, ~에 찬성하여"
+        },
+        {
+            "spanish": "homicidio",
+            "korean": "살인"
+        },
+        {
+            "spanish": "cometer",
+            "korean": "저지르다"
+        },
+        {
+            "spanish": "derivado",
+            "korean": "파생된"
+        },
+        {
+            "spanish": "mandato",
+            "korean": "명령, 임기"
+        },
+        {
+            "spanish": "tendencia",
+            "korean": "경향, 추세"
+        },
+        {
+            "spanish": "exportador",
+            "korean": "수출의"
+        },
+        {
+            "spanish": "confrontación",
+            "korean": "대결, 대립"
+        },
+        {
+            "spanish": "eventual",
+            "korean": "우연한, 임시의"
+        },
+        {
+            "spanish": "exportación",
+            "korean": "수출"
+        },
+        {
+            "spanish": "amenaza",
+            "korean": "위협, 협박"
+        },
+        {
+            "spanish": "arancel",
+            "korean": "관세"
+        },
+        {
+            "spanish": "progresivo",
+            "korean": "점진적인, 단계적인"
+        },
+        {
+            "spanish": "imponer",
+            "korean": "강요하다, 물리다(벌금)"
+        },
+        {
+            "spanish": "endurecer",
+            "korean": "단단하게, 강하게 하다"
+        },
+        {
+            "spanish": "radicalmente",
+            "korean": "급격하게, 근본적으로"
+        },
+        {
+            "spanish": "contentar",
+            "korean": "만족시키다, 기쁘게하다"
+        },
+        {
+            "spanish": "cueste lo que cueste",
+            "korean": "무슨 일이 있어도"
+        },
+        {
+            "spanish": "distribuir",
+            "korean": "분배하다, 나누다"
+        },
+        {
+            "spanish": "equitativamente",
+            "korean": "공평하게"
+        },
+        {
+            "spanish": "habitual",
+            "korean": "습관적인, 일반적인"
+        },
+        {
+            "spanish": "manufactura",
+            "korean": "제조, 제품"
+        },
+        {
+            "spanish": "centrarse",
+            "korean": "집중하다"
+        },
+        {
+            "spanish": "a medida que",
+            "korean": "~함에 따라"
+        },
+        {
+            "spanish": "miríada",
+            "korean": "무수함"
+        },
+        {
+            "spanish": "hacer caer",
+            "korean": "떨어트리다"
+        },
+        {
+            "spanish": "al fin y al cabo",
+            "korean": "결국"
+        },
+        {
+            "spanish": "divisa",
+            "korean": "외화, 통화"
+        },
+        {
+            "spanish": "todos los rincones",
+            "korean": "방방곡곡, 구석구석"
+        },
+        {
+            "spanish": "ganancia",
+            "korean": "이익"
+        },
+        {
+            "spanish": "eficiencia",
+            "korean": "능률, 효율"
+        },
+        {
+            "spanish": "deseable",
+            "korean": "바람직한"
+        },
+        {
+            "spanish": "sin demora",
+            "korean": "지체없이, 즉시"
+        },
+        {
+            "spanish": "apertura",
+            "korean": "개시, 개막, 개방"
+        },
+        {
+            "spanish": "expuesto",
+            "korean": "위험한, 쏘인, 맞힌"
+        },
+        {
+            "spanish": "despido",
+            "korean": "해고하다, 헤어지다, 작별하다"
+        },
+        {
+            "spanish": "incidencia",
+            "korean": "영향, 발생, 사건"
+        },
+        {
+            "spanish": "acoger",
+            "korean": "받아들이다, 피난시키다"
+        },
+        {
+            "spanish": "sustancialmente",
+            "korean": "실질적으로"
+        },
+        {
+            "spanish": "comparable",
+            "korean": "비교할 수 있는, 비교될 만한"
+        },
+        {
+            "spanish": "diversificación",
+            "korean": "다양화, 다각화"
+        },
+        {
+            "spanish": "estrictamente",
+            "korean": "엄격히"
+        },
+        {
+            "spanish": "contraparte",
+            "korean": "상대방"
+        },
+        {
+            "spanish": "en busca de",
+            "korean": "~을 찾아, ~을 얻으려고"
+        },
+        {
+            "spanish": "enigma",
+            "korean": "수수께끼"
+        },
+        {
+            "spanish": "hallar",
+            "korean": "encontrar"
+        },
+        {
+            "spanish": "asociar",
+            "korean": "참가시키다, 참가하다"
+        },
+        {
+            "spanish": "tener la intención",
+            "korean": "~할 의도가 있다"
+        },
+        {
+            "spanish": "estar dispuesto a",
+            "korean": "~할 의도가 있다"
+        },
+        {
+            "spanish": "convocar",
+            "korean": "모집하다, 소집하다, 소환하다"
+        },
+        {
+            "spanish": "dar rienda suelta",
+            "korean": "고삐를 풀다"
+        },
+        {
+            "spanish": "trascender",
+            "korean": "알려지다, 퍼지다"
+        },
+        {
+            "spanish": "auspiciar",
+            "korean": "후원하다"
+        },
+        {
+            "spanish": "frecuentar",
+            "korean": "자주 가다"
+        },
+        {
+            "spanish": "citadino",
+            "korean": "시민"
+        },
+        {
+            "spanish": "lúdico",
+            "korean": "오락의, 도박의"
+        },
+        {
+            "spanish": "patrocinador",
+            "korean": "후원자, 스폰서"
+        },
+        {
+            "spanish": "dispuesto a",
+            "korean": "준비가 되어있는, 용의가 있는"
+        },
+        {
+            "spanish": "aportar",
+            "korean": "고생해가며 간신히 도착하다, 기부하다"
+        },
+        {
+            "spanish": "en pro de",
+            "korean": "~위하여"
+        },
+        {
+            "spanish": "subasta",
+            "korean": "경매, 입찰"
+        },
+        {
+            "spanish": "destinarse a",
+            "korean": "무슨 일에 사용되다"
+        },
+        {
+            "spanish": "pastar",
+            "korean": "풀을 뜯어먹다"
+        },
+        {
+            "spanish": "ni que decir tiene",
+            "korean": "분명하다, 말하나마나"
+        },
+        {
+            "spanish": "improvisador",
+            "korean": "즉흥적, 즉성의"
+        },
+        {
+            "spanish": "liviano",
+            "korean": "가벼운, 연한"
+        },
+        {
+            "spanish": "desilusionar",
+            "korean": "실망시키다"
+        },
+        {
+            "spanish": "desanimar",
+            "korean": "낙담시키다, 낙담하다"
+        },
+        {
+            "spanish": "descuidado",
+            "korean": "손을 보지않은, 소홀한"
+        },
+        {
+            "spanish": "calabaza",
+            "korean": "호박"
+        },
+        {
+            "spanish": "capear",
+            "korean": "날치기하다, 튀기다, 입으로 생색 내다"
+        },
+        {
+            "spanish": "constar de",
+            "korean": "~로 구성되다"
+        },
+        {
+            "spanish": "vitrina",
+            "korean": "유리 진열장, 진열창"
+        },
+        {
+            "spanish": "ala",
+            "korean": "날개"
+        },
+        {
+            "spanish": "presentimiento",
+            "korean": "예감"
+        },
+        {
+            "spanish": "dar pie",
+            "korean": "기회를 주다, 빌미를 주다"
+        },
+        {
+            "spanish": "dar a entender a alguien algo",
+            "korean": "암시하다, 넌지시 비추다[말하다]"
+        },
+        {
+            "spanish": "hipotético",
+            "korean": "가상의, 가정의"
+        },
+        {
+            "spanish": "parcial",
+            "korean": "부분적인, 일부분의"
+        },
+        {
+            "spanish": "sumamente",
+            "korean": "극히, 극도로"
+        },
+        {
+            "spanish": "finca",
+            "korean": "농장, 대지, 땅"
+        },
+        {
+            "spanish": "aliarse",
+            "korean": "동맹하다, 연합하다"
+        },
+        {
+            "spanish": "tragedia",
+            "korean": "비극"
+        },
+        {
+            "spanish": "distribución",
+            "korean": "분배, 유통"
+        },
+        {
+            "spanish": "siempre y cuando",
+            "korean": "con tal que 어느때고"
+        },
+        {
+            "spanish": "restrictivo",
+            "korean": "제한하는, 한정적인"
+        },
+        {
+            "spanish": "pulso",
+            "korean": "맥, 맥박"
+        },
+        {
+            "spanish": "desperdicio",
+            "korean": "낭비, 허비, 쓰레기"
+        },
+        {
+            "spanish": "frustrarse",
+            "korean": "좌절하다, 실패하다"
+        },
+        {
+            "spanish": "vara",
+            "korean": "긴 나뭇가지"
+        },
+        {
+            "spanish": "barra",
+            "korean": "몽둥이, 막대기"
+        },
+        {
+            "spanish": "redondo",
+            "korean": "원형의, 둥그런 것"
+        },
+        {
+            "spanish": "léxico",
+            "korean": "어휘의"
+        },
+        {
+            "spanish": "ampliar",
+            "korean": "넓히다, 확대하다"
+        },
+        {
+            "spanish": "reducir",
+            "korean": "줄이다, 축소하다"
+        },
+        {
+            "spanish": "arbusto",
+            "korean": "덤불, 풀숲"
+        },
+        {
+            "spanish": "moraleja",
+            "korean": "교훈"
+        },
+        {
+            "spanish": "chimenea",
+            "korean": "굴뚝, 난로"
+        },
+        {
+            "spanish": "generar",
+            "korean": "발생시키다, 일을키다, 낳다"
+        },
+        {
+            "spanish": "pacífico",
+            "korean": "평온한, 평화적인"
+        },
+        {
+            "spanish": "radicar",
+            "korean": "뿌리를 내리다, 정주하다"
+        },
+        {
+            "spanish": "publicar",
+            "korean": "출판하다, 발표하다, 보도하다"
+        },
+        {
+            "spanish": "arduamente",
+            "korean": "간신히, 어렵사리"
+        },
+        {
+            "spanish": "expedición",
+            "korean": "탐험, 원정"
+        },
+        {
+            "spanish": "apenado",
+            "korean": "슬픈, 아쉬운"
+        },
+        {
+            "spanish": "indicar",
+            "korean": "가리키다, 지시하다"
+        },
+        {
+            "spanish": "hacer caso",
+            "korean": "신경을 쓰다"
+        },
+        {
+            "spanish": "ballet",
+            "korean": "발레"
+        },
+        {
+            "spanish": "resplandecer",
+            "korean": "빛나다, 번쩍이다, 훌륭하다"
+        },
+        {
+            "spanish": "germen",
+            "korean": "싹, 씨, 세균"
+        },
+        {
+            "spanish": "atmosfera",
+            "korean": "분위기, 대기"
+        },
+        {
+            "spanish": "hipocresía",
+            "korean": "위선, 가식"
+        },
+        {
+            "spanish": "racimo",
+            "korean": "(과일의)송이"
+        },
+        {
+            "spanish": "instinto",
+            "korean": "본능"
+        },
+        {
+            "spanish": "abundar",
+            "korean": "풍부하다, 풍족하다"
+        },
+        {
+            "spanish": "liberar",
+            "korean": "해방시키다, 면제하다"
+        },
+        {
+            "spanish": "adherirse",
+            "korean": "(무엇에)붙다, 들러붙다"
+        },
+        {
+            "spanish": "emprender",
+            "korean": "시작하다, 착수하다, 개시하다"
+        },
+        {
+            "spanish": "engendrar",
+            "korean": "낳다, 일으키다, 발생시키다"
+        },
+        {
+            "spanish": "voluntad",
+            "korean": "의지, 뜻, 바람"
+        },
+        {
+            "spanish": "monopolio",
+            "korean": "독점, 점매"
+        },
+        {
+            "spanish": "estancar",
+            "korean": "흐름을 막다, 독점하다"
+        },
+        {
+            "spanish": "suspender",
+            "korean": "매달다, 중단하다"
+        },
+        {
+            "spanish": "simplificar",
+            "korean": "<-> complicar"
+        },
+        {
+            "spanish": "exterminar",
+            "korean": "섬멸하다, 박멸하다"
+        },
+        {
+            "spanish": "decaer",
+            "korean": "쇠하다, 기운이 빠지다"
+        },
+        {
+            "spanish": "fluir",
+            "korean": "흐르다, (생각,말)술술 나오다"
+        },
+        {
+            "spanish": "concebir",
+            "korean": "(구상이나 감정 등을)품다, 개념을 형성하다, 임신하다"
+        },
+        {
+            "spanish": "fuga",
+            "korean": "도주, (액체,기체의)유출"
+        },
+        {
+            "spanish": "pavo",
+            "korean": "칠면조"
+        },
+        {
+            "spanish": "figurar",
+            "korean": "~하는 체하다, (모양으로)나타내다, 묘사하다, 상상하다"
+        },
+        {
+            "spanish": "ficción",
+            "korean": "공상, 허구"
+        },
+        {
+            "spanish": "materialmente",
+            "korean": "물질적으로, 물리적으로"
+        },
+        {
+            "spanish": "paladar",
+            "korean": "맛, 미각, 입천장"
+        },
+        {
+            "spanish": "manjar exquisito",
+            "korean": "진수성찬"
+        },
+        {
+            "spanish": "florecer",
+            "korean": "꽃이 피다, 곰팡이가 슬다"
+        },
+        {
+            "spanish": "coincidir",
+            "korean": "일치하다, 부합하다, 동시에 일어나다, (다른것과)꼭 들어맞다"
+        },
+        {
+            "spanish": "conforme",
+            "korean": "(무엇에)적합한"
+        },
+        {
+            "spanish": "engalanar",
+            "korean": "꾸미다, 장식하다"
+        },
+        {
+            "spanish": "embajador",
+            "korean": "대사, 사신"
+        },
+        {
+            "spanish": "aficionado",
+            "korean": "(무엇을)좋아하는, 열중하는, 팬"
+        },
+        {
+            "spanish": "botánico",
+            "korean": "식물학의"
+        },
+        {
+            "spanish": "personaje",
+            "korean": "인물, 등장인물"
+        },
+        {
+            "spanish": "hogareño",
+            "korean": "가정의"
+        },
+        {
+            "spanish": "aportación",
+            "korean": "기여, 공헌"
+        },
+        {
+            "spanish": "constituir",
+            "korean": "구성하다, 형성하다, 만들다"
+        },
+        {
+            "spanish": "testamento",
+            "korean": "유언, 유언장"
+        },
+        {
+            "spanish": "depositar",
+            "korean": "맡기다, 두다"
+        },
+        {
+            "spanish": "delicia",
+            "korean": "기쁨, 쾌락"
+        },
+        {
+            "spanish": "electrocutarse",
+            "korean": "감전사하다"
+        },
+        {
+            "spanish": "electrizar",
+            "korean": "감전시키다, 흥분시키다"
+        },
+        {
+            "spanish": "electricidad",
+            "korean": "전기"
+        },
+        {
+            "spanish": "ardilla",
+            "korean": "다람쥐"
+        },
+        {
+            "spanish": "cáscara",
+            "korean": "껍데기, 껍질"
+        },
+        {
+            "spanish": "capucha",
+            "korean": "후드"
+        },
+        {
+            "spanish": "bendecir",
+            "korean": "축복하다, 칭찬하다, 찬양하다"
+        },
+        {
+            "spanish": "semiconductor",
+            "korean": "반도체"
+        },
+        {
+            "spanish": "brújula",
+            "korean": "나침반"
+        },
+        {
+            "spanish": "difundir",
+            "korean": "널리 퍼트리다, 유포시키다"
+        },
+        {
+            "spanish": "especia",
+            "korean": "향신료"
+        },
+        {
+            "spanish": "especie",
+            "korean": "종, 종류"
+        },
+        {
+            "spanish": "nave espacial",
+            "korean": "우주선"
+        },
+        {
+            "spanish": "nutritivo",
+            "korean": "영양의, 영양가 높은"
+        },
+        {
+            "spanish": "textil",
+            "korean": "섬유, 직물"
+        },
+        {
+            "spanish": "tinte",
+            "korean": "염색, 염료"
+        },
+        {
+            "spanish": "abstenerse",
+            "korean": "끊다, 삼가다, (투표를)기권하다"
+        },
+        {
+            "spanish": "plaga",
+            "korean": "재앙, 해충"
+        },
+        {
+            "spanish": "calamidad",
+            "korean": "(큰)재해, 재난, 천재지변"
+        },
+        {
+            "spanish": "sobrevenir",
+            "korean": "돌발하다, 불의에 일어나다"
+        },
+        {
+            "spanish": "fibra",
+            "korean": "섬유, 섬유질"
+        },
+        {
+            "spanish": "cactus",
+            "korean": "선인장"
+        },
+        {
+            "spanish": "globoso",
+            "korean": "둥그스름한, 구형의"
+        },
+        {
+            "spanish": "púrpura",
+            "korean": "자주색"
+        },
+        {
+            "spanish": "complementar",
+            "korean": "보충하다, 메꾸다"
+        },
+        {
+            "spanish": "rana",
+            "korean": "개구리"
+        },
+        {
+            "spanish": "ajolote",
+            "korean": "도롱뇽"
+        },
+        {
+            "spanish": "recolección",
+            "korean": "수확"
+        },
+        {
+            "spanish": "recolectar",
+            "korean": "수확하다, 모으다"
+        },
+        {
+            "spanish": "cultivar",
+            "korean": "경작하다, 재배하다"
+        },
+        {
+            "spanish": "ciruela",
+            "korean": "자두"
+        },
+        {
+            "spanish": "rédito",
+            "korean": "(주로 복수)이자, 수익"
+        },
+        {
+            "spanish": "consignar",
+            "korean": "(예산 등에 금액을)계상하다, 기록하다"
+        },
+        {
+            "spanish": "introducir",
+            "korean": "안내하다, 끼워넣다, (누구를)맞아들이다, 끌어들이다, 들어가다"
+        },
+        {
+            "spanish": "en marcha",
+            "korean": "진행 중"
+        },
+        {
+            "spanish": "propagar",
+            "korean": "번식시키다, 널리 퍼뜨리다"
+        },
+        {
+            "spanish": "fundamentar",
+            "korean": "(무엇에)근거를 두다"
+        },
+        {
+            "spanish": "escala",
+            "korean": "경유, 스케일, 규모"
+        },
+        {
+            "spanish": "gama",
+            "korean": "(색의)단계, (제품의)시리즈"
+        },
+        {
+            "spanish": "etnia",
+            "korean": "민족"
+        },
+        {
+            "spanish": "comunidad",
+            "korean": "공동체, 단체, 공통성"
+        },
+        {
+            "spanish": "particular",
+            "korean": "특별한, 특수한, 독특한"
+        },
+        {
+            "spanish": "cotidiano",
+            "korean": "일상의, 평소의"
+        },
+        {
+            "spanish": "enriquecer",
+            "korean": "풍부하게 하다, 부유하게 하다, 농축하다"
+        },
+        {
+            "spanish": "uranio enriquecido",
+            "korean": "농축 우라늄"
+        },
+        {
+            "spanish": "angustia",
+            "korean": "고뇌, 고통, 초조"
+        },
+        {
+            "spanish": "entrelazar",
+            "korean": "엮다, 교차하다"
+        },
+        {
+            "spanish": "enlazar",
+            "korean": "매듭으로 묶다, 연결하다, 잇다"
+        },
+        {
+            "spanish": "entretejer",
+            "korean": "(옷감 등을)짜다, 엮다"
+        },
+        {
+            "spanish": "culinario",
+            "korean": "요리의"
+        },
+        {
+            "spanish": "ámbito",
+            "korean": "구역, 분야"
+        },
+        {
+            "spanish": "contorno",
+            "korean": "(주로 복수)주변, 근교 / 윤곽"
+        },
+        {
+            "spanish": "astronomía",
+            "korean": "천문학"
+        },
+        {
+            "spanish": "testigo",
+            "korean": "증인, 목격자, 참고인"
+        },
+        {
+            "spanish": "testimonio",
+            "korean": "증언, 증거"
+        },
+        {
+            "spanish": "atestación",
+            "korean": "증언"
+        },
+        {
+            "spanish": "certeza",
+            "korean": "확실함, 확신"
+        },
+        {
+            "spanish": "cifra",
+            "korean": "수, 숫자"
+        },
+        {
+            "spanish": "aritmética",
+            "korean": "산술, 산술가"
+        },
+        {
+            "spanish": "vigor",
+            "korean": "힘, 활력, [법률] 유효성, 효력"
+        },
+        {
+            "spanish": "profundizar",
+            "korean": "깊이 파고들다"
+        },
+        {
+            "spanish": "precisión",
+            "korean": "정밀함"
+        },
+        {
+            "spanish": "astro",
+            "korean": "천체, 별"
+        },
+        {
+            "spanish": "celeste",
+            "korean": "하늘의, 하늘색"
+        },
+        {
+            "spanish": "sideral",
+            "korean": "별의, 항성의"
+        },
+        {
+            "spanish": "primacía",
+            "korean": "우월, 우위"
+        },
+        {
+            "spanish": "erigir",
+            "korean": "건립하다, 세우다"
+        },
+        {
+            "spanish": "impacto",
+            "korean": "탄흔, 흔적 / 충격, 영향"
+        },
+        {
+            "spanish": "proyectil",
+            "korean": "발사체, 탄"
+        },
+        {
+            "spanish": "acervo",
+            "korean": "유산, 더미"
+        },
+        {
+            "spanish": "socio",
+            "korean": "회원, 멤버"
+        },
+        {
+            "spanish": "incorporar",
+            "korean": "합치다, 통합하다, 가입하다"
+        },
+        {
+            "spanish": "aculturar",
+            "korean": "(문화를)통합시키다, 합치다"
+        },
+        {
+            "spanish": "interminable",
+            "korean": "끝없는, 한없는"
+        },
+        {
+            "spanish": "perseguir",
+            "korean": "쫓다, 추적하다"
+        },
+        {
+            "spanish": "corporalmente",
+            "korean": "물질적으로, 육체적으로"
+        },
+        {
+            "spanish": "dañoso",
+            "korean": "해로운, 유해한"
+        },
+        {
+            "spanish": "padecer",
+            "korean": "(육체적으로 해나 고통을)입다,받다, (병 등에)걸리다"
+        },
+        {
+            "spanish": "estatua",
+            "korean": "동상"
+        },
+        {
+            "spanish": "escultura",
+            "korean": "조각"
+        },
+        {
+            "spanish": "impetuoso",
+            "korean": "맹렬한, 격렬한"
+        },
+        {
+            "spanish": "carcajada",
+            "korean": "너털웃음, 폭소"
+        },
+        {
+            "spanish": "desalojar",
+            "korean": "떠나게 하다, 떠나다"
+        },
+        {
+            "spanish": "escalofriante",
+            "korean": "오싹한, 소름 끼치는, 무서운"
+        },
+        {
+            "spanish": "pavoroso",
+            "korean": "두려운, 무서운"
+        },
+        {
+            "spanish": "cerilla",
+            "korean": "성냥"
+        },
+        {
+            "spanish": "tronar",
+            "korean": "천둥이 치다"
+        },
+        {
+            "spanish": "trueno",
+            "korean": "천둥"
+        },
+        {
+            "spanish": "hacer el paro",
+            "korean": "도움을 주다"
+        },
+        {
+            "spanish": "provenir",
+            "korean": "(무엇에서)유래하다, 나오다, 비롯되다"
+        },
+        {
+            "spanish": "proveniente",
+            "korean": "(무엇에서)유래한, 비롯된"
+        },
+        {
+            "spanish": "conceder",
+            "korean": "주다, 인정하다, 허가하다"
+        },
+        {
+            "spanish": "oficina de correo",
+            "korean": "우체국"
+        },
+        {
+            "spanish": "síntoma",
+            "korean": "증상, 증세"
+        },
+        {
+            "spanish": "estomacal",
+            "korean": "위의"
+        },
+        {
+            "spanish": "residencia",
+            "korean": "거주, 거주지"
+        },
+        {
+            "spanish": "extorsión",
+            "korean": "강탈"
+        },
+        {
+            "spanish": "peregrinación",
+            "korean": "순례, 대장정"
+        },
+        {
+            "spanish": "discriminación",
+            "korean": "차별"
+        },
+        {
+            "spanish": "delito",
+            "korean": "범죄"
+        },
+        {
+            "spanish": "bravo",
+            "korean": "사나운, 거친, (사람)용감한"
+        },
+        {
+            "spanish": "aprovechar",
+            "korean": "이용하다, (나쁘게)이용하다"
+        },
+        {
+            "spanish": "marchar",
+            "korean": "행진하다, 떠나다"
+        },
+        {
+            "spanish": "compulsivo",
+            "korean": "강제적인, 강압적인"
+        },
+        {
+            "spanish": "terapeuta",
+            "korean": "치료사"
+        },
+        {
+            "spanish": "trastorno",
+            "korean": "혼란, 병, 장애"
+        },
+        {
+            "spanish": "crónico",
+            "korean": "만성의"
+        },
+        {
+            "spanish": "incompetente",
+            "korean": "무능한, 부적격한"
+        },
+        {
+            "spanish": "peregrino",
+            "korean": "순례자"
+        },
+        {
+            "spanish": "entrañable",
+            "korean": "친근한, 따뜻한"
+        },
+        {
+            "spanish": "pretexto",
+            "korean": "핑계, 변명"
+        },
+        {
+            "spanish": "industrialización",
+            "korean": "산업화"
+        },
+        {
+            "spanish": "obsequiar",
+            "korean": "사랑을 호소하다, 구슬리다.선물하다"
+        },
+        {
+            "spanish": "sostenibilidad",
+            "korean": "지속성, 유지성"
+        },
+        {
+            "spanish": "reutilizar",
+            "korean": "재활용하다"
+        },
+        {
+            "spanish": "acomodar",
+            "korean": "놓다, 배치하다 / 맞추다, 조화시키다"
+        },
+        {
+            "spanish": "ladrido",
+            "korean": "개 짖는 소리"
+        },
+        {
+            "spanish": "jubilarse",
+            "korean": "퇴직하다"
+        },
+        {
+            "spanish": "consistir",
+            "korean": "(무엇에)있다, 기초를 두다 / 구성되다"
+        },
+        {
+            "spanish": "bombilla",
+            "korean": "전구"
+        },
+        {
+            "spanish": "desde el puto de vista",
+            "korean": "~의 관점에서"
+        },
+        {
+            "spanish": "lema",
+            "korean": "슬로건, 구호명"
+        },
+        {
+            "spanish": "absurdo",
+            "korean": "말이 안되는, 이치에 맞지 않는"
+        },
+        {
+            "spanish": "gen",
+            "korean": "유전자"
+        },
+        {
+            "spanish": "génico",
+            "korean": "유전자의"
+        },
+        {
+            "spanish": "experimentación",
+            "korean": "실험"
+        },
+        {
+            "spanish": "gestión",
+            "korean": "운영, 관리, 경영"
+        },
+        {
+            "spanish": "conceder",
+            "korean": "주다, 인가하다, 인정하다"
+        },
+        {
+            "spanish": "homólogo",
+            "korean": "동등한"
+        },
+        {
+            "spanish": "desistir",
+            "korean": "그만두다, 취하하다"
+        },
+        {
+            "spanish": "transcripción",
+            "korean": "옮겨 씀"
+        },
+        {
+            "spanish": "antelación",
+            "korean": "미리"
+        },
+        {
+            "spanish": "detención",
+            "korean": "체포, 구류"
+        },
+        {
+            "spanish": "por lo demás",
+            "korean": "그러나, 그 외에는"
+        },
+        {
+            "spanish": "deportación",
+            "korean": "국외 추방"
+        },
+        {
+            "spanish": "invertir",
+            "korean": "반대로하다, (자본을)투자하다"
+        },
+        {
+            "spanish": "descifrar",
+            "korean": "해독하다, 판독하다"
+        },
+        {
+            "spanish": "honradamente",
+            "korean": "정직하게, 성실하게"
+        },
+        {
+            "spanish": "almacenar",
+            "korean": "보관시키다, 저장하다"
+        },
+        {
+            "spanish": "viceversa",
+            "korean": "반대로, 역으로"
+        },
+        {
+            "spanish": "más bien",
+            "korean": "오히려"
+        },
+        {
+            "spanish": "acorde",
+            "korean": "조화된, 화음"
+        },
+        {
+            "spanish": "lector",
+            "korean": "독자"
+        },
+        {
+            "spanish": "predominar",
+            "korean": "지배하다, 더 풍부하다"
+        },
+        {
+            "spanish": "perspectiva",
+            "korean": "경치, 전망 / 견해, 관점"
+        },
+        {
+            "spanish": "plantear",
+            "korean": "(문제를)제기하다, 일으키다"
+        },
+        {
+            "spanish": "abordar",
+            "korean": "접근하다, 다루다"
+        },
+        {
+            "spanish": "objetividad",
+            "korean": "객관성"
+        },
+        {
+            "spanish": "objetivo",
+            "korean": "객관적인, 목적의, 목표"
+        },
+        {
+            "spanish": "subjetivo",
+            "korean": "주관적인"
+        },
+        {
+            "spanish": "didáctico",
+            "korean": "교육의, 교육적인"
+        },
+        {
+            "spanish": "convencer",
+            "korean": "납득시키다, 설득시키다"
+        },
+        {
+            "spanish": "persuadir",
+            "korean": "설득하다, 설득시키다"
+        },
+        {
+            "spanish": "sacudir",
+            "korean": "흔들다, 충격을 주다"
+        },
+        {
+            "spanish": "apuro",
+            "korean": "역경, 곤란, 곤경"
+        },
+        {
+            "spanish": "difusión",
+            "korean": "확산, 보급, 유포"
+        },
+        {
+            "spanish": "estímulo",
+            "korean": "자극"
+        },
+        {
+            "spanish": "primordialmente",
+            "korean": "근본적으로"
+        },
+        {
+            "spanish": "en prosa",
+            "korean": "산문으로"
+        },
+        {
+            "spanish": "en verso",
+            "korean": "운문"
+        },
+        {
+            "spanish": "poema",
+            "korean": "시"
+        },
+        {
+            "spanish": "eternamente",
+            "korean": "언제나, 늘, 끝없이"
+        },
+        {
+            "spanish": "instante",
+            "korean": "순간, 순식간"
+        },
+        {
+            "spanish": "testigo presencial",
+            "korean": "목격자"
+        },
+        {
+            "spanish": "cinismo",
+            "korean": "비꼼, 냉소"
+        },
+        {
+            "spanish": "rehabilitación",
+            "korean": "재활, 교화"
+        },
+        {
+            "spanish": "reemplazar",
+            "korean": "교체하다, 대체하다"
+        },
+        {
+            "spanish": "bravata",
+            "korean": "엄포, 허풍"
+        },
+        {
+            "spanish": "cementerio",
+            "korean": "묘지, 공동묘지"
+        },
+        {
+            "spanish": "renovar",
+            "korean": "새롭게 하다, 갱신하다, 교체하다"
+        },
+        {
+            "spanish": "señaladamente",
+            "korean": "특히, 유달리"
+        },
+        {
+            "spanish": "occiso",
+            "korean": "살해된"
+        },
+        {
+            "spanish": "tórax",
+            "korean": "가슴, 흉부"
+        },
+        {
+            "spanish": "expediente",
+            "korean": "관련서류, 성적"
+        },
+        {
+            "spanish": "verso",
+            "korean": "운문, 시, 한 행"
+        },
+        {
+            "spanish": "errante",
+            "korean": "방랑하는"
+        },
+        {
+            "spanish": "con la frente en alto",
+            "korean": "당당하게"
+        },
+        {
+            "spanish": "pálido",
+            "korean": "창백한, 무기력한"
+        },
+        {
+            "spanish": "anciano",
+            "korean": "늙은, 노인"
+        },
+        {
+            "spanish": "tambalearse",
+            "korean": "비틀거리다"
+        },
+        {
+            "spanish": "aceleración",
+            "korean": "가속, 서두름"
+        },
+        {
+            "spanish": "precipitar",
+            "korean": "떨어트리다, 재촉하다"
+        },
+        {
+            "spanish": "metáfora",
+            "korean": "은유, 은유법"
+        },
+        {
+            "spanish": "jengibre",
+            "korean": "생강"
+        },
+        {
+            "spanish": "clasificación",
+            "korean": "분류, 구분"
+        },
+        {
+            "spanish": "implícito",
+            "korean": "내재하는, 잠재된"
+        },
+        {
+            "spanish": "explícito",
+            "korean": "명시된"
+        },
+        {
+            "spanish": "coherencia",
+            "korean": "일관성"
+        },
+        {
+            "spanish": "esquema",
+            "korean": "도표, 개요"
+        },
+        {
+            "spanish": "gastritis",
+            "korean": "위염"
+        },
+        {
+            "spanish": "infinito",
+            "korean": "무한의, 무한대, 무척"
+        },
+        {
+            "spanish": "enciclopedia",
+            "korean": "백과사전"
+        },
+        {
+            "spanish": "divulgar",
+            "korean": "공개하다, 보급시키다"
+        },
+        {
+            "spanish": "recipiente",
+            "korean": "그릇, 용기"
+        },
+        {
+            "spanish": "inclinar",
+            "korean": "기울이다, (몸을)구부리다"
+        },
+        {
+            "spanish": "volcar",
+            "korean": "뒤집어엎다, (그릇이나 내용을)비우다, 쏟다"
+        },
+        {
+            "spanish": "verter",
+            "korean": "(액체 및 소금 등을)붓다, 따르다, 기울이다"
+        },
+        {
+            "spanish": "apreciación",
+            "korean": "감상, 평가"
+        },
+        {
+            "spanish": "finalidad",
+            "korean": "목적, 의도"
+        },
+        {
+            "spanish": "suceso",
+            "korean": "일, 사건"
+        },
+        {
+            "spanish": "género",
+            "korean": "장르, 분야, 종류"
+        },
+        {
+            "spanish": "emplear",
+            "korean": "쓰다, 사용하다, 고용하다"
+        },
+        {
+            "spanish": "desenlace",
+            "korean": "해결, 결말"
+        },
+        {
+            "spanish": "clímax",
+            "korean": "절정"
+        },
+        {
+            "spanish": "sujetar",
+            "korean": "지배하다, 억압하다"
+        },
+        {
+            "spanish": "humillar",
+            "korean": "(머리를)숙이다, 굴복시키다"
+        },
+        {
+            "spanish": "someter",
+            "korean": "정복하다, 굴복시키다"
+        },
+        {
+            "spanish": "consumar",
+            "korean": "완수하다, 이행하다"
+        },
+        {
+            "spanish": "tesoro",
+            "korean": "보물"
+        },
+        {
+            "spanish": "partidario",
+            "korean": "지지자"
+        },
+        {
+            "spanish": "concesión",
+            "korean": "(정부가 준는)권리, 채굴권"
+        },
+        {
+            "spanish": "revocar",
+            "korean": "취소하다, 철회하다"
+        },
+        {
+            "spanish": "retroceder",
+            "korean": "후퇴하다"
+        },
+        {
+            "spanish": "en espera de",
+            "korean": "~를 기다리며"
+        },
+        {
+            "spanish": "tropezar",
+            "korean": "발이 걸려 넘어지다, 부딪히다"
+        },
+        {
+            "spanish": "presencia",
+            "korean": "존재, 출현"
+        },
+        {
+            "spanish": "teocrático",
+            "korean": "신권정치"
+        },
+        {
+            "spanish": "autónomo",
+            "korean": "자율적인, 자립한"
+        },
+        {
+            "spanish": "independiente",
+            "korean": "독립의, 독립적인"
+        },
+        {
+            "spanish": "nómada",
+            "korean": "유목민"
+        },
+        {
+            "spanish": "trueque",
+            "korean": "물물교환"
+        },
+        {
+            "spanish": "contexto",
+            "korean": "문맥, 상황, 배경"
+        },
+        {
+            "spanish": "flecha",
+            "korean": "화살, 화살표"
+        },
+        {
+            "spanish": "carente",
+            "korean": "(무엇이)없는, 결핍된, 빠진"
+        },
+        {
+            "spanish": "hallazgo",
+            "korean": "발견, 습득물"
+        },
+        {
+            "spanish": "subsistir",
+            "korean": "생존하다, 존속하다"
+        },
+        {
+            "spanish": "foco",
+            "korean": "전구, 초점 / 중심, 근원"
+        },
+        {
+            "spanish": "animal doméstico",
+            "korean": "가축"
+        },
+        {
+            "spanish": "secuencia",
+            "korean": "연속, 계속"
+        },
+        {
+            "spanish": "demostración",
+            "korean": "논증, 증명"
+        },
+        {
+            "spanish": "verificable",
+            "korean": "확인할 수 있는"
+        },
+        {
+            "spanish": "hipótesis",
+            "korean": "가설, 가정, 추측"
+        },
+        {
+            "spanish": "encaramar",
+            "korean": "올리다. 끌어올리다. 오르다"
+        },
+        {
+            "spanish": "colecta",
+            "korean": "모금"
+        },
+        {
+            "spanish": "postular",
+            "korean": "요구하다, 모금하다"
+        },
+        {
+            "spanish": "aseverar",
+            "korean": "확언하다, 단언하다"
+        },
+        {
+            "spanish": "sinfín",
+            "korean": "무수함, 기계톱"
+        },
+        {
+            "spanish": "topo",
+            "korean": "두더지, 눈치없는, 눈치없는 사람"
+        },
+        {
+            "spanish": "mandíbula",
+            "korean": "턱, 주둥이"
+        },
+        {
+            "spanish": "anestesia",
+            "korean": "마취약"
+        },
+        {
+            "spanish": "murmurar",
+            "korean": "중얼거리다"
+        },
+        {
+            "spanish": "pizca",
+            "korean": "미량, 소량"
+        },
+        {
+            "spanish": "seco",
+            "korean": "단 맛이 없는, 마른"
+        },
+        {
+            "spanish": "roncar",
+            "korean": "코를 골다"
+        },
+        {
+            "spanish": "enganchar",
+            "korean": "잠그다, 매다, 걸다"
+        },
+        {
+            "spanish": "resistir",
+            "korean": "참다, 견디다"
+        },
+        {
+            "spanish": "fórmula",
+            "korean": "서식, 방식, 방법, 처방, 화학식"
+        },
+        {
+            "spanish": "embadurnar",
+            "korean": "바르다, 칠하다"
+        },
+        {
+            "spanish": "tambalearse",
+            "korean": "넘어질 것처럼 비틀거리다"
+        },
+        {
+            "spanish": "aturdido",
+            "korean": "넋을 잃은, 덜렁대는"
+        },
+        {
+            "spanish": "astuto",
+            "korean": "교활한, 간사한"
+        },
+        {
+            "spanish": "recibir",
+            "korean": "수취하다, 자격을 얻다, 받다"
+        },
+        {
+            "spanish": "arriesgar",
+            "korean": "위험을 무릅쓰다, 감히 하다, 모험을 하다"
+        },
+        {
+            "spanish": "apretar",
+            "korean": "심하게 다루다, 줄이다, 조이다"
+        },
+        {
+            "spanish": "ni siquiera",
+            "korean": "~ 조차도 (...아니다)"
+        },
+        {
+            "spanish": "chocar",
+            "korean": "충돌하다, 부딪치다. 싸우다. 반목하다, 충돌시키다"
+        },
+        {
+            "spanish": "esperanza",
+            "korean": "희망, 기대"
+        },
+        {
+            "spanish": "chapa",
+            "korean": "문 자물통, 자물쇠"
+        },
+        {
+            "spanish": "cometa",
+            "korean": "혜성"
+        },
+        {
+            "spanish": "popularizar",
+            "korean": "보급시키다, 대중화하다"
+        },
+        {
+            "spanish": "fragmento",
+            "korean": "파편, 단편"
+        },
+        {
+            "spanish": "acreditar",
+            "korean": "신용하다, 신임하다, 보증하다"
+        },
+        {
+            "spanish": "proponer",
+            "korean": "제안하다, 결정하다"
+        },
+        {
+            "spanish": "inducir",
+            "korean": "이끌어들이다, 부추기다"
+        },
+        {
+            "spanish": "pacto",
+            "korean": "협정, 조약, 협상"
+        },
+        {
+            "spanish": "tomar postura",
+            "korean": "취하다"
+        },
+        {
+            "spanish": "planteamiento",
+            "korean": "입안, 문제 제기"
+        },
+        {
+            "spanish": "proveer",
+            "korean": "준비하다, 공급하다"
+        },
+        {
+            "spanish": "sustentar",
+            "korean": "공급하다, 유지하다, 지지하다"
+        },
+        {
+            "spanish": "diputado",
+            "korean": "국회의원, 하원의원"
+        },
+        {
+            "spanish": "por unanimidad",
+            "korean": "만장일치로"
+        },
+        {
+            "spanish": "tribunal",
+            "korean": "재판소, 법정"
+        },
+        {
+            "spanish": "duende",
+            "korean": "귀신, 요괴, 불가사의한 매력"
+        },
+        {
+            "spanish": "cámara",
+            "korean": "(집의)거실, 회의, 카메라"
+        },
+        {
+            "spanish": "modificación",
+            "korean": "수정, 개정"
+        },
+        {
+            "spanish": "modificar",
+            "korean": "수정하다, 변경하다"
+        },
+        {
+            "spanish": "senador",
+            "korean": "상원의원"
+        },
+        {
+            "spanish": "minuta",
+            "korean": "초안, 초고"
+        },
+        {
+            "spanish": "alertar",
+            "korean": "(에 대해)경고하다"
+        },
+        {
+            "spanish": "porción",
+            "korean": "부분, 몫, 할당"
+        },
+        {
+            "spanish": "aclarar",
+            "korean": "맑게하다, 묽게하다 / 해명하다"
+        },
+        {
+            "spanish": "barril",
+            "korean": "통, 항아리 / (석유)배럴"
+        },
+        {
+            "spanish": "sesión",
+            "korean": "회의"
+        },
+        {
+            "spanish": "saqueador",
+            "korean": "약탈자, 강도"
+        },
+        {
+            "spanish": "destruir",
+            "korean": "파괴하다, 부수다"
+        },
+        {
+            "spanish": "tropa",
+            "korean": "집단, 무리 / 군대"
+        },
+        {
+            "spanish": "suplicar",
+            "korean": "간청하다, 애원하다"
+        },
+        {
+            "spanish": "canela",
+            "korean": "계피"
+        },
+        {
+            "spanish": "camote",
+            "korean": "고구마, ([멕시코](비속어)남자성기)"
+        },
+        {
+            "spanish": "multitud",
+            "korean": "다수, 군중"
+        },
+        {
+            "spanish": "bastión",
+            "korean": "보루, 요새, 기본이념"
+        },
+        {
+            "spanish": "desplome",
+            "korean": "폭락"
+        },
+        {
+            "spanish": "rendimiento",
+            "korean": "수익, 효율"
+        },
+        {
+            "spanish": "responsabilidad",
+            "korean": "책임"
+        },
+        {
+            "spanish": "coordinar",
+            "korean": "통제하다, 조율하다"
+        },
+        {
+            "spanish": "precisar",
+            "korean": "명확히하다, 강요하다"
+        },
+        {
+            "spanish": "complementario",
+            "korean": "보충하는"
+        },
+        {
+            "spanish": "sugerir",
+            "korean": "제안하다, 권하다"
+        },
+        {
+            "spanish": "concepción",
+            "korean": "개념"
+        },
+        {
+            "spanish": "localizar",
+            "korean": "찾아내다"
+        },
+        {
+            "spanish": "sustancia",
+            "korean": "물질"
+        },
+        {
+            "spanish": "superficie",
+            "korean": "표면, 면"
+        },
+        {
+            "spanish": "vapor",
+            "korean": "수증기, 김"
+        },
+        {
+            "spanish": "cuerpo",
+            "korean": "물체"
+        },
+        {
+            "spanish": "impregnar",
+            "korean": "스며들다, 적시다"
+        },
+        {
+            "spanish": "universal",
+            "korean": "전세계적인, 세계의, 우주의, 일반적인"
+        },
+        {
+            "spanish": "tener presente",
+            "korean": "명심하다"
+        },
+        {
+            "spanish": "acuoso",
+            "korean": "수분이 많은, 물의"
+        },
+        {
+            "spanish": "contradicción",
+            "korean": "모순"
+        },
+        {
+            "spanish": "hielera",
+            "korean": "얼음통"
+        },
+        {
+            "spanish": "errar",
+            "korean": "빗나가다, 잘못하다"
+        },
+        {
+            "spanish": "sentido común",
+            "korean": "상식"
+        },
+        {
+            "spanish": "mientras",
+            "korean": "~하는 동안"
+        },
+        {
+            "spanish": "solidificar",
+            "korean": "응고시키다, 고체화시키다"
+        },
+        {
+            "spanish": "cuajar",
+            "korean": "굳게하다, 응고시키다"
+        },
+        {
+            "spanish": "congelación",
+            "korean": "동결, 냉동"
+        },
+        {
+            "spanish": "descongelación",
+            "korean": "해동"
+        },
+        {
+            "spanish": "propenso",
+            "korean": "(+a)하는 경향이 있는, 하기 쉬운"
+        },
+        {
+            "spanish": "burbuja",
+            "korean": "거품"
+        },
+        {
+            "spanish": "existencia",
+            "korean": "존재, 출현"
+        },
+        {
+            "spanish": "actuar",
+            "korean": "일하다, 작용하다, 효과를 내다"
+        },
+        {
+            "spanish": "encaminar",
+            "korean": "길을 가르쳐주다, 안내하다"
+        },
+        {
+            "spanish": "flotar",
+            "korean": "뜨다, 물에 뜨다"
+        },
+        {
+            "spanish": "capa",
+            "korean": "층, 겹"
+        },
+        {
+            "spanish": "lentitud",
+            "korean": "느림, 완만함"
+        },
+        {
+            "spanish": "superior",
+            "korean": "상부의 <-> 하부의"
+        },
+        {
+            "spanish": "de golpe",
+            "korean": "갑자기"
+        },
+        {
+            "spanish": "detener",
+            "korean": "멈추다, 체포하다"
+        },
+        {
+            "spanish": "detenido",
+            "korean": "체포된, 구금된"
+        },
+        {
+            "spanish": "convulsionar",
+            "korean": "경련을 일으키게 하다"
+        },
+        {
+            "spanish": "sacerdote",
+            "korean": "성직자, 사제"
+        },
+        {
+            "spanish": "jade",
+            "korean": "[보석]옥"
+        },
+        {
+            "spanish": "ofrendar",
+            "korean": "(하늘에)봉납하다, 바치다"
+        },
+        {
+            "spanish": "tumba",
+            "korean": "묘, 묘지"
+        },
+        {
+            "spanish": "funerario",
+            "korean": "장례의"
+        },
+        {
+            "spanish": "ataúd",
+            "korean": "관"
+        },
+        {
+            "spanish": "colosal",
+            "korean": "거대한"
+        },
+        {
+            "spanish": "morfo",
+            "korean": "형태"
+        },
+        {
+            "spanish": "rasgo",
+            "korean": "특징, 생김새"
+        },
+        {
+            "spanish": "colmillo",
+            "korean": "송곳니"
+        },
+        {
+            "spanish": "estela",
+            "korean": "비석, 항적, 비행기 구름"
+        },
+        {
+            "spanish": "caparazón",
+            "korean": "등껍질, 갑각"
+        },
+        {
+            "spanish": "concha",
+            "korean": "조개껍데기, 패각"
+        },
+        {
+            "spanish": "influir",
+            "korean": "영향을 미치다"
+        },
+        {
+            "spanish": "hegemonía",
+            "korean": "패권, 주도권, 헤게모니"
+        },
+        {
+            "spanish": "colapso",
+            "korean": "(단체, 조직, 등의) 붕괴, 쇠퇴 / (교통 등의) 마비"
+        },
+        {
+            "spanish": "orientación",
+            "korean": "위치, 방향 / 적응"
+        },
+        {
+            "spanish": "carretera",
+            "korean": "도로, 차도"
+        },
+        {
+            "spanish": "cartera",
+            "korean": "지갑"
+        },
+        {
+            "spanish": "acueducto",
+            "korean": "수로"
+        },
+        {
+            "spanish": "sabiduría",
+            "korean": "학식, 지식"
+        },
+        {
+            "spanish": "perdurar",
+            "korean": "존속하다, 잔존하다"
+        },
+        {
+            "spanish": "fertilizar",
+            "korean": "(땅을)비옥하게 하다"
+        },
+        {
+            "spanish": "aritmético",
+            "korean": "산수의"
+        },
+        {
+            "spanish": "fracción",
+            "korean": "[수학] 분수"
+        },
+        {
+            "spanish": "estación",
+            "korean": "계절, 역, 정거장, 방송국, 관광ㅣ"
+        },
+        {
+            "spanish": "efigie",
+            "korean": "초상, 상, 이미지"
+        },
+        {
+            "spanish": "temático",
+            "korean": "주제의"
+        },
+        {
+            "spanish": "épico",
+            "korean": "서사시의, 영웅시의"
+        },
+        {
+            "spanish": "ligado",
+            "korean": "(+a)(~와)관계가 있는"
+        },
+        {
+            "spanish": "proporción",
+            "korean": "조화, 균형, 비례"
+        },
+        {
+            "spanish": "palma",
+            "korean": "야자나무, 손바닥"
+        },
+        {
+            "spanish": "obstruir",
+            "korean": "막다, 차단하다"
+        },
+        {
+            "spanish": "estar encerrado en",
+            "korean": "~에 갇히다, 틀어박히다"
+        },
+        {
+            "spanish": "moler",
+            "korean": "빻다, 가루로 만들다, 녹초로 만들다"
+        },
+        {
+            "spanish": "letrero",
+            "korean": "간판, 게시"
+        },
+        {
+            "spanish": "pleno",
+            "korean": "완전한, 가득한, 총회"
+        },
+        {
+            "spanish": "domesticar",
+            "korean": "(야생동물을)길들이다, 가축으로 만들다"
+        },
+        {
+            "spanish": "intuición",
+            "korean": "직감, 직관"
+        },
+        {
+            "spanish": "seducir",
+            "korean": "유혹하다, 꼬시다"
+        },
+        {
+            "spanish": "circular",
+            "korean": "원의, 원형의, 순회하다, 돌다"
+        },
+        {
+            "spanish": "círculo",
+            "korean": "원"
+        },
+        {
+            "spanish": "cuadrado",
+            "korean": "사각형, 사각형의"
+        },
+        {
+            "spanish": "triángulo",
+            "korean": "삼각형, 삼각형의"
+        },
+        {
+            "spanish": "sílaba",
+            "korean": "음절"
+        },
+        {
+            "spanish": "subterráneo",
+            "korean": "지하의, 지하실"
+        },
+        {
+            "spanish": "ocupación",
+            "korean": "직업"
+        },
+        {
+            "spanish": "dar una vuelta por el parque",
+            "korean": "공원을 한바퀴 돌다"
+        },
+        {
+            "spanish": "impartir",
+            "korean": "주다, 전하다, 가르치다"
+        },
+        {
+            "spanish": "posgrado",
+            "korean": "대학원"
+        },
+        {
+            "spanish": "optativo",
+            "korean": "선택할 수 있는, f. 선택과목"
+        },
+        {
+            "spanish": "promover",
+            "korean": "촉진(장려,진흥)하다, 일으키다, 승진시키다"
+        },
+        {
+            "spanish": "genuino",
+            "korean": "진정한, 진짜의 / 독특한"
+        },
+        {
+            "spanish": "exigir",
+            "korean": "요구하다, 필요로하다"
+        },
+        {
+            "spanish": "disciplinado",
+            "korean": "규율이 바른"
+        },
+        {
+            "spanish": "disciplina",
+            "korean": "규율, 통제"
+        },
+        {
+            "spanish": "veterinario",
+            "korean": "수의학의, 수의사"
+        },
+        {
+            "spanish": "embargar",
+            "korean": "방해하다, [법률]압류하다"
+        },
+        {
+            "spanish": "encerrar",
+            "korean": "가두다, 감금하다"
+        },
+        {
+            "spanish": "integración",
+            "korean": "통합, 완성"
+        },
+        {
+            "spanish": "afín",
+            "korean": "인접한, 유사한"
+        },
+        {
+            "spanish": "establecer",
+            "korean": "(시설이나 기관 등을)설립하다, (제도 등을)확립하다, 제정하다, (계획이나 서류 등을)작성하다, 준비하다"
+        },
+        {
+            "spanish": "entregarse",
+            "korean": "(에)몰두하다, 빠지다, 헌신하다"
+        },
+        {
+            "spanish": "entidad",
+            "korean": "기관, 단체"
+        },
+        {
+            "spanish": "introducción",
+            "korean": "삽입, (새로운 사물이나 사람의)도입, 소개"
+        },
+        {
+            "spanish": "relevante",
+            "korean": "걸출한, 중요한"
+        },
+        {
+            "spanish": "bélico",
+            "korean": "전쟁의"
+        },
+        {
+            "spanish": "acto",
+            "korean": "행동, 행위"
+        },
+        {
+            "spanish": "jurídico",
+            "korean": "법적인, 법률의"
+        },
+        {
+            "spanish": "con buenos modales",
+            "korean": "예의바르게, 정중히"
+        },
+        {
+            "spanish": "régimen",
+            "korean": "체제, 제도, 규칙, 방식, 다이어트"
+        },
+        {
+            "spanish": "vigencia",
+            "korean": "효력"
+        },
+        {
+            "spanish": "tener vigencia",
+            "korean": "유효하다"
+        },
+        {
+            "spanish": "vigente",
+            "korean": "(법률이)효력이 있는 / 현행의, 시행중인"
+        },
+        {
+            "spanish": "moral",
+            "korean": "도덕, 윤리"
+        },
+        {
+            "spanish": "criterio",
+            "korean": "(판단이나 기준의)기준, 척도"
+        },
+        {
+            "spanish": "tratado",
+            "korean": "조약, 협정, 체결"
+        },
+        {
+            "spanish": "buque",
+            "korean": "선박"
+        },
+        {
+            "spanish": "aeronave",
+            "korean": "항공기"
+        },
+        {
+            "spanish": "sísmico",
+            "korean": "지진의"
+        },
+        {
+            "spanish": "ley de extranjería",
+            "korean": "외국인 등록법"
+        },
+        {
+            "spanish": "doctrina",
+            "korean": "가르침, 교육 / (특정 종파의)교리"
+        },
+        {
+            "spanish": "conflicto",
+            "korean": "분쟁, 투쟁 / (의견, 이해)충돌, 불일치"
+        },
+        {
+            "spanish": "corteza",
+            "korean": "외피, 겉껍질, 표면"
+        },
+        {
+            "spanish": "terrestre",
+            "korean": "지구의"
+        },
+        {
+            "spanish": "magnitud",
+            "korean": "크기, (지진 단위)규모"
+        },
+        {
+            "spanish": "erupción",
+            "korean": "(화산)폭발, 분화"
+        },
+        {
+            "spanish": "meteorito",
+            "korean": "운석"
+        },
+        {
+            "spanish": "explosión",
+            "korean": "폭발"
+        },
+        {
+            "spanish": "provecho",
+            "korean": "이익, 이윤"
+        },
+        {
+            "spanish": "abusar",
+            "korean": "(+de)나쁘게 사용하다, 악용하다, 남용하다, (+en)무리하게 요구하다, 도가 지나치다"
+        },
+        {
+            "spanish": "placa",
+            "korean": "(지각)판"
+        },
+        {
+            "spanish": "tectónico",
+            "korean": "건물의, 건축의, 구조 지질학, 구조학"
+        },
+        {
+            "spanish": "lubricante",
+            "korean": "미끄럽게하는, 윤활제"
+        },
+        {
+            "spanish": "originar",
+            "korean": "일으키다, 초래하다, 발생하다, 일어나다"
+        },
+        {
+            "spanish": "rozar",
+            "korean": "스치다"
+        },
+        {
+            "spanish": "roca liquida",
+            "korean": "용암"
+        },
+        {
+            "spanish": "derretir",
+            "korean": "녹이다, 용해시키다"
+        },
+        {
+            "spanish": "cordillera",
+            "korean": "산맥"
+        },
+        {
+            "spanish": "falla",
+            "korean": "흠, 결점 / [지질]단층"
+        },
+        {
+            "spanish": "emitir",
+            "korean": "발하다, 방출하다, 배출하다"
+        },
+        {
+            "spanish": "ya sea",
+            "korean": "~이든 ~이거나"
+        },
+        {
+            "spanish": "sumergir",
+            "korean": "물에 잠그다, 잠수시키다, 잠수하다, 잠기다 / 생각에 잠기다"
+        },
+        {
+            "spanish": "brusco",
+            "korean": "갑작스러운, 난폭한, 거친"
+        },
+        {
+            "spanish": "deuda",
+            "korean": "빚, 채무"
+        },
+        {
+            "spanish": "colisión",
+            "korean": "충돌"
+        },
+        {
+            "spanish": "inquietar",
+            "korean": "불안하게 하다, 교란시키다"
+        },
+        {
+            "spanish": "agitar",
+            "korean": "젓다, 흔들다 / 불안하게 하다 / 선동하다"
+        },
+        {
+            "spanish": "turbar",
+            "korean": "당황하게 하다, 어지럽히다, 동요시키다"
+        },
+        {
+            "spanish": "perturbar",
+            "korean": "어지럽히다, 교란시키다, 동요시키다"
+        },
+        {
+            "spanish": "sosiego",
+            "korean": "평안, 고요"
+        },
+        {
+            "spanish": "columna",
+            "korean": "기둥, 지주, 받침"
+        },
+        {
+            "spanish": "ruina",
+            "korean": "붕괴, 몰락, 멸망"
+        },
+        {
+            "spanish": "repentino",
+            "korean": "갑작스러운, 돌연한"
+        },
+        {
+            "spanish": "acceder",
+            "korean": "동의하다, 승낙하다, 받아들이다"
+        },
+        {
+            "spanish": "obsceno",
+            "korean": "음란한, 음탕한"
+        },
+        {
+            "spanish": "sin rodeos",
+            "korean": "단도직입적으로"
+        },
+        {
+            "spanish": "áspero",
+            "korean": "거친, 울퉁불퉁한"
+        },
+        {
+            "spanish": "nuca",
+            "korean": "목덜미, 뒤통수"
+        },
+        {
+            "spanish": "frotar",
+            "korean": "문지르다"
+        },
+        {
+            "spanish": "decente",
+            "korean": "바른, 정직한"
+        },
+        {
+            "spanish": "bienes raíces",
+            "korean": "부동산"
+        },
+        {
+            "spanish": "largar",
+            "korean": "놓아주다, 가버리다 줄행랑치다"
+        },
+        {
+            "spanish": "cajuela",
+            "korean": "트렁크"
+        },
+        {
+            "spanish": "mal augurio",
+            "korean": "불길한 징조"
+        },
+        {
+            "spanish": "adivinanza",
+            "korean": "수수께끼"
+        },
+        {
+            "spanish": "túnel",
+            "korean": "지하도, 굴, 터널"
+        },
+        {
+            "spanish": "registrar",
+            "korean": "등록하다, 기록하다, 기록되다"
+        },
+        {
+            "spanish": "desarticular",
+            "korean": "(관절을)삐다, 분해하다, 파괴하다"
+        },
+        {
+            "spanish": "contraatacar",
+            "korean": "반격하다, 역습하다"
+        },
+        {
+            "spanish": "interino",
+            "korean": "대행의, 대리의 / 대리, 대행"
+        },
+        {
+            "spanish": "patria",
+            "korean": "조국"
+        },
+        {
+            "spanish": "rendija",
+            "korean": "틈, 빈틈"
+        },
+        {
+            "spanish": "estar involucrado",
+            "korean": "연루되다, 관계하다"
+        },
+        {
+            "spanish": "arrestar",
+            "korean": "체포하다"
+        },
+        {
+            "spanish": "arrancar",
+            "korean": "뽑다, 뽑아내다"
+        },
+        {
+            "spanish": "jadear",
+            "korean": "숨을 헐떡이다"
+        },
+        {
+            "spanish": "concierto",
+            "korean": "(의견)일치, 조정, 조화 / 콘서트"
+        },
+        {
+            "spanish": "soplón",
+            "korean": "밀고자, 경찰 앞잡이"
+        },
+        {
+            "spanish": "presentir",
+            "korean": "예감하다"
+        },
+        {
+            "spanish": "confiscar",
+            "korean": "압수하다, 몰수하다"
+        },
+        {
+            "spanish": "pudrir",
+            "korean": "썩히다, 썩다, 부패하다"
+        },
+        {
+            "spanish": "pegar un tiro",
+            "korean": "총을 쏘다"
+        },
+        {
+            "spanish": "delatar",
+            "korean": "밀고하다, 고발하다"
+        },
+        {
+            "spanish": "mear",
+            "korean": "오줌을 누다"
+        },
+        {
+            "spanish": "frenar",
+            "korean": "브레이크 걸다, 억제하다"
+        },
+        {
+            "spanish": "camarada",
+            "korean": "동지, 친구"
+        },
+        {
+            "spanish": "no hay pierde",
+            "korean": "발견하기 쉽다"
+        },
+        {
+            "spanish": "carpeta",
+            "korean": "폴더, 파일, 서류철, 상보"
+        },
+        {
+            "spanish": "aterrizar",
+            "korean": "(비행기가)착륙하다, 땅에 도착하다"
+        },
+        {
+            "spanish": "coordenado",
+            "korean": "좌표"
+        },
+        {
+            "spanish": "traidor",
+            "korean": "배신자"
+        },
+        {
+            "spanish": "brasero",
+            "korean": "화로, 아궁이"
+        },
+        {
+            "spanish": "quid",
+            "korean": "요점, 핵심"
+        },
+        {
+            "spanish": "amarrar",
+            "korean": "묶다, 매다, 약혼하다"
+        },
+        {
+            "spanish": "tolerar",
+            "korean": "인내하다, 참다, 용서하다"
+        },
+        {
+            "spanish": "recompensa",
+            "korean": "보수, 보상, 포상"
+        },
+        {
+            "spanish": "esclavo",
+            "korean": "노예, 노예같은"
+        },
+        {
+            "spanish": "impedimento",
+            "korean": "방해, 방해물"
+        },
+        {
+            "spanish": "prevenir",
+            "korean": "예방하다, 준비하다"
+        },
+        {
+            "spanish": "estar que truena",
+            "korean": "잔뜩 화가 나다"
+        },
+        {
+            "spanish": "integrante",
+            "korean": "구성요소의, 구성원, 일원"
+        },
+        {
+            "spanish": "reñir",
+            "korean": "말다툼하다, 싸우다, 다투다"
+        },
+        {
+            "spanish": "agresor",
+            "korean": "가해자, 공격하는, 습격하는"
+        },
+        {
+            "spanish": "huir",
+            "korean": "도망치다, 도주하다"
+        },
+        {
+            "spanish": "herir",
+            "korean": "상처를 입히다, 다치다, 부상당하다"
+        },
+        {
+            "spanish": "indagar",
+            "korean": "수사하다, 조사하다"
+        },
+        {
+            "spanish": "inmediación",
+            "korean": "근접, (복수)부근"
+        },
+        {
+            "spanish": "parabólico/a",
+            "korean": "포물선의"
+        },
+        {
+            "spanish": "expirar",
+            "korean": "죽다, (기한이)끝나다"
+        },
+        {
+            "spanish": "formular",
+            "korean": "표현하다, 표명하다, 작성하다"
+        },
+        {
+            "spanish": "evaluar",
+            "korean": "감정하다, 견적하다, 평가하다"
+        },
+        {
+            "spanish": "designar",
+            "korean": "지정하다, 임명하다"
+        },
+        {
+            "spanish": "manguera",
+            "korean": "(살수나 소방용의)호스"
+        },
+        {
+            "spanish": "empapar",
+            "korean": "(액체를)적시다, 스며들게하다, 적셔지다, 베어들다"
+        },
+        {
+            "spanish": "recesión",
+            "korean": "후퇴, 하강, [경제] 불황,불경기"
+        },
+        {
+            "spanish": "represivo",
+            "korean": "억압적인, 탄압적인"
+        },
+        {
+            "spanish": "juicio",
+            "korean": "판단, 견해, 재판"
+        },
+        {
+            "spanish": "emboscarse",
+            "korean": "매복하다, 잠복하다"
+        },
+        {
+            "spanish": "desplazar",
+            "korean": "이동시키다, 옮기다, 이동하다"
+        },
+        {
+            "spanish": "deidad",
+            "korean": "신"
+        },
+        {
+            "spanish": "poniente",
+            "korean": "서쪽"
+        },
+        {
+            "spanish": "vasallaje",
+            "korean": "신하"
+        },
+        {
+            "spanish": "águila",
+            "korean": "독수리, 사기꾼, 매가오리"
+        },
+        {
+            "spanish": "alianza",
+            "korean": "동맹, 연합, 조약"
+        },
+        {
+            "spanish": "manejable",
+            "korean": "다루기 쉬운, 취급하기 쉬운"
+        },
+        {
+            "spanish": "ladrillo",
+            "korean": "벽돌"
+        },
+        {
+            "spanish": "intoxicarse",
+            "korean": "중독되다"
+        },
+        {
+            "spanish": "ascender",
+            "korean": "오르다, 승진하다"
+        },
+        {
+            "spanish": "hundir",
+            "korean": "가라앉히다, 침몰시키다, 가라앉다, 침몰하다"
+        },
+        {
+            "spanish": "contar con",
+            "korean": "~을 갖다"
+        },
+        {
+            "spanish": "fricción",
+            "korean": "마찰"
+        },
+        {
+            "spanish": "viscoso",
+            "korean": "진득진득한, 끈적끈적한"
+        },
+        {
+            "spanish": "masa",
+            "korean": "질량"
+        },
+        {
+            "spanish": "superficie",
+            "korean": "면, 넓이"
+        },
+        {
+            "spanish": "volumen",
+            "korean": "부피"
+        },
+        {
+            "spanish": "campo eléctrico",
+            "korean": "전기장"
+        },
+        {
+            "spanish": "molécula",
+            "korean": "분자"
+        },
+        {
+            "spanish": "mecánica",
+            "korean": "역학"
+        },
+        {
+            "spanish": "cinemánica",
+            "korean": "운동학"
+        },
+        {
+            "spanish": "trayectoria",
+            "korean": "궤적, 탄도"
+        },
+        {
+            "spanish": "intervalo",
+            "korean": "(장소,시간)간격, 기간"
+        },
+        {
+            "spanish": "gráfico/a",
+            "korean": "그래프, 도표"
+        },
+        {
+            "spanish": "sombreado",
+            "korean": "그늘진, [컴퓨터]음영"
+        },
+        {
+            "spanish": "rueda de la fortuna",
+            "korean": "관람차"
+        },
+        {
+            "spanish": "razón",
+            "korean": "[수학] 비례"
+        },
+        {
+            "spanish": "propiedad",
+            "korean": "소유권, 재산 / 특성, 속성"
+        },
+        {
+            "spanish": "encubrir",
+            "korean": "숨기다, 은닉하다"
+        }
+    ]
+}

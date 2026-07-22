@@ -1,0 +1,1720 @@
+{
+    "japanese_vocabulary": [
+        {
+            "word": "愛妻家",
+            "meaning": "애처가"
+        },
+        {
+            "japanese": "行く",
+            "korean": "가다"
+        },
+        {
+            "japanese": "見る",
+            "korean": "보다"
+        },
+        {
+            "japanese": "多い",
+            "korean": "많다"
+        },
+        {
+            "japanese": "家",
+            "korean": "집"
+        },
+        {
+            "japanese": "これ",
+            "korean": "이것"
+        },
+        {
+            "japanese": "それ",
+            "korean": "그것"
+        },
+        {
+            "japanese": "私",
+            "korean": "나"
+        },
+        {
+            "japanese": "仕事",
+            "korean": "일, 직업"
+        },
+        {
+            "japanese": "いつ",
+            "korean": "언제"
+        },
+        {
+            "japanese": "する",
+            "korean": "하다"
+        },
+        {
+            "japanese": "出る",
+            "korean": "나가다"
+        },
+        {
+            "japanese": "使う",
+            "korean": "사용하다"
+        },
+        {
+            "japanese": "所",
+            "korean": "곳, 장소"
+        },
+        {
+            "japanese": "作る",
+            "korean": "만들다"
+        },
+        {
+            "japanese": "思う",
+            "korean": "생각하다"
+        },
+        {
+            "japanese": "持つ",
+            "korean": "가지다"
+        },
+        {
+            "japanese": "買う",
+            "korean": "사다"
+        },
+        {
+            "japanese": "時間",
+            "korean": "시간"
+        },
+        {
+            "japanese": "知る",
+            "korean": "알다"
+        },
+        {
+            "japanese": "同じ",
+            "korean": "같은"
+        },
+        {
+            "japanese": "今",
+            "korean": "지금"
+        },
+        {
+            "japanese": "新しい",
+            "korean": "새로운"
+        },
+        {
+            "japanese": "なる",
+            "korean": "되다"
+        },
+        {
+            "japanese": "まだ",
+            "korean": "아직"
+        },
+        {
+            "japanese": "あと",
+            "korean": "후, 뒤"
+        },
+        {
+            "japanese": "聞く",
+            "korean": "듣다, 묻다"
+        },
+        {
+            "japanese": "言う",
+            "korean": "말하다"
+        },
+        {
+            "japanese": "少ない",
+            "korean": "적다"
+        },
+        {
+            "japanese": "高い",
+            "korean": "높다, 비싸다"
+        },
+        {
+            "japanese": "子供",
+            "korean": "아이"
+        },
+        {
+            "japanese": "そう",
+            "korean": "그렇다"
+        },
+        {
+            "japanese": "もう",
+            "korean": "이미, 벌써"
+        },
+        {
+            "japanese": "学生",
+            "korean": "학생"
+        },
+        {
+            "japanese": "熱い",
+            "korean": "뜨겁다"
+        },
+        {
+            "japanese": "どうぞ",
+            "korean": "어서, 부디"
+        },
+        {
+            "japanese": "午後",
+            "korean": "오후"
+        },
+        {
+            "japanese": "長い",
+            "korean": "길다"
+        },
+        {
+            "japanese": "本",
+            "korean": "책"
+        },
+        {
+            "japanese": "今年",
+            "korean": "올해"
+        },
+        {
+            "japanese": "よく",
+            "korean": "잘, 자주"
+        },
+        {
+            "japanese": "彼女",
+            "korean": "그녀"
+        },
+        {
+            "japanese": "どう",
+            "korean": "어떻게"
+        },
+        {
+            "japanese": "言葉",
+            "korean": "말, 언어"
+        },
+        {
+            "japanese": "顔",
+            "korean": "얼굴"
+        },
+        {
+            "japanese": "終わる",
+            "korean": "끝나다"
+        },
+        {
+            "japanese": "一つ",
+            "korean": "하나"
+        },
+        {
+            "japanese": "あげる",
+            "korean": "주다"
+        },
+        {
+            "japanese": "こう",
+            "korean": "이렇게"
+        },
+        {
+            "japanese": "学校",
+            "korean": "학교"
+        },
+        {
+            "japanese": "くれる",
+            "korean": "주다"
+        },
+        {
+            "japanese": "始める",
+            "korean": "시작하다"
+        },
+        {
+            "japanese": "起きる",
+            "korean": "일어나다"
+        },
+        {
+            "japanese": "春",
+            "korean": "봄"
+        },
+        {
+            "japanese": "午前",
+            "korean": "오전"
+        },
+        {
+            "japanese": "別",
+            "korean": "다른"
+        },
+        {
+            "japanese": "どこ",
+            "korean": "어디"
+        },
+        {
+            "japanese": "部屋",
+            "korean": "방"
+        },
+        {
+            "japanese": "若い",
+            "korean": "젊다"
+        },
+        {
+            "japanese": "車",
+            "korean": "자동차"
+        },
+        {
+            "japanese": "置く",
+            "korean": "놓다"
+        },
+        {
+            "japanese": "食べる",
+            "korean": "먹다"
+        },
+        {
+            "japanese": "手",
+            "korean": "손"
+        },
+        {
+            "japanese": "来る",
+            "korean": "오다"
+        },
+        {
+            "japanese": "人",
+            "korean": "사람"
+        },
+        {
+            "japanese": "大きい",
+            "korean": "크다"
+        },
+        {
+            "japanese": "小さい",
+            "korean": "작다"
+        },
+        {
+            "japanese": "水",
+            "korean": "물"
+        },
+        {
+            "japanese": "話す",
+            "korean": "이야기하다"
+        },
+        {
+            "japanese": "読む",
+            "korean": "읽다"
+        },
+        {
+            "japanese": "書く",
+            "korean": "쓰다"
+        },
+        {
+            "japanese": "歩く",
+            "korean": "걷다"
+        },
+        {
+            "japanese": "走る",
+            "korean": "달리다"
+        },
+        {
+            "japanese": "立つ",
+            "korean": "서다"
+        },
+        {
+            "japanese": "座る",
+            "korean": "앉다"
+        },
+        {
+            "japanese": "寝る",
+            "korean": "자다"
+        },
+        {
+            "japanese": "起こす",
+            "korean": "깨우다"
+        },
+        {
+            "japanese": "頭",
+            "korean": "머리"
+        },
+        {
+            "japanese": "目",
+            "korean": "눈"
+        },
+        {
+            "japanese": "耳",
+            "korean": "귀"
+        },
+        {
+            "japanese": "口",
+            "korean": "입"
+        },
+        {
+            "japanese": "足",
+            "korean": "발"
+        },
+        {
+            "japanese": "心",
+            "korean": "마음"
+        },
+        {
+            "japanese": "友達",
+            "korean": "친구"
+        },
+        {
+            "japanese": "父",
+            "korean": "아버지"
+        },
+        {
+            "japanese": "母",
+            "korean": "어머니"
+        },
+        {
+            "japanese": "兄",
+            "korean": "형, 오빠"
+        },
+        {
+            "japanese": "姉",
+            "korean": "누나, 언니"
+        },
+        {
+            "japanese": "弟",
+            "korean": "남동생"
+        },
+        {
+            "japanese": "妹",
+            "korean": "여동생"
+        },
+        {
+            "japanese": "天気",
+            "korean": "날씨"
+        },
+        {
+            "japanese": "雨",
+            "korean": "비"
+        },
+        {
+            "japanese": "雪",
+            "korean": "눈"
+        },
+        {
+            "japanese": "風",
+            "korean": "바람"
+        },
+        {
+            "japanese": "太陽",
+            "korean": "태양"
+        },
+        {
+            "japanese": "月",
+            "korean": "달"
+        },
+        {
+            "japanese": "星",
+            "korean": "별"
+        },
+        {
+            "japanese": "海",
+            "korean": "바다"
+        },
+        {
+            "japanese": "山",
+            "korean": "산"
+        },
+        {
+            "japanese": "川",
+            "korean": "강"
+        },
+        {
+            "japanese": "木",
+            "korean": "나무"
+        },
+        {
+            "japanese": "花",
+            "korean": "꽃"
+        },
+        {
+            "japanese": "犬",
+            "korean": "개"
+        },
+        {
+            "japanese": "猫",
+            "korean": "고양이"
+        },
+        {
+            "japanese": "鳥",
+            "korean": "새"
+        },
+        {
+            "japanese": "魚",
+            "korean": "물고기"
+        },
+        {
+            "japanese": "食べ物",
+            "korean": "음식"
+        },
+        {
+            "japanese": "飲み物",
+            "korean": "음료"
+        },
+        {
+            "japanese": "お茶",
+            "korean": "차"
+        },
+        {
+            "japanese": "コーヒー",
+            "korean": "커피"
+        },
+        {
+            "japanese": "パン",
+            "korean": "빵"
+        },
+        {
+            "japanese": "米",
+            "korean": "쌀"
+        },
+        {
+            "japanese": "肉",
+            "korean": "고기"
+        },
+        {
+            "japanese": "野菜",
+            "korean": "야채"
+        },
+        {
+            "japanese": "果物",
+            "korean": "과일"
+        },
+        {
+            "japanese": "りんご",
+            "korean": "사과"
+        },
+        {
+            "japanese": "みかん",
+            "korean": "귤"
+        },
+        {
+            "japanese": "バナナ",
+            "korean": "바나나"
+        },
+        {
+            "japanese": "牛乳",
+            "korean": "우유"
+        },
+        {
+            "japanese": "卵",
+            "korean": "달걀"
+        },
+        {
+            "japanese": "料理",
+            "korean": "요리"
+        },
+        {
+            "japanese": "会社",
+            "korean": "회사"
+        },
+        {
+            "japanese": "働く",
+            "korean": "일하다"
+        },
+        {
+            "japanese": "お金",
+            "korean": "돈"
+        },
+        {
+            "japanese": "店",
+            "korean": "가게"
+        },
+        {
+            "japanese": "病院",
+            "korean": "병원"
+        },
+        {
+            "japanese": "駅",
+            "korean": "역"
+        },
+        {
+            "japanese": "電車",
+            "korean": "전차"
+        },
+        {
+            "japanese": "バス",
+            "korean": "버스"
+        },
+        {
+            "japanese": "飛行機",
+            "korean": "비행기"
+        },
+        {
+            "japanese": "船",
+            "korean": "배"
+        },
+        {
+            "japanese": "道",
+            "korean": "길"
+        },
+        {
+            "japanese": "橋",
+            "korean": "다리"
+        },
+        {
+            "japanese": "建物",
+            "korean": "건물"
+        },
+        {
+            "japanese": "ホテル",
+            "korean": "호텔"
+        },
+        {
+            "japanese": "レストラン",
+            "korean": "레스토랑"
+        },
+        {
+            "japanese": "映画",
+            "korean": "영화"
+        },
+        {
+            "japanese": "音楽",
+            "korean": "음악"
+        },
+        {
+            "japanese": "スポーツ",
+            "korean": "스포츠"
+        },
+        {
+            "japanese": "テレビ",
+            "korean": "텔레비전"
+        },
+        {
+            "japanese": "ラジオ",
+            "korean": "라디오"
+        },
+        {
+            "japanese": "新聞",
+            "korean": "신문"
+        },
+        {
+            "japanese": "雑誌",
+            "korean": "잡지"
+        },
+        {
+            "japanese": "写真",
+            "korean": "사진"
+        },
+        {
+            "japanese": "絵",
+            "korean": "그림"
+        },
+        {
+            "japanese": "色",
+            "korean": "색"
+        },
+        {
+            "japanese": "赤",
+            "korean": "빨간색"
+        },
+        {
+            "japanese": "青",
+            "korean": "파란색"
+        },
+        {
+            "japanese": "黄色",
+            "korean": "노란색"
+        },
+        {
+            "japanese": "緑",
+            "korean": "초록색"
+        },
+        {
+            "japanese": "黒",
+            "korean": "검은색"
+        },
+        {
+            "japanese": "白",
+            "korean": "흰색"
+        },
+        {
+            "japanese": "数",
+            "korean": "수"
+        },
+        {
+            "japanese": "一",
+            "korean": "하나"
+        },
+        {
+            "japanese": "二",
+            "korean": "둘"
+        },
+        {
+            "japanese": "三",
+            "korean": "셋"
+        },
+        {
+            "japanese": "四",
+            "korean": "넷"
+        },
+        {
+            "japanese": "五",
+            "korean": "다섯"
+        },
+        {
+            "japanese": "六",
+            "korean": "여섯"
+        },
+        {
+            "japanese": "七",
+            "korean": "일곱"
+        },
+        {
+            "japanese": "八",
+            "korean": "여덟"
+        },
+        {
+            "japanese": "九",
+            "korean": "아홉"
+        },
+        {
+            "japanese": "十",
+            "korean": "열"
+        },
+        {
+            "japanese": "百",
+            "korean": "백"
+        },
+        {
+            "japanese": "千",
+            "korean": "천"
+        },
+        {
+            "japanese": "万",
+            "korean": "만"
+        },
+        {
+            "japanese": "年",
+            "korean": "년"
+        },
+        {
+            "japanese": "月",
+            "korean": "월"
+        },
+        {
+            "japanese": "日",
+            "korean": "일"
+        },
+        {
+            "japanese": "週",
+            "korean": "주"
+        },
+        {
+            "japanese": "曜日",
+            "korean": "요일"
+        },
+        {
+            "japanese": "月曜日",
+            "korean": "월요일"
+        },
+        {
+            "japanese": "火曜日",
+            "korean": "화요일"
+        },
+        {
+            "japanese": "水曜日",
+            "korean": "수요일"
+        },
+        {
+            "japanese": "木曜日",
+            "korean": "목요일"
+        },
+        {
+            "japanese": "金曜日",
+            "korean": "금요일"
+        },
+        {
+            "japanese": "土曜日",
+            "korean": "토요일"
+        },
+        {
+            "japanese": "日曜日",
+            "korean": "일요일"
+        },
+        {
+            "japanese": "朝",
+            "korean": "아침"
+        },
+        {
+            "japanese": "昼",
+            "korean": "낮"
+        },
+        {
+            "japanese": "夜",
+            "korean": "밤"
+        },
+        {
+            "japanese": "夕方",
+            "korean": "저녁"
+        },
+        {
+            "japanese": "明日",
+            "korean": "내일"
+        },
+        {
+            "japanese": "昨日",
+            "korean": "어제"
+        },
+        {
+            "japanese": "今日",
+            "korean": "오늘"
+        },
+        {
+            "japanese": "毎日",
+            "korean": "매일"
+        },
+        {
+            "japanese": "毎週",
+            "korean": "매주"
+        },
+        {
+            "japanese": "毎月",
+            "korean": "매월"
+        },
+        {
+            "japanese": "毎年",
+            "korean": "매년"
+        },
+        {
+            "japanese": "先生",
+            "korean": "선생님"
+        },
+        {
+            "japanese": "医者",
+            "korean": "의사"
+        },
+        {
+            "japanese": "警察",
+            "korean": "경찰"
+        },
+        {
+            "japanese": "運転手",
+            "korean": "운전사"
+        },
+        {
+            "japanese": "料理人",
+            "korean": "요리사"
+        },
+        {
+            "japanese": "服",
+            "korean": "옷"
+        },
+        {
+            "japanese": "靴",
+            "korean": "신발"
+        },
+        {
+            "japanese": "帽子",
+            "korean": "모자"
+        },
+        {
+            "japanese": "眼鏡",
+            "korean": "안경"
+        },
+        {
+            "japanese": "時計",
+            "korean": "시계"
+        },
+        {
+            "japanese": "鞄",
+            "korean": "가방"
+        },
+        {
+            "japanese": "傘",
+            "korean": "우산"
+        },
+        {
+            "japanese": "机",
+            "korean": "책상"
+        },
+        {
+            "japanese": "椅子",
+            "korean": "의자"
+        },
+        {
+            "japanese": "ベッド",
+            "korean": "침대"
+        },
+        {
+            "japanese": "ドア",
+            "korean": "문"
+        },
+        {
+            "japanese": "窓",
+            "korean": "창문"
+        },
+        {
+            "japanese": "電話",
+            "korean": "전화"
+        },
+        {
+            "japanese": "コンピューター",
+            "korean": "컴퓨터"
+        },
+        {
+            "japanese": "インターネット",
+            "korean": "인터넷"
+        },
+        {
+            "japanese": "メール",
+            "korean": "이메일"
+        },
+        {
+            "japanese": "勉強",
+            "korean": "공부"
+        },
+        {
+            "japanese": "宿題",
+            "korean": "숙제"
+        },
+        {
+            "japanese": "試験",
+            "korean": "시험"
+        },
+        {
+            "japanese": "質問",
+            "korean": "질문"
+        },
+        {
+            "japanese": "答え",
+            "korean": "답"
+        },
+        {
+            "japanese": "問題",
+            "korean": "문제"
+        },
+        {
+            "japanese": "教える",
+            "korean": "가르치다"
+        },
+        {
+            "japanese": "習う",
+            "korean": "배우다"
+        },
+        {
+            "japanese": "覚える",
+            "korean": "기억하다"
+        },
+        {
+            "japanese": "忘れる",
+            "korean": "잊다"
+        },
+        {
+            "japanese": "理解",
+            "korean": "이해"
+        },
+        {
+            "japanese": "説明",
+            "korean": "설명"
+        },
+        {
+            "japanese": "意味",
+            "korean": "의미"
+        },
+        {
+            "japanese": "文章",
+            "korean": "문장"
+        },
+        {
+            "japanese": "漢字",
+            "korean": "한자"
+        },
+        {
+            "japanese": "ひらがな",
+            "korean": "히라가나"
+        },
+        {
+            "japanese": "カタカナ",
+            "korean": "가타카나"
+        },
+        {
+            "japanese": "辞書",
+            "korean": "사전"
+        },
+        {
+            "japanese": "図書館",
+            "korean": "도서관"
+        },
+        {
+            "japanese": "授業",
+            "korean": "수업"
+        },
+        {
+            "japanese": "クラス",
+            "korean": "반"
+        },
+        {
+            "japanese": "大学",
+            "korean": "대학"
+        },
+        {
+            "japanese": "高校",
+            "korean": "고등학교"
+        },
+        {
+            "japanese": "中学校",
+            "korean": "중학교"
+        },
+        {
+            "japanese": "小学校",
+            "korean": "초등학교"
+        },
+        {
+            "japanese": "幼稚園",
+            "korean": "유치원"
+        },
+        {
+            "japanese": "卒業",
+            "korean": "졸업"
+        },
+        {
+            "japanese": "入学",
+            "korean": "입학"
+        },
+        {
+            "japanese": "休み",
+            "korean": "휴식"
+        },
+        {
+            "japanese": "夏休み",
+            "korean": "여름휴가"
+        },
+        {
+            "japanese": "冬休み",
+            "korean": "겨울휴가"
+        },
+        {
+            "japanese": "春休み",
+            "korean": "봄휴가"
+        },
+        {
+            "japanese": "旅行",
+            "korean": "여행"
+        },
+        {
+            "japanese": "観光",
+            "korean": "관광"
+        },
+        {
+            "japanese": "休暇",
+            "korean": "휴가"
+        },
+        {
+            "japanese": "楽しい",
+            "korean": "즐겁다"
+        },
+        {
+            "japanese": "面白い",
+            "korean": "재미있다"
+        },
+        {
+            "japanese": "つまらない",
+            "korean": "지루하다"
+        },
+        {
+            "japanese": "難しい",
+            "korean": "어렵다"
+        },
+        {
+            "japanese": "簡単",
+            "korean": "간단하다"
+        },
+        {
+            "japanese": "易しい",
+            "korean": "쉽다"
+        },
+        {
+            "japanese": "便利",
+            "korean": "편리하다"
+        },
+        {
+            "japanese": "不便",
+            "korean": "불편하다"
+        },
+        {
+            "japanese": "安い",
+            "korean": "싸다"
+        },
+        {
+            "japanese": "美しい",
+            "korean": "아름답다"
+        },
+        {
+            "japanese": "汚い",
+            "korean": "더럽다"
+        },
+        {
+            "japanese": "きれい",
+            "korean": "깨끗하다"
+        },
+        {
+            "japanese": "静か",
+            "korean": "조용하다"
+        },
+        {
+            "japanese": "うるさい",
+            "korean": "시끄럽다"
+        },
+        {
+            "japanese": "忙しい",
+            "korean": "바쁘다"
+        },
+        {
+            "japanese": "暇",
+            "korean": "한가하다"
+        },
+        {
+            "japanese": "元気",
+            "korean": "건강하다"
+        },
+        {
+            "japanese": "病気",
+            "korean": "병"
+        },
+        {
+            "japanese": "風邪",
+            "korean": "감기"
+        },
+        {
+            "japanese": "熱",
+            "korean": "열"
+        },
+        {
+            "japanese": "痛い",
+            "korean": "아프다"
+        },
+        {
+            "japanese": "薬",
+            "korean": "약"
+        },
+        {
+            "japanese": "治療",
+            "korean": "치료"
+        },
+        {
+            "japanese": "健康",
+            "korean": "건강"
+        },
+        {
+            "japanese": "体",
+            "korean": "몸"
+        },
+        {
+            "japanese": "背",
+            "korean": "등"
+        },
+        {
+            "japanese": "お腹",
+            "korean": "배"
+        },
+        {
+            "japanese": "胸",
+            "korean": "가슴"
+        },
+        {
+            "japanese": "肩",
+            "korean": "어깨"
+        },
+        {
+            "japanese": "腕",
+            "korean": "팔"
+        },
+        {
+            "japanese": "指",
+            "korean": "손가락"
+        },
+        {
+            "japanese": "膝",
+            "korean": "무릎"
+        },
+        {
+            "japanese": "血",
+            "korean": "피"
+        },
+        {
+            "japanese": "骨",
+            "korean": "뼈"
+        },
+        {
+            "japanese": "歯",
+            "korean": "이"
+        },
+        {
+            "japanese": "髪",
+            "korean": "머리카락"
+        },
+        {
+            "japanese": "笑う",
+            "korean": "웃다"
+        },
+        {
+            "japanese": "泣く",
+            "korean": "울다"
+        },
+        {
+            "japanese": "怒る",
+            "korean": "화내다"
+        },
+        {
+            "japanese": "喜ぶ",
+            "korean": "기뻐하다"
+        },
+        {
+            "japanese": "悲しい",
+            "korean": "슬프다"
+        },
+        {
+            "japanese": "嬉しい",
+            "korean": "기쁘다"
+        },
+        {
+            "japanese": "心配",
+            "korean": "걱정"
+        },
+        {
+            "japanese": "安心",
+            "korean": "안심"
+        },
+        {
+            "japanese": "驚く",
+            "korean": "놀라다"
+        },
+        {
+            "japanese": "恐い",
+            "korean": "무섭다"
+        },
+        {
+            "japanese": "勇気",
+            "korean": "용기"
+        },
+        {
+            "japanese": "愛",
+            "korean": "사랑"
+        },
+        {
+            "japanese": "好き",
+            "korean": "좋아하다"
+        },
+        {
+            "japanese": "嫌い",
+            "korean": "싫어하다"
+        },
+        {
+            "japanese": "興味",
+            "korean": "흥미"
+        },
+        {
+            "japanese": "希望",
+            "korean": "희망"
+        },
+        {
+            "japanese": "夢",
+            "korean": "꿈"
+        },
+        {
+            "japanese": "目標",
+            "korean": "목표"
+        },
+        {
+            "japanese": "計画",
+            "korean": "계획"
+        },
+        {
+            "japanese": "準備",
+            "korean": "준비"
+        },
+        {
+            "japanese": "約束",
+            "korean": "약속"
+        },
+        {
+            "japanese": "決める",
+            "korean": "정하다"
+        },
+        {
+            "japanese": "選ぶ",
+            "korean": "선택하다"
+        },
+        {
+            "japanese": "変える",
+            "korean": "바꾸다"
+        },
+        {
+            "japanese": "変わる",
+            "korean": "바뀌다"
+        },
+        {
+            "japanese": "続ける",
+            "korean": "계속하다"
+        },
+        {
+            "japanese": "止める",
+            "korean": "멈추다"
+        },
+        {
+            "japanese": "急ぐ",
+            "korean": "서두르다"
+        },
+        {
+            "japanese": "待つ",
+            "korean": "기다리다"
+        },
+        {
+            "japanese": "遅れる",
+            "korean": "늦다"
+        },
+        {
+            "japanese": "早い",
+            "korean": "빠르다"
+        },
+        {
+            "japanese": "遅い",
+            "korean": "늦다"
+        },
+        {
+            "japanese": "速い",
+            "korean": "빠르다"
+        },
+        {
+            "japanese": "ゆっくり",
+            "korean": "천천히"
+        },
+        {
+            "japanese": "急に",
+            "korean": "갑자기"
+        },
+        {
+            "japanese": "すぐ",
+            "korean": "곧"
+        },
+        {
+            "japanese": "最初",
+            "korean": "처음"
+        },
+        {
+            "japanese": "最後",
+            "korean": "마지막"
+        },
+        {
+            "japanese": "前",
+            "korean": "앞"
+        },
+        {
+            "japanese": "後ろ",
+            "korean": "뒤"
+        },
+        {
+            "japanese": "上",
+            "korean": "위"
+        },
+        {
+            "japanese": "下",
+            "korean": "아래"
+        },
+        {
+            "japanese": "左",
+            "korean": "왼쪽"
+        },
+        {
+            "japanese": "右",
+            "korean": "오른쪽"
+        },
+        {
+            "japanese": "中",
+            "korean": "안"
+        },
+        {
+            "japanese": "外",
+            "korean": "밖"
+        },
+        {
+            "japanese": "隣",
+            "korean": "옆"
+        },
+        {
+            "japanese": "近い",
+            "korean": "가깝다"
+        },
+        {
+            "japanese": "遠い",
+            "korean": "멀다"
+        },
+        {
+            "japanese": "真ん中",
+            "korean": "한가운데"
+        },
+        {
+            "japanese": "角",
+            "korean": "모서리"
+        },
+        {
+            "japanese": "向こう",
+            "korean": "저쪽"
+        },
+        {
+            "japanese": "こちら",
+            "korean": "이쪽"
+        },
+        {
+            "japanese": "そちら",
+            "korean": "그쪽"
+        },
+        {
+            "japanese": "あちら",
+            "korean": "저쪽"
+        },
+        {
+            "japanese": "東",
+            "korean": "동쪽"
+        },
+        {
+            "japanese": "西",
+            "korean": "서쪽"
+        },
+        {
+            "japanese": "南",
+            "korean": "남쪽"
+        },
+        {
+            "japanese": "北",
+            "korean": "북쪽"
+        },
+        {
+            "japanese": "国",
+            "korean": "나라"
+        },
+        {
+            "japanese": "日本",
+            "korean": "일본"
+        },
+        {
+            "japanese": "韓国",
+            "korean": "한국"
+        },
+        {
+            "japanese": "中国",
+            "korean": "중국"
+        },
+        {
+            "japanese": "アメリカ",
+            "korean": "미국"
+        },
+        {
+            "japanese": "イギリス",
+            "korean": "영국"
+        },
+        {
+            "japanese": "フランス",
+            "korean": "프랑스"
+        },
+        {
+            "japanese": "ドイツ",
+            "korean": "독일"
+        },
+        {
+            "japanese": "都市",
+            "korean": "도시"
+        },
+        {
+            "japanese": "町",
+            "korean": "마을"
+        },
+        {
+            "japanese": "村",
+            "korean": "시골"
+        },
+        {
+            "japanese": "首都",
+            "korean": "수도"
+        },
+        {
+            "japanese": "東京",
+            "korean": "도쿄"
+        },
+        {
+            "japanese": "大阪",
+            "korean": "오사카"
+        },
+        {
+            "japanese": "京都",
+            "korean": "교토"
+        },
+        {
+            "japanese": "住む",
+            "korean": "살다"
+        },
+        {
+            "japanese": "住所",
+            "korean": "주소"
+        },
+        {
+            "japanese": "番地",
+            "korean": "번지"
+        },
+        {
+            "japanese": "アパート",
+            "korean": "아파트"
+        },
+        {
+            "japanese": "マンション",
+            "korean": "맨션"
+        },
+        {
+            "japanese": "台所",
+            "korean": "부엌"
+        },
+        {
+            "japanese": "風呂",
+            "korean": "목욕탕"
+        },
+        {
+            "japanese": "トイレ",
+            "korean": "화장실"
+        },
+        {
+            "japanese": "玄関",
+            "korean": "현관"
+        },
+        {
+            "japanese": "階段",
+            "korean": "계단"
+        },
+        {
+            "japanese": "エレベーター",
+            "korean": "엘리베이터"
+        },
+        {
+            "japanese": "庭",
+            "korean": "정원"
+        },
+        {
+            "japanese": "屋根",
+            "korean": "지붕"
+        },
+        {
+            "japanese": "壁",
+            "korean": "벽"
+        },
+        {
+            "japanese": "床",
+            "korean": "바닥"
+        },
+        {
+            "japanese": "天井",
+            "korean": "천장"
+        },
+        {
+            "japanese": "電気",
+            "korean": "전기"
+        },
+        {
+            "japanese": "ガス",
+            "korean": "가스"
+        },
+        {
+            "japanese": "水道",
+            "korean": "수도"
+        },
+        {
+            "japanese": "冷蔵庫",
+            "korean": "냉장고"
+        },
+        {
+            "japanese": "洗濯機",
+            "korean": "세탁기"
+        },
+        {
+            "japanese": "掃除機",
+            "korean": "청소기"
+        },
+        {
+            "japanese": "エアコン",
+            "korean": "에어컨"
+        },
+        {
+            "japanese": "暖房",
+            "korean": "난방"
+        },
+        {
+            "japanese": "冷房",
+            "korean": "냉방"
+        },
+        {
+            "japanese": "温度",
+            "korean": "온도"
+        },
+        {
+            "japanese": "暑い",
+            "korean": "덥다"
+        },
+        {
+            "japanese": "寒い",
+            "korean": "춥다"
+        },
+        {
+            "japanese": "涼しい",
+            "korean": "시원하다"
+        },
+        {
+            "japanese": "暖かい",
+            "korean": "따뜻하다"
+        },
+        {
+            "japanese": "季節",
+            "korean": "계절"
+        },
+        {
+            "japanese": "夏",
+            "korean": "여름"
+        },
+        {
+            "japanese": "秋",
+            "korean": "가을"
+        },
+        {
+            "japanese": "冬",
+            "korean": "겨울"
+        },
+        {
+            "japanese": "台風",
+            "korean": "태풍"
+        },
+        {
+            "japanese": "地震",
+            "korean": "지진"
+        },
+        {
+            "japanese": "雲",
+            "korean": "구름"
+        },
+        {
+            "japanese": "雷",
+            "korean": "천둥"
+        },
+        {
+            "japanese": "晴れ",
+            "korean": "맑음"
+        },
+        {
+            "japanese": "曇り",
+            "korean": "흐림"
+        },
+        {
+            "japanese": "天気予報",
+            "korean": "일기예보"
+        },
+        {
+            "japanese": "湿度",
+            "korean": "습도"
+        },
+        {
+            "japanese": "乾燥",
+            "korean": "건조"
+        },
+        {
+            "japanese": "自然",
+            "korean": "자연"
+        },
+        {
+            "japanese": "環境",
+            "korean": "환경"
+        },
+        {
+            "japanese": "空気",
+            "korean": "공기"
+        },
+        {
+            "japanese": "土",
+            "korean": "흙"
+        },
+        {
+            "japanese": "石",
+            "korean": "돌"
+        },
+        {
+            "japanese": "砂",
+            "korean": "모래"
+        },
+        {
+            "japanese": "草",
+            "korean": "풀"
+        },
+        {
+            "japanese": "葉",
+            "korean": "잎"
+        },
+        {
+            "japanese": "根",
+            "korean": "뿌리"
+        },
+        {
+            "japanese": "種",
+            "korean": "씨"
+        },
+        {
+            "japanese": "実",
+            "korean": "열매"
+        },
+        {
+            "japanese": "森",
+            "korean": "숲"
+        },
+        {
+            "japanese": "林",
+            "korean": "숲"
+        },
+        {
+            "japanese": "公園",
+            "korean": "공원"
+        },
+        {
+            "japanese": "動物",
+            "korean": "동물"
+        },
+        {
+            "japanese": "虫",
+            "korean": "벌레"
+        },
+        {
+            "japanese": "蝶",
+            "korean": "나비"
+        },
+        {
+            "japanese": "蜂",
+            "korean": "벌"
+        },
+        {
+            "japanese": "蚊",
+            "korean": "모기"
+        },
+        {
+            "japanese": "蟻",
+            "korean": "개미"
+        },
+        {
+            "japanese": "蜘蛛",
+            "korean": "거미"
+        },
+        {
+            "japanese": "馬",
+            "korean": "말"
+        },
+        {
+            "japanese": "牛",
+            "korean": "소"
+        },
+        {
+            "japanese": "豚",
+            "korean": "돼지"
+        },
+        {
+            "japanese": "羊",
+            "korean": "양"
+        },
+        {
+            "japanese": "鶏",
+            "korean": "닭"
+        },
+        {
+            "japanese": "象",
+            "korean": "코끼리"
+        },
+        {
+            "japanese": "猿",
+            "korean": "원숭이"
+        },
+        {
+            "japanese": "熊",
+            "korean": "곰"
+        },
+        {
+            "japanese": "鼠",
+            "korean": "쥐"
+        },
+        {
+            "japanese": "兎",
+            "korean": "토끼"
+        }
+    ]
+}

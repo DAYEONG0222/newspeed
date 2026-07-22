@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/quizRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/textQuestionNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1 / 10"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="단어"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_marginTop="32dp" />
+
+    <Button
+        android:id="@+id/btnOption1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="보기 1"
+        android:layout_marginTop="24dp" />
+
+    <Button
+        android:id="@+id/btnOption2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="보기 2"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/btnOption3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="보기 3"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/btnOption4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="보기 4"
+        android:layout_marginTop="12dp" />
+
+</LinearLayout>
