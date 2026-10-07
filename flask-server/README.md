@@ -1,95 +1,73 @@
 # NewsPeed Flask Server
 
-GNews API로 가져온 뉴스 기사의 본문을 추출하고, Google Cloud API와 언어별 분석 로직을 활용해 기사 난이도 분석, 번역, 유의어 조회를 제공하는 Flask 서버입니다.
+뉴스 기사 본문을 추출하고 언어별 난이도(초급·중급·고급)를 분석하는 서버입니다.
+기능별로 나뉘어 있던 Flask 서버 6개를 하나의 앱(`newspeed_server`)으로 합쳤고, 이전 코드는 `legacy/`에 그대로 보존했습니다.
 
-## 설치 방법
-
-### 1. 가상환경 생성 및 활성화
-
-```bash
-python -m venv venv
-```
-
-Windows:
+## 실행
 
 ```bash
-venv\Scripts\activate
-```
-
-Mac/Linux:
-
-```bash
-source venv/bin/activate
-```
-
-### 2. 필수 라이브러리 설치
-
-```bash
+python -m venv .venv
+.venv\Scripts\activate            # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-```
-
-영어 난이도 분석 서버는 spaCy 영어 모델이 필요합니다.
-
-```bash
 python -m spacy download en_core_web_sm
+python -m spacy download es_core_news_sm
+python run.py                     # http://localhost:5000
 ```
 
-## 환경 변수 설정
-
-각 서버에서 사용하는 API 키와 Google Cloud 서비스 계정 키는 Git에 커밋하지 않는 환경변수 파일에 저장합니다. 아래 예시는 `flask-server` 디렉터리에서 서버를 실행하는 기준입니다.
-
-`.env.nlp` (`nlpServerNew.py`):
+유료 API 키 없이 실행됩니다. 번역(`/translate`)과 유의어(`/synonyms`)만 `.env`에 키가 있을 때 동작하고, 키가 없으면 해당 요청만 503을 돌려줍니다.
 
 ```env
-GOOGLE_APPLICATION_CREDENTIALS=your-google-service-account.json
+# .env (선택)
+GOOGLE_APPLICATION_CREDENTIALS=path/to/service-account.json
+BABELNET_KEY=your-babelnet-key
 ```
 
-`.env.translate` (`translate.py`):
+## 엔드포인트
 
-```env
-GOOGLE_APPLICATION_CREDENTIALS=your-google-service-account.json
+| 메서드 | 경로 | 설명 |
+| --- | --- | --- |
+| POST | `/articles/analyze` | **URL 목록을 한 번에 본문 추출·난이도 분석** (`{"lang": "ja", "urls": [...]}`, 최대 20개) |
+| POST | `/extract` | URL → 본문 |
+| POST | `/tokenize-ja` | 일본어 문장 → 단어 목록 |
+| POST | `/analyze` | 영어 난이도 |
+| POST | `/analyze-japanese-news` | 일본어 난이도 |
+| POST | `/analyze-es` | 스페인어 난이도 |
+| POST | `/translate` | 번역 (키 필요) |
+| POST | `/synonyms` | 일본어·스페인어 유의어 (키 필요) |
+| GET | `/health` | 상태와 캐시 적중 통계 |
+
+기존 경로는 그대로 유지해서 앱은 서버 주소만 바꾸면 됩니다.
+
+## 난이도 분석 방법
+
+| 언어 | 방법 | 3단계 기준 |
+| --- | --- | --- |
+| 일본어 | jReadability (Lee & Hasebe). MeCab(fugashi) + UniDic 단단위로 평균 문장 길이(단어 수), 한어·화어·동사·조동사 비율(%) 계산 | 4.5 이상 초급 / 2.5 이상 중급 / 미만 고급 (논문 6단계 구간을 묶음) |
+| 스페인어 | Szigriszt-Pazos 가독성 + INFLESZ 척도 | 65 이상 초급 / 55 이상 중급 / 미만 고급 |
+| 영어 | 팀원 구현 공식 유지 (구문 트리 깊이, 의존 거리 등 6개 지표 가중합). 엔터티만 spaCy NER로 계산 | 63 초과 중급 / 70 초과 고급 |
+
+## 구조
+
+```text
+run.py                    # 실행 진입점
+newspeed_server/
+  app.py                  # 라우트, 입력 검증, 에러 처리
+  batch.py                # URL 목록 동시 추출(스레드 풀) + 분석
+  cache.py                # 스레드 안전 TTL 캐시 (10분)
+  extract.py              # 본문 추출 (trafilatura)
+  external.py             # 번역·유의어 (키가 있을 때만)
+  difficulty/             # 언어별 난이도
+tests/                    # pytest
+evaluation/               # 난이도 판별력 평가 (공개 말뭉치)
+benchmarks/               # 순차 vs 배치 처리 시간 측정
+legacy/                   # 통합 전 서버 6개 (비교용)
 ```
 
-`.env.dev` (`japaneseAnalyze.py`, `spanishAnalyze.py`, `spanishNewsFetcher.py`, `newsFetcher.py`, `fetchJapaneseNews.py`):
-
-```env
-GOOGLE_APPLICATION_CREDENTIALS=your-google-service-account.json
-GNEWS_API_KEY=your-gnews-api-key
-NEWSDATA_API_KEY=your-newsdata-api-key
-```
-
-`.env.babel` (`synonyms_server.py`):
-
-```env
-BABELNET_KEY=your-babelnet-api-key
-```
-
-## 서버 실행 방법
-
-각 서버는 별도 터미널에서 실행합니다.
-
-| 기능 | 파일 | 포트 | 엔드포인트 |
-| --- | --- | --- | --- |
-| 기사 본문 추출, 일본어 토큰화 | `extract_server.py` | `5000` | `/extract`, `/tokenize-ja` |
-| 영어 기사 난이도 분석 | `nlpServerNew.py` | `6000` | `/analyze` |
-| 일본어 기사 난이도 분석 | `japaneseAnalyze.py` | `6100` | `/analyze-japanese-news` |
-| 스페인어 기사 난이도 분석 | `spanishAnalyze.py` | `6201` | `/analyze-es` |
-| 기사/단어 번역 | `translate.py` | `7000` | `/translate` |
-| 일본어/스페인어 유의어 조회 | `synonyms_server.py` | `7001` | `/synonyms` |
-
-예시:
+## 테스트 · 평가
 
 ```bash
-python extract_server.py
-python nlpServerNew.py
-python japaneseAnalyze.py
-python spanishAnalyze.py
-python translate.py
-python synonyms_server.py
+pytest -q                               # 단위 테스트
+python evaluation/build_datasets.py     # 평가 말뭉치 내려받기 (원문은 저장소에 포함하지 않음)
+python evaluation/evaluate.py           # 기존 공식 vs 개선 공식
+python benchmarks/bench_batch.py        # 기사 10개 처리 시간
 ```
-
-## 참고
-
-- Android 에뮬레이터에서는 Flask 서버를 `10.0.2.2`로 접근합니다.
-- 실제 기기에서는 `RetrofitClient`와 `RetrofitTranslateClient`의 로컬 서버 IP가 개발 PC의 IP와 일치해야 합니다.
-- API 키, Google Cloud 서비스 계정 JSON, `.env` 파일, `local.properties`는 공개 저장소에 올리지 않습니다.

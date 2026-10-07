@@ -1,104 +1,127 @@
-# NewsPeed · 실시간 뉴스 기반 다국어 학습 앱
+# NewsPeed - 실시간 뉴스 기반 다국어 학습 안드로이드 앱
 
-> 실시간 뉴스(영어·일본어·스페인어)를 학습자 수준에 맞게 난이도 분류하고, 기사 읽기부터 단어 복습까지 하나의 흐름으로 잇는 Android 학습 앱
+> 실시간 뉴스(영어·일본어·스페인어)를 난이도별로 분류하고, 기사 읽기부터 단어 복습까지 하나의 흐름으로 잇는 Android 학습 앱
 
-**2025 캡스톤디자인 1** · 4인 팀 프로젝트 (2025.03 – 06)
+**2025 캡스톤디자인 1** · 4인 팀 프로젝트 (2025.03 – 06) · **2026.10 개인 개선**
 
-`Kotlin` · `Jetpack Compose` · `Room` · `Flask` · `NLP (spaCy · fugashi · Google Cloud NL)`
+`Kotlin` · `Jetpack Compose` · `Room` · `Flask` · `fugashi(UniDic)` · `spaCy`
+
+> **이 저장소에 대해**
+> 캡스톤 제출 당시 코드는 [`v1-team-submission`](../../tree/v1-team-submission) 태그에 그대로 남아 있습니다.
+> 이후 커밋은 제가 코드를 다시 읽으며 찾은 문제를 고치고, 고친 결과를 수치로 측정한 개인 작업입니다. 아래 [개선 기록](#개선-기록-202610)에 정리했습니다.
 
 ---
 
 ## 개요
 
-기존 외국어 학습 앱은 정해진 예문·교재형 문장 중심이라, 학습자가 실제 사회·경제·문화 이슈에서 쓰이는 표현을 접하기 어렵습니다. NewsPeed는 **매일 갱신되는 뉴스를 학습 콘텐츠로 전환**하고, 기사 본문을 분석해 **초급·중급·고급으로 자동 분류**합니다. 사용자는 자기 수준에 맞는 기사를 읽으며 모르는 단어를 바로 번역·저장하고, 퀴즈와 오답노트로 복습합니다.
+기존 외국어 학습 앱은 정해진 예문·교재형 문장 중심이라, 학습자가 실제 사회·경제·문화 이슈에서 쓰이는 표현을 접하기 어렵습니다. NewsPeed는 **매일 갱신되는 뉴스를 학습 콘텐츠로 전환**하고, 기사 본문을 분석해 **초급·중급·고급으로 자동 분류**합니다. 사용자는 기사를 읽으며 모르는 단어를 저장하고, 퀴즈와 오답노트로 복습합니다.
 
 `뉴스 수집 → 본문 추출 → 언어별 난이도 분석 → 기사 학습 → 단어 저장 → 퀴즈·오답 복습`
 
 ## 시스템 구조
 
-연산과 외부 API 호출이 필요한 작업은 **Flask 서버로 분리**하고, Android 앱은 UI·상태 관리·로컬 저장에 집중하도록 역할을 나눴습니다.
-
 ```mermaid
 flowchart TD
     user["User"] --> android["Android App<br/>(기사 학습 · 단어장 · 퀴즈 · 오답노트)"]
-    android --> gnews["GNews API<br/>(영·일·스페인어 뉴스)"]
-    android --> flask["Flask 서버"]
-    flask --> extraction["본문 추출"]
-    flask --> difficulty["언어별 난이도 분석"]
-    flask --> translation["번역 · 유의어"]
-    difficulty --> level["초급 / 중급 / 고급"]
-    level --> android
-    android --> room["Room DB<br/>(단어장 · 퀴즈 · 오답노트)"]
+    android --> gnews["GNews API<br/>(기사 목록)"]
+    android -->|"URL 목록 1회 요청"| flask["Flask 서버 (통합, waitress)"]
+    flask --> batch["본문 동시 추출 + 서버 캐시(10분)"]
+    batch --> difficulty["언어별 난이도 분석<br/>jReadability · Szigriszt-Pazos"]
+    difficulty --> android
+    android --> room["Room DB<br/>(단어장 · 오답노트)"]
 ```
 
-## 핵심 구현
+연산과 외부 호출은 Flask 서버가, 화면·상태·로컬 저장은 Android 앱이 맡습니다.
 
-**1. 실시간 뉴스 기반 학습 콘텐츠** — GNews API로 최신 뉴스를 수집하고, 기사 URL을 Flask 서버로 보내 본문을 추출한 뒤 학습 텍스트로 변환합니다. 정적 예문이 아닌 매번 새로운 뉴스가 학습 자료가 됩니다.
+## 난이도 분석
 
-**2. 언어별 특성을 반영한 난이도 분석** — 언어마다 난이도에 영향을 주는 요소가 다르다고 판단해, 언어별로 분석 서버를 분리하고 서로 다른 지표로 점수를 계산했습니다.
+| 언어 | 방법 | 3단계 기준 |
+| --- | --- | --- |
+| 일본어 | **jReadability** (Lee & Hasebe). MeCab(fugashi)+UniDic 단단위로 평균 문장 길이(단어 수)와 한어·화어·동사·조동사 비율(%) | 논문 6단계 구간을 묶어 4.5 이상 초급 / 2.5 이상 중급 / 미만 고급 |
+| 스페인어 | **Szigriszt-Pazos** 가독성 + INFLESZ 척도 | 65 이상 초급 / 55 이상 중급 / 미만 고급 |
+| 영어 | 구문 트리 깊이·의존 거리·종속절 수 등 6개 지표 가중합 (팀원 구현) | 63 초과 중급 / 70 초과 고급 |
 
-| 언어 | 난이도 분석 지표 |
+## 개선 기록 (2026.10)
+
+### 1. 난이도 공식을 원 논문 조건대로 다시 구현
+제출본의 일본어 공식은 jReadability와 계수가 같았지만, 비율을 %가 아니라 0~1로, 문장 길이를 단어 수가 아니라 **글자 수**로 넣고 있었습니다. 그 결과 점수가 사실상 문장 길이 하나로 정해졌습니다. 스페인어도 품사 비율 항의 기여가 1점 안팎이라 평균 문장 글자 수로 정해졌습니다.
+
+공개 말뭉치로 기존 공식과 개선 공식을 같은 조건에서 비교했습니다 (원문은 저장소에 넣지 않고 [`evaluation/`](flask-server/evaluation)의 스크립트로 내려받습니다).
+
+| 평가 | 지표 | 기존 | 개선 |
+| --- | --- | --- | --- |
+| 일본어 · SNOW T15 150쌍<br/>(같은 문장의 원문 vs 사람이 고쳐 쓴 쉬운 일본어) | 쉬운 쪽을 더 쉽다고 판단한 비율 | **5.3%** | **66.0%** |
+| 스페인어 · Vikidia vs Wikipedia 100쌍<br/>(같은 제목의 어린이용 / 일반 백과) | 쉬운 쪽을 더 쉽다고 판단한 비율 | 77% | **81%** |
+| | 어려운 글을 '고급'으로 분류 | 2% | **47%** |
+| | 쉬운 글을 '초급'으로 분류 | 30% | **43%** |
+
+- 일본어 기존 공식은 쉬운 일본어를 오히려 **더 어렵다고** 판단했습니다. 쉬운 일본어는 한자를 히라가나로 풀어 쓰면서 글자 수가 늘어나는데, 글자 수로 점수를 매겼기 때문입니다.
+- 스페인어는 순서를 매기는 능력(AUC 0.72)은 비슷했고, 기존 공식이 어려운 글의 87%를 '중급'으로 몰던 등급 구분이 나아졌습니다.
+- 한계: SNOW는 일상 문장이라 원문·쉬운 문장 모두 '중급'으로 분류됩니다. 등급 정확도는 스페인어 쪽 결과로만 판단할 수 있습니다.
+
+### 2. 서버 6개 → 1개, 기사 목록을 한 번에 분석
+제출본은 기능마다 Flask 프로세스(포트 6개)를 따로 띄웠고, 앱은 기사 10개마다 '본문 추출 → 난이도 분석'을 순서대로 요청했습니다(최대 20번 왕복).
+
+- 서버를 하나로 합치고 `POST /articles/analyze`를 추가했습니다. URL 목록을 받아 본문 추출을 스레드 풀로 동시에 처리하고, 결과를 10분 서버 캐시에 둡니다.
+- 유료 Google Cloud NL 의존을 없애고 로컬 라이브러리(fugashi·spaCy)로 바꿔, 키 없이 누구나 실행할 수 있습니다.
+
+| 기사 10개 처리 시간 (3회 중앙값, [`benchmarks/`](flask-server/benchmarks)) | 기존 방식 (순차) | 배치 | 캐시 적중 |
+| --- | --- | --- | --- |
+| 일본어 (NHK) | 10.84초 | **4.18초** | 0.003초 |
+| 스페인어 (BBC Mundo) | 10.29초 | **3.12초** | 0.004초 |
+
+서버 쪽 처리 시간만 잰 값이고, 앱↔서버 왕복이 20번에서 1번으로 줄어든 효과는 포함하지 않았습니다.
+
+### 3. 코드를 다시 읽으며 찾은 버그
+| 문제 | 수정 |
 | --- | --- |
-| 영어 | 전체 단어 수, 평균 단어 길이, 구문 트리 깊이, 평균 의존 거리, 엔터티 수·중요도, 종속절 수 |
-| 일본어 | 평균 문장 길이, 한자 비율, 고유어 비율, 동사·보조동사 비율 |
-| 스페인어 | 평균 문장 길이, 명사·동사·형용사·접속사 비율 (구조적 복잡도) |
+| 제출본 그대로는 **컴파일이 되지 않음** (NavGraph import 오류 6건) | import 정리 |
+| 퀴즈 마지막 문제를 풀면 등록되지 않은 경로로 이동해 **앱이 종료됨** | 퀴즈 결과 화면과 경로 추가 |
+| 오답노트가 메모리에만 있어 앱을 다시 켜면 사라짐. 모든 오답의 id가 0이라 정렬이 무의미하고 **하나를 지우면 전부 지워짐** | Room 테이블로 저장, 틀린 횟수·시각 기록, id 기준 삭제. DB v1→v2 마이그레이션으로 단어장 보존 |
+| 뜻이 같은 단어가 있으면 퀴즈 보기가 중복됨 | 뜻 기준 중복 제거 |
+| 한 번 받은 카테고리는 10분이 지나도 다시 받지 않음 | TTL 기준으로만 캐시 판단 |
+| My Level / Other Level 탭이 ViewModel을 따로 만들어 탭을 옮길 때마다 GNews를 다시 호출 | 두 탭이 하나의 ViewModel 공유 |
 
-**3. 읽기에서 복습까지 이어지는 학습 루프** — 기사 상세에서 전체·문장·단어 번역, TTS, 유의어 조회, 단어 저장을 제공합니다. 저장 단어(10개 이상)로 4지선다 퀴즈를 생성하고, 틀린 단어는 오답노트로 이어집니다. `word + language_code` 복합 unique index로 중복 저장을 방지하고, 동일 언어·카테고리 재요청 시 10분 캐시로 불필요한 API 호출을 줄였습니다.
+검증: 서버 pytest 9개, 앱 JVM 단위 테스트 2개, 에뮬레이터에서 일본어 기사 목록·난이도 표시 확인.
 
-## 담당 역할
+### 남은 과제
+- 사용자 레벨이 '초급'으로 고정되어 있습니다(제출본과 동일). 레벨 테스트 로직과 테이블은 있으나 화면에 연결되지 않았습니다. 실제 뉴스는 jReadability 기준 대부분 중급·고급이라, 레벨 테스트 연결이 다음 우선순위입니다.
+- 번역·유의어는 Google Translate·BabelNet 키가 있을 때만 동작합니다.
 
-- **일본어·스페인어 기사 난이도 분류 로직** — 언어별 특성을 고려한 분석 지표로 초급·중급·고급 분류 기준을 구현하고, 앱이 결과를 받아 `My Level / Other Level`로 구분되도록 연동
-- **단어장 기반 퀴즈** — 저장 단어 기반 4지선다(정답 1 + 오답 3) 생성, 단어 수에 따른 시작 조건·문항 수(최대 30) 설계
-- **오답노트** — 틀린 단어 저장, 최신순·오래된순·알파벳순 정렬 조회, 단어장→퀴즈→오답 복습 학습 루프 완성
+## 담당 역할 (캡스톤 당시)
 
-> **문제 해결 경험**: 언어별 난이도 기준이 모호하고 AI가 제안한 기준만으로는 신뢰성이 부족해, 언어별 연구 자료를 직접 찾아 지표를 재정의했습니다. 적합한 기준 확보가 어려운 중국어는 지원 범위에서 제외하는 의사결정으로 완성도를 지켰습니다.
+- **일본어·스페인어 기사 난이도 분류** — 언어별 연구 자료를 찾아 지표를 정하고 초급·중급·고급 분류 API 구현, 앱이 결과를 받아 `My Level / Other Level`로 나누도록 연동
+- **로컬 DB와 캐시** — Room 엔티티·인덱스 설계(`word + language_code` 복합 unique), 뉴스 API 10분 캐시
+- **단어장 퀴즈·오답노트** — 저장 단어 기반 4지선다, 단어 수에 따른 문항 수(최대 30), 단어장→퀴즈→오답 복습 흐름
+
+화면 UI와 영어 난이도 분석은 팀원이 구현했습니다.
 
 ## 기술 스택
 
 | 구분 | 기술 |
 | --- | --- |
-| Language | Kotlin, Python |
-| UI | Jetpack Compose, Material3, XML |
-| Architecture | ViewModel, StateFlow, Navigation Compose |
-| Local DB | Room Database |
-| Network | Retrofit, OkHttp, Gson |
-| Server | Flask |
-| NLP | Google Cloud Natural Language API, spaCy, fugashi |
-| Translation / API | Google Cloud Translate, GNews, Datamuse, BabelNet |
-| Article Extraction | trafilatura, BeautifulSoup |
-
-## 서버 구성
-
-| 기능 | 파일 |
-| --- | --- |
-| 본문 추출 / 일본어 토큰화 | `extract_server.py` |
-| 영어 난이도 분석 | `nlpServerNew.py` |
-| 일본어 난이도 분석 | `japaneseAnalyze.py` |
-| 스페인어 난이도 분석 | `spanishAnalyze.py` |
-| 번역 | `translate.py` |
-| 유의어 조회 | `synonyms_server.py` |
+| Android | Kotlin, Jetpack Compose, Material3, Navigation Compose, ViewModel·StateFlow, Room, Retrofit·OkHttp·Gson |
+| Server | Python, Flask, waitress, trafilatura |
+| NLP | fugashi + UniDic(일본어), spaCy(영어·스페인어), textstat |
+| 외부 API | GNews(기사), Datamuse(영어 유의어), 선택: Google Translate, BabelNet |
 
 ## 실행 방법
 
-**Android** — Android Studio에서 프로젝트를 열고 `app` 모듈 실행. 루트에 `local.properties` 생성:
-
-```properties
-sdk.dir=C:\\Path\\To\\Android\\Sdk
-GNEWS_API_KEY=your-gnews-api-key
-```
-
-**Flask 서버** — 각 서버를 별도 터미널에서 실행:
+**서버**
 
 ```bash
 cd flask-server
-python -m venv venv && venv\Scripts\activate
+python -m venv .venv && .venv\Scripts\activate
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
-python extract_server.py   # 이하 각 분석 서버 실행
+python -m spacy download es_core_news_sm
+python run.py            # http://localhost:5000
 ```
 
-> 에뮬레이터에서 로컬 서버 접근 시 `10.0.2.2`, 실기기는 개발 PC IP를 사용합니다.
+자세한 엔드포인트와 평가 방법은 [flask-server/README.md](flask-server/README.md)에 있습니다.
+
+**Android** — `local.properties.example`을 복사해 `local.properties`를 만들고 `sdk.dir`, `GNEWS_API_KEY`를 채운 뒤 Android Studio에서 `app` 모듈을 실행합니다. 에뮬레이터는 서버에 `10.0.2.2`로 접속하고, 실기기는 `FLASK_HOST`에 개발 PC IP를 적습니다.
 
 ## 보안
 
-`local.properties`, `.env`, Google Cloud 서비스 계정 JSON, 각종 API Key는 커밋하지 않으며 로컬 설정·환경변수로 관리합니다.
+`local.properties`, `.env`, 서비스 계정 JSON, API 키는 커밋하지 않습니다.
