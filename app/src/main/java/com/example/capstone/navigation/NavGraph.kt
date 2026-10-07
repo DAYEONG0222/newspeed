@@ -19,11 +19,10 @@ import com.example.capstone.screen.article.jaPart.PrimaryNewsScreenJa
 import com.example.capstone.screen.article.jaPart.SecondaryNewsScreenJa
 import com.example.capstone.screen.article.spanishPart.PrimaryNewsScreenEs
 import com.example.capstone.screen.article.spanishPart.SecondaryNewsScreenEs
+import com.example.capstone.viewmodel.JaNewsViewModel
+import com.example.capstone.viewmodel.SharedProfileViewModel
 import com.example.capstone.viewmodel.SharedTextViewModel
 import com.example.capstone.viewmodel.SharedUrlViewModel
-import androidx.navigation.NavType
-import androidx.navigation.navArgument
-import androidx.compose.ui.Modifier
 
 @Composable
 fun NavGraph(
