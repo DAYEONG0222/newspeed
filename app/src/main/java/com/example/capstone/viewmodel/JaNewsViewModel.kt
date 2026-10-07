@@ -3,9 +3,8 @@ package com.example.capstone.viewmodel
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.capstone.data.api.model.ArticleAnalysis
 import com.example.capstone.data.api.service.GNewsApiService
-import com.example.capstone.data.api.service.NlpRequest
+import com.example.capstone.data.api.service.ArticleBatchRequest
 import com.example.capstone.data.api.RetrofitClient
 import com.example.capstone.data.model.GNewsArticle
 import kotlinx.coroutines.Dispatchers
@@ -79,11 +78,6 @@ class JaNewsViewModel : ViewModel() {
                 lastFetched != null &&
                 now - lastFetched < CACHE_TTL_MS
 
-        if (fetchStatus[cacheKey] == true && !forceRefresh) {
-            Log.d("JaNewsViewModel", "⛔ 이미 처리된 요청 생략: $cacheKey")
-            _isLoading.value = false
-            return
-        }
 
         if (isCacheValid) {
             val cached = articleCache[cacheKey] ?: emptyList()
@@ -106,10 +100,20 @@ class JaNewsViewModel : ViewModel() {
                 val response = GNewsApiService.api.searchJapaneseNews(keyword)
                 val articles = response.articles.take(10)
 
+                // 기사마다 '본문 추출 → 분석' 2번씩 순차 요청하던 것을 배치 요청 1번으로
+                val urls = articles.mapNotNull { it.url }
+                val batch = RetrofitClient.articleBatchService.analyze(ArticleBatchRequest(lang = "ja", urls = urls))
+                val resultByUrl = if (batch.isSuccessful) {
+                    batch.body()?.results.orEmpty().associateBy { it.url }
+                } else {
+                    Log.e("JaNewsViewModel", "배치 분석 실패: HTTP ${batch.code()}")
+                    emptyMap()
+                }
+
                 val analyzed = articles.mapNotNull { article ->
-                    val url = article.url ?: return@mapNotNull null
-                    val content = fetchFullText(url) ?: return@mapNotNull null
-                    val analysis = analyzeDifficulty(content) ?: return@mapNotNull null
+                    val result = resultByUrl[article.url] ?: return@mapNotNull null
+                    val content = result.text ?: return@mapNotNull null
+                    val level = result.level ?: return@mapNotNull null
 
                     GNewsArticle(
                         title = article.title ?: "제목 없음",
@@ -117,7 +121,7 @@ class JaNewsViewModel : ViewModel() {
                         url = article.url,
                         image = article.image,
                         publishedAt = article.publishedAt ?: "",
-                        difficulty = analysis.level,
+                        difficulty = level,
                         content = content
                     )
                 }
@@ -136,25 +140,6 @@ class JaNewsViewModel : ViewModel() {
         }
     }
 
-    private suspend fun fetchFullText(url: String): String? {
-        return try {
-            val response = RetrofitClient.extractService.extractArticle(mapOf("url" to url))
-            if (response.isSuccessful) response.body()?.text else null
-        } catch (e: Exception) {
-            Log.e("JaNewsViewModel", "본문 추출 실패: ${e.message}")
-            null
-        }
-    }
-
-    private suspend fun analyzeDifficulty(text: String): ArticleAnalysis? {
-        return try {
-            val response = RetrofitClient.japaneseNlpService.analyzeText(NlpRequest(text))
-            if (response.isSuccessful) response.body() else null
-        } catch (e: Exception) {
-            Log.e("JaNewsViewModel", "NLP 분석 실패: ${e.message}")
-            null
-        }
-    }
 
     private fun filterArticlesByLevel(all: List<GNewsArticle>) {
         val valid = all.filter { it.difficulty in listOf("초급", "중급", "고급") }

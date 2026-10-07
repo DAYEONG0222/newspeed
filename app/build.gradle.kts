@@ -31,6 +31,10 @@ android {
         // BuildConfig를 통해 API 키를 코드 내에서 안전하게 사용 가능
         val gnewsApiKey = localProperties.getProperty("GNEWS_API_KEY") ?: ""
         buildConfigField("String", "GNEWS_API_KEY", "\"$gnewsApiKey\"")
+
+        // 실기기에서 접속할 개발 PC 주소 (에뮬레이터는 항상 10.0.2.2 사용)
+        val flaskHost = localProperties.getProperty("FLASK_HOST") ?: "10.0.2.2"
+        buildConfigField("String", "FLASK_HOST", "\"$flaskHost\"")
     }
 
     buildTypes {

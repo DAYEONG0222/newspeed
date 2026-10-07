@@ -1,3 +1,6 @@
 ## Copy this file to local.properties and fill in values for your local machine.
 sdk.dir=C\:\\Path\\To\\Android\\Sdk
 GNEWS_API_KEY=your-gnews-api-key
+
+# 실기기에서 접속할 개발 PC의 IP (에뮬레이터는 자동으로 10.0.2.2 사용)
+# FLASK_HOST=192.168.0.10
