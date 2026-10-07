@@ -108,6 +108,25 @@ fun NavGraph(
             QuizScreen(navController, langCode, modifier)
         }
 
+        // 퀴즈 결과
+        composable(
+            route = "quiz_result/{langCode}/{total}/{correct}",
+            arguments = listOf(
+                navArgument("langCode") { type = NavType.StringType },
+                navArgument("total") { type = NavType.IntType },
+                navArgument("correct") { type = NavType.IntType }
+            )
+        ) { backStackEntry ->
+            val args = backStackEntry.arguments
+            QuizResultScreen(
+                navController = navController,
+                langCode = args?.getString("langCode") ?: "en",
+                total = args?.getInt("total") ?: 0,
+                correct = args?.getInt("correct") ?: 0,
+                modifier = modifier
+            )
+        }
+
         // 오답노트
         composable(
             route = "wrong_note/{langCode}",

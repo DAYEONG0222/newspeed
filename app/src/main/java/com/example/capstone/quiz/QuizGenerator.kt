@@ -36,8 +36,10 @@ object QuizGenerator {
 
         for (entry in shuffled) {
             val correct = entry.meaning
-            val others = filtered.filter { it.meaning != correct }.shuffled().take(3)
-            val options = (others.map { it.meaning } + correct).shuffled()
+            // 뜻이 같은 단어가 여러 개면 보기가 겹칠 수 있어 뜻 기준으로 중복 제거
+            val others = filtered.map { it.meaning }.filter { it != correct }.distinct().shuffled().take(3)
+            if (others.size < 3) continue   // 보기 4개를 만들 수 없는 단어는 출제하지 않음
+            val options = (others + correct).shuffled()
 
             quizList.add(
                 QuizQuestion(
