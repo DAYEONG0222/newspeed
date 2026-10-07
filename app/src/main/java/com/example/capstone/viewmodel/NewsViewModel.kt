@@ -15,6 +15,8 @@ import kotlinx.coroutines.awaitAll
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
+import com.example.capstone.data.local.UserLevelStore
+import com.example.capstone.data.model.UserLevel
 import retrofit2.Response
 
 class NewsViewModel : ViewModel() {
@@ -30,12 +32,26 @@ class NewsViewModel : ViewModel() {
     private val _currentLanguage = MutableStateFlow("en")
     val currentLanguage: StateFlow<String> = _currentLanguage
 
-    // ✅ 수정 (동적 로드)
+    // 저장된 레벨(직접 선택). 기존에는 "beginner" 로 고정이었다.
     private val _userLevel = MutableStateFlow("beginner")
     val userLevel: StateFlow<String> = _userLevel
 
     val primaryArticles = MutableStateFlow<List<GNewsArticle>>(emptyList())
     val secondaryArticles = MutableStateFlow<List<GNewsArticle>>(emptyList())
+
+    // primary/secondaryArticles 가 만들어진 뒤에 구독해야 초기 필터가 안전하다
+    init {
+        viewModelScope.launch {
+            UserLevelStore.level("en").collect { level ->
+                _userLevel.value = when (level) {
+                    UserLevel.BEGINNER -> "beginner"
+                    UserLevel.INTERMEDIATE -> "intermediate"
+                    UserLevel.ADVANCED -> "advanced"
+                }
+                filterArticlesByUserLevel()
+            }
+        }
+    }
 
     private val articleCache = mutableMapOf<String, List<GNewsArticle>>()
     private val cacheTimestamps = mutableMapOf<String, Long>()

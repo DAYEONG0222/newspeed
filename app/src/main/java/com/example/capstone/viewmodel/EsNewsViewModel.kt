@@ -11,6 +11,8 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
+import com.example.capstone.data.local.UserLevelStore
+import com.example.capstone.data.model.UserLevel
 
 class EsNewsViewModel : ViewModel() {
 
@@ -29,7 +31,21 @@ class EsNewsViewModel : ViewModel() {
     private val _selectedCategory = MutableStateFlow("사회")
     val selectedCategory: StateFlow<String> = _selectedCategory
 
-    val userLevel = "beginner" // 추후 동적 처리
+    // 저장된 레벨(레벨 테스트 또는 직접 선택). 기존에는 "beginner" 로 고정이었다.
+    private val levelFlow = UserLevelStore.level("es")
+    val userLevel: String
+        get() = when (levelFlow.value) {
+            UserLevel.BEGINNER -> "beginner"
+            UserLevel.INTERMEDIATE -> "intermediate"
+            UserLevel.ADVANCED -> "advanced"
+        }
+
+    init {
+        // 레벨이 바뀌면 이미 받아 둔 기사를 다시 나눈다 (네트워크 재요청 없음)
+        viewModelScope.launch {
+            levelFlow.collect { filterArticlesByLevel(_articles.value) }
+        }
+    }
 
     private val articleCache = mutableMapOf<String, List<GNewsArticle>>()
     private val cacheTimestamps = mutableMapOf<String, Long>()

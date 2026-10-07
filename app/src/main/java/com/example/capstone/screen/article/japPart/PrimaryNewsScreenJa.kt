@@ -18,6 +18,8 @@ import com.example.capstone.viewmodel.JaNewsViewModel
 import com.example.capstone.viewmodel.SharedTextViewModel
 import com.example.capstone.viewmodel.SharedUrlViewModel
 import com.example.capstone.ui.components.ArticleCard
+import com.example.capstone.ui.components.EmptyLevelMessage
+import com.example.capstone.ui.components.LevelBar
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -109,12 +111,15 @@ fun PrimaryNewsScreenJa(
             }
 
             Spacer(modifier = Modifier.height(4.dp))
+            LevelBar(langCode = "ja", navController = navController)
 
             // 로딩 중
             if (isLoading && articles.isEmpty()) {
                 Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                     CircularProgressIndicator()
                 }
+            } else if (articles.isEmpty()) {
+                EmptyLevelMessage(langCode = "ja")
             } else {
                 // 기사 리스트
                 LazyColumn(verticalArrangement = Arrangement.spacedBy(8.dp)) {

@@ -18,6 +18,8 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavHostController
 import com.example.capstone.data.api.RetrofitClient
 import com.example.capstone.ui.components.ArticleCard
+import com.example.capstone.ui.components.EmptyLevelMessage
+import com.example.capstone.ui.components.LevelBar
 import com.example.capstone.viewmodel.NewsViewModel
 import com.example.capstone.viewmodel.SharedTextViewModel
 import com.example.capstone.viewmodel.SharedUrlViewModel
@@ -106,7 +108,8 @@ fun PrimaryNewsScreen(
             }
         }
 
-        Spacer(modifier = Modifier.height(12.dp))
+        Spacer(modifier = Modifier.height(4.dp))
+        LevelBar(langCode = "en", navController = navController)
 
         when {
             isLoading && articles.isEmpty() -> {
@@ -115,9 +118,7 @@ fun PrimaryNewsScreen(
                 }
             }
             !isLoading && articles.isEmpty() -> {
-                Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                    Text("표시할 기사가 없습니다.", style = MaterialTheme.typography.bodyLarge)
-                }
+                EmptyLevelMessage(langCode = "en")
             }
             else -> {
                 LazyColumn(verticalArrangement = Arrangement.spacedBy(8.dp)) {

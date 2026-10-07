@@ -111,6 +111,14 @@ fun NavGraph(
             QuizScreen(navController, langCode, modifier)
         }
 
+        // 레벨 테스트
+        composable(
+            route = "level_test/{langCode}",
+            arguments = listOf(navArgument("langCode") { type = NavType.StringType })
+        ) { backStackEntry ->
+            LevelTestScreen(navController, backStackEntry.arguments?.getString("langCode") ?: "ja", modifier)
+        }
+
         // 퀴즈 결과
         composable(
             route = "quiz_result/{langCode}/{total}/{correct}",

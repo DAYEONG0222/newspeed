@@ -22,6 +22,7 @@ import com.example.capstone.navigation.Screen
 import com.example.capstone.theme.capstoneTheme
 import com.example.capstone.viewmodel.*
 import com.example.capstone.data.local.AppDatabase
+import com.example.capstone.data.local.UserLevelStore
 import com.example.capstone.data.local.entity.Code
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -30,6 +31,7 @@ import kotlinx.coroutines.launch
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        UserLevelStore.init(applicationContext)
 
         val db = AppDatabase.getDatabase(applicationContext)
         val codeDao = db.codeDao()

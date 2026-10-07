@@ -15,6 +15,8 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import com.example.capstone.ui.components.ArticleCard
+import com.example.capstone.ui.components.EmptyLevelMessage
+import com.example.capstone.ui.components.LevelBar
 import com.example.capstone.viewmodel.EsNewsViewModel
 import com.example.capstone.viewmodel.SharedTextViewModel
 import com.example.capstone.viewmodel.SharedUrlViewModel
@@ -95,11 +97,14 @@ fun PrimaryNewsScreenEs(
             }
 
             Spacer(modifier = Modifier.height(4.dp))
+            LevelBar(langCode = "es", navController = navController)
 
             if (isLoading && articles.isEmpty()) {
                 Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                     CircularProgressIndicator()
                 }
+            } else if (articles.isEmpty()) {
+                EmptyLevelMessage(langCode = "es")
             } else {
                 LazyColumn(verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     items(articles) { article ->
