@@ -66,7 +66,8 @@ fun MyApp(
     val sharedUrlViewModel: SharedUrlViewModel = viewModel()
     val sharedTextViewModel: SharedTextViewModel = viewModel()
     val sharedProfileViewModel: SharedProfileViewModel = viewModel()
-    val jaNewsViewModel: JaNewsViewModel = viewModel() // 추가됨
+    val jaNewsViewModel: JaNewsViewModel = viewModel()
+    val esNewsViewModel: EsNewsViewModel = viewModel()
 
     val navBackStackEntry by navController.currentBackStackEntryAsState()
     val currentRoute = navBackStackEntry?.destination?.route
@@ -86,6 +87,7 @@ fun MyApp(
             isDarkMode = isDarkMode,
             onToggleDarkMode = onToggleDarkMode,
             jaNewsViewModel = jaNewsViewModel,
+            esNewsViewModel = esNewsViewModel,
             modifier = Modifier
         )
     } else {
@@ -148,6 +150,7 @@ fun MyApp(
                     isDarkMode = isDarkMode,
                     onToggleDarkMode = onToggleDarkMode,
                     jaNewsViewModel = jaNewsViewModel,
+            esNewsViewModel = esNewsViewModel,
                     modifier = Modifier.padding(innerPadding)
                 )
             }

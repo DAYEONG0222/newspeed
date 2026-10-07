@@ -19,6 +19,7 @@ import com.example.capstone.screen.article.jaPart.PrimaryNewsScreenJa
 import com.example.capstone.screen.article.jaPart.SecondaryNewsScreenJa
 import com.example.capstone.screen.article.spanishPart.PrimaryNewsScreenEs
 import com.example.capstone.screen.article.spanishPart.SecondaryNewsScreenEs
+import com.example.capstone.viewmodel.EsNewsViewModel
 import com.example.capstone.viewmodel.JaNewsViewModel
 import com.example.capstone.viewmodel.SharedProfileViewModel
 import com.example.capstone.viewmodel.SharedTextViewModel
@@ -32,7 +33,9 @@ fun NavGraph(
     profileViewModel: SharedProfileViewModel,
     isDarkMode: Boolean,
     onToggleDarkMode: (Boolean) -> Unit,
-    jaNewsViewModel: JaNewsViewModel, // 필요시 명시적으로 넘김
+    // My Level / Other Level 탭이 같은 ViewModel 을 써야 기사 목록을 한 번만 받아온다
+    jaNewsViewModel: JaNewsViewModel,
+    esNewsViewModel: EsNewsViewModel,
     modifier: Modifier = Modifier
 ) {
     NavHost(
@@ -79,10 +82,10 @@ fun NavGraph(
 
         // 일본어 뉴스
         composable(Screen.PrimaryNewsJa.route) {
-            PrimaryNewsScreenJa(navController, sharedUrlViewModel, sharedTextViewModel)
+            PrimaryNewsScreenJa(navController, sharedUrlViewModel, sharedTextViewModel, jaNewsViewModel)
         }
         composable(Screen.SecondaryNewsJa.route) {
-            SecondaryNewsScreenJa(navController, sharedUrlViewModel, sharedTextViewModel)
+            SecondaryNewsScreenJa(navController, sharedUrlViewModel, sharedTextViewModel, jaNewsViewModel)
         }
         composable(Screen.ArticleDetailJa.route) {
             ArticleDetailScreenJa(sharedUrlViewModel, sharedTextViewModel)
@@ -90,10 +93,10 @@ fun NavGraph(
 
         // 스페인어 뉴스
         composable(Screen.PrimaryNewsEs.route) {
-            PrimaryNewsScreenEs(navController, sharedUrlViewModel, sharedTextViewModel)
+            PrimaryNewsScreenEs(navController, sharedUrlViewModel, sharedTextViewModel, esNewsViewModel)
         }
         composable(Screen.SecondaryNewsEs.route) {
-            SecondaryNewsScreenEs(navController, sharedUrlViewModel, sharedTextViewModel)
+            SecondaryNewsScreenEs(navController, sharedUrlViewModel, sharedTextViewModel, esNewsViewModel)
         }
         composable(Screen.ArticleDetailEs.route) {
             ArticleDetailScreenEs(sharedUrlViewModel, sharedTextViewModel)

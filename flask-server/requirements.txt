@@ -2,6 +2,7 @@ flask>=3.1
 requests>=2.32
 trafilatura>=2.0
 python-dotenv>=1.0
+waitress>=3.0
 # 일본어: MeCab(fugashi) + UniDic
 fugashi>=1.4
 unidic-lite>=1.0.8
