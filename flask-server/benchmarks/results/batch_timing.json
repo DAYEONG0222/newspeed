@@ -1,0 +1,21 @@
+{
+  "ja": {
+    "articles": 10,
+    "analyzed_ok_min": 10,
+    "sequential_s": 10.84,
+    "batch_s": 4.18,
+    "cached_s": 0.003,
+    "speedup": 2.6,
+    "rounds": 3
+  },
+  "es": {
+    "articles": 10,
+    "analyzed_ok_min": 10,
+    "sequential_s": 10.29,
+    "batch_s": 3.12,
+    "cached_s": 0.004,
+    "speedup": 3.3,
+    "rounds": 3
+  },
+  "measured_at": "2026-10-07 15:09"
+}

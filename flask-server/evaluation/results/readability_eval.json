@@ -1,0 +1,56 @@
+{
+  "ja": {
+    "pairs": 150,
+    "legacy": {
+      "pair_accuracy": 0.053,
+      "auc": 0.198,
+      "easy_levels": {
+        "초급": 150
+      },
+      "hard_levels": {
+        "초급": 150
+      }
+    },
+    "improved": {
+      "pair_accuracy": 0.66,
+      "auc": 0.555,
+      "easy_levels": {
+        "중급": 150
+      },
+      "hard_levels": {
+        "중급": 150
+      }
+    }
+  },
+  "es": {
+    "pairs": 100,
+    "legacy": {
+      "pair_accuracy": 0.77,
+      "auc": 0.721,
+      "easy_levels": {
+        "중급": 69,
+        "초급": 30,
+        "고급": 1
+      },
+      "hard_levels": {
+        "중급": 87,
+        "고급": 2,
+        "초급": 11
+      }
+    },
+    "improved": {
+      "pair_accuracy": 0.81,
+      "auc": 0.72,
+      "easy_levels": {
+        "중급": 37,
+        "초급": 43,
+        "고급": 20
+      },
+      "hard_levels": {
+        "고급": 47,
+        "중급": 40,
+        "초급": 13
+      }
+    }
+  }
+}

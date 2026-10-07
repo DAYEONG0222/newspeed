@@ -10,3 +10,6 @@ venv/
 
 # Google Cloud Service Account 키
 *.json
+# 측정 결과(수치만)는 공개
+!evaluation/results/*.json
+!benchmarks/results/*.json
