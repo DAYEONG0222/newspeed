@@ -12,7 +12,7 @@ import com.example.capstone.data.model.LanguageType
 import com.example.capstone.data.model.UserLevel
 import com.example.capstone.data.service.LevelTestService
 
-/** 뉴스 화면 상단: 현재 레벨 표시 + 직접 변경 + 레벨 테스트(일본어·스페인어) */
+/** 뉴스 화면 상단: 현재 레벨 표시 + 직접 변경 + 레벨 테스트 */
 @Composable
 fun LevelBar(langCode: String, navController: NavController, modifier: Modifier = Modifier) {
     val level by UserLevelStore.level(langCode).collectAsState()

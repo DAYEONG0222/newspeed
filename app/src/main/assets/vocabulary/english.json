@@ -1,0 +1,12881 @@
+{
+ "source": "NGSL 1.2 (Browne, Culligan & Phillips), https://www.newgeneralservicelist.com",
+ "license": "CC BY-SA 4.0 — 한국어 뜻은 Google Cloud Translation 으로 생성",
+ "english_vocabulary": [
+  {
+   "english": "child",
+   "korean": "어린이",
+   "rank": 102
+  },
+  {
+   "english": "tell",
+   "korean": "말하다",
+   "rank": 103
+  },
+  {
+   "english": "company",
+   "korean": "회사",
+   "rank": 107
+  },
+  {
+   "english": "life",
+   "korean": "삶",
+   "rank": 111
+  },
+  {
+   "english": "man",
+   "korean": "남성",
+   "rank": 112
+  },
+  {
+   "english": "change",
+   "korean": "변화",
+   "rank": 113
+  },
+  {
+   "english": "place",
+   "korean": "장소",
+   "rank": 114
+  },
+  {
+   "english": "long",
+   "korean": "긴",
+   "rank": 115
+  },
+  {
+   "english": "feel",
+   "korean": "느끼다",
+   "rank": 117
+  },
+  {
+   "english": "problem",
+   "korean": "문제",
+   "rank": 120
+  },
+  {
+   "english": "write",
+   "korean": "쓰다",
+   "rank": 121
+  },
+  {
+   "english": "lot",
+   "korean": "많은",
+   "rank": 123
+  },
+  {
+   "english": "great",
+   "korean": "엄청난",
+   "rank": 124
+  },
+  {
+   "english": "try",
+   "korean": "노력하다",
+   "rank": 125
+  },
+  {
+   "english": "leave",
+   "korean": "떠나다",
+   "rank": 126
+  },
+  {
+   "english": "number",
+   "korean": "숫자",
+   "rank": 127
+  },
+  {
+   "english": "point",
+   "korean": "가리키다",
+   "rank": 131
+  },
+  {
+   "english": "little",
+   "korean": "작은",
+   "rank": 132
+  },
+  {
+   "english": "help",
+   "korean": "돕다",
+   "rank": 133
+  },
+  {
+   "english": "ask",
+   "korean": "묻다",
+   "rank": 134
+  },
+  {
+   "english": "meet",
+   "korean": "만나다",
+   "rank": 135
+  },
+  {
+   "english": "start",
+   "korean": "시작",
+   "rank": 136
+  },
+  {
+   "english": "talk",
+   "korean": "말하다",
+   "rank": 137
+  },
+  {
+   "english": "interest",
+   "korean": "관심",
+   "rank": 142
+  },
+  {
+   "english": "country",
+   "korean": "국가",
+   "rank": 143
+  },
+  {
+   "english": "old",
+   "korean": "오래된",
+   "rank": 144
+  },
+  {
+   "english": "school",
+   "korean": "학교",
+   "rank": 146
+  },
+  {
+   "english": "late",
+   "korean": "늦은",
+   "rank": 147
+  },
+  {
+   "english": "high",
+   "korean": "높은",
+   "rank": 148
+  },
+  {
+   "english": "different",
+   "korean": "다른",
+   "rank": 149
+  },
+  {
+   "english": "end",
+   "korean": "끝",
+   "rank": 152
+  },
+  {
+   "english": "live",
+   "korean": "살다",
+   "rank": 153
+  },
+  {
+   "english": "world",
+   "korean": "세계",
+   "rank": 156
+  },
+  {
+   "english": "week",
+   "korean": "주",
+   "rank": 157
+  },
+  {
+   "english": "play",
+   "korean": "놀다",
+   "rank": 158
+  },
+  {
+   "english": "home",
+   "korean": "집",
+   "rank": 161
+  },
+  {
+   "english": "include",
+   "korean": "포함하다",
+   "rank": 163
+  },
+  {
+   "english": "course",
+   "korean": "강의",
+   "rank": 164
+  },
+  {
+   "english": "house",
+   "korean": "집",
+   "rank": 165
+  },
+  {
+   "english": "report",
+   "korean": "보고서",
+   "rank": 166
+  },
+  {
+   "english": "group",
+   "korean": "그룹",
+   "rank": 167
+  },
+  {
+   "english": "case",
+   "korean": "사례",
+   "rank": 168
+  },
+  {
+   "english": "woman",
+   "korean": "여성",
+   "rank": 169
+  },
+  {
+   "english": "book",
+   "korean": "책",
+   "rank": 171
+  },
+  {
+   "english": "family",
+   "korean": "가족",
+   "rank": 172
+  },
+  {
+   "english": "let",
+   "korean": "허락하다",
+   "rank": 174
+  },
+  {
+   "english": "kind",
+   "korean": "친절한",
+   "rank": 176
+  },
+  {
+   "english": "hear",
+   "korean": "듣다",
+   "rank": 178
+  },
+  {
+   "english": "system",
+   "korean": "체계",
+   "rank": 179
+  },
+  {
+   "english": "question",
+   "korean": "질문",
+   "rank": 181
+  },
+  {
+   "english": "big",
+   "korean": "큰",
+   "rank": 184
+  },
+  {
+   "english": "set",
+   "korean": "세트",
+   "rank": 185
+  },
+  {
+   "english": "small",
+   "korean": "작은",
+   "rank": 186
+  },
+  {
+   "english": "study",
+   "korean": "공부하다",
+   "rank": 187
+  },
+  {
+   "english": "follow",
+   "korean": "따르다",
+   "rank": 188
+  },
+  {
+   "english": "begin",
+   "korean": "시작하다",
+   "rank": 189
+  },
+  {
+   "english": "important",
+   "korean": "중요한",
+   "rank": 190
+  },
+  {
+   "english": "run",
+   "korean": "달리다",
+   "rank": 192
+  },
+  {
+   "english": "turn",
+   "korean": "회전하다",
+   "rank": 194
+  },
+  {
+   "english": "bring",
+   "korean": "가져오다",
+   "rank": 196
+  },
+  {
+   "english": "early",
+   "korean": "일찍",
+   "rank": 197
+  },
+  {
+   "english": "hand",
+   "korean": "손",
+   "rank": 198
+  },
+  {
+   "english": "state",
+   "korean": "상태",
+   "rank": 199
+  },
+  {
+   "english": "money",
+   "korean": "돈",
+   "rank": 201
+  },
+  {
+   "english": "fact",
+   "korean": "사실",
+   "rank": 202
+  },
+  {
+   "english": "area",
+   "korean": "영역",
+   "rank": 204
+  },
+  {
+   "english": "provide",
+   "korean": "제공하다",
+   "rank": 205
+  },
+  {
+   "english": "read",
+   "korean": "읽다",
+   "rank": 207
+  },
+  {
+   "english": "friend",
+   "korean": "친구",
+   "rank": 208
+  },
+  {
+   "english": "month",
+   "korean": "월",
+   "rank": 209
+  },
+  {
+   "english": "large",
+   "korean": "크기가 큰",
+   "rank": 210
+  },
+  {
+   "english": "business",
+   "korean": "사업",
+   "rank": 211
+  },
+  {
+   "english": "information",
+   "korean": "정보",
+   "rank": 213
+  },
+  {
+   "english": "open",
+   "korean": "열려 있는",
+   "rank": 214
+  },
+  {
+   "english": "order",
+   "korean": "주문하다",
+   "rank": 215
+  },
+  {
+   "english": "government",
+   "korean": "정부",
+   "rank": 216
+  },
+  {
+   "english": "word",
+   "korean": "단어",
+   "rank": 217
+  },
+  {
+   "english": "issue",
+   "korean": "문제",
+   "rank": 218
+  },
+  {
+   "english": "market",
+   "korean": "시장",
+   "rank": 219
+  },
+  {
+   "english": "pay",
+   "korean": "지불하다",
+   "rank": 220
+  },
+  {
+   "english": "build",
+   "korean": "짓다",
+   "rank": 221
+  },
+  {
+   "english": "hold",
+   "korean": "잡고 있다",
+   "rank": 222
+  },
+  {
+   "english": "service",
+   "korean": "서비스",
+   "rank": 223
+  },
+  {
+   "english": "believe",
+   "korean": "믿다",
+   "rank": 225
+  },
+  {
+   "english": "second",
+   "korean": "두번째",
+   "rank": 226
+  },
+  {
+   "english": "yes",
+   "korean": "예",
+   "rank": 228
+  },
+  {
+   "english": "love",
+   "korean": "사랑",
+   "rank": 229
+  },
+  {
+   "english": "increase",
+   "korean": "증가하다",
+   "rank": 230
+  },
+  {
+   "english": "job",
+   "korean": "직업",
+   "rank": 231
+  },
+  {
+   "english": "plan",
+   "korean": "계획",
+   "rank": 232
+  },
+  {
+   "english": "result",
+   "korean": "결과",
+   "rank": 233
+  },
+  {
+   "english": "away",
+   "korean": "떨어져 있는",
+   "rank": 234
+  },
+  {
+   "english": "example",
+   "korean": "예",
+   "rank": 235
+  },
+  {
+   "english": "happen",
+   "korean": "일어나다",
+   "rank": 236
+  },
+  {
+   "english": "offer",
+   "korean": "권하다",
+   "rank": 237
+  },
+  {
+   "english": "young",
+   "korean": "어린",
+   "rank": 238
+  },
+  {
+   "english": "close",
+   "korean": "닫다",
+   "rank": 239
+  },
+  {
+   "english": "program",
+   "korean": "프로그램",
+   "rank": 240
+  },
+  {
+   "english": "lead",
+   "korean": "선두",
+   "rank": 241
+  },
+  {
+   "english": "buy",
+   "korean": "구입하다",
+   "rank": 242
+  },
+  {
+   "english": "understand",
+   "korean": "이해하다",
+   "rank": 243
+  },
+  {
+   "english": "thank",
+   "korean": "감사하다",
+   "rank": 244
+  },
+  {
+   "english": "far",
+   "korean": "멀리",
+   "rank": 245
+  },
+  {
+   "english": "today",
+   "korean": "오늘",
+   "rank": 246
+  },
+  {
+   "english": "hour",
+   "korean": "시간",
+   "rank": 247
+  },
+  {
+   "english": "student",
+   "korean": "학생",
+   "rank": 248
+  },
+  {
+   "english": "face",
+   "korean": "얼굴",
+   "rank": 249
+  },
+  {
+   "english": "hope",
+   "korean": "희망",
+   "rank": 250
+  },
+  {
+   "english": "idea",
+   "korean": "아이디어",
+   "rank": 251
+  },
+  {
+   "english": "cost",
+   "korean": "비용",
+   "rank": 252
+  },
+  {
+   "english": "room",
+   "korean": "방",
+   "rank": 254
+  },
+  {
+   "english": "reason",
+   "korean": "이유",
+   "rank": 256
+  },
+  {
+   "english": "form",
+   "korean": "형태",
+   "rank": 257
+  },
+  {
+   "english": "spend",
+   "korean": "경비",
+   "rank": 258
+  },
+  {
+   "english": "head",
+   "korean": "머리",
+   "rank": 259
+  },
+  {
+   "english": "car",
+   "korean": "자동차",
+   "rank": 260
+  },
+  {
+   "english": "learn",
+   "korean": "배우다",
+   "rank": 261
+  },
+  {
+   "english": "level",
+   "korean": "수준",
+   "rank": 262
+  },
+  {
+   "english": "person",
+   "korean": "사람",
+   "rank": 263
+  },
+  {
+   "english": "experience",
+   "korean": "경험",
+   "rank": 264
+  },
+  {
+   "english": "member",
+   "korean": "회원",
+   "rank": 266
+  },
+  {
+   "english": "bad",
+   "korean": "나쁜",
+   "rank": 268
+  },
+  {
+   "english": "city",
+   "korean": "도시",
+   "rank": 269
+  },
+  {
+   "english": "night",
+   "korean": "밤",
+   "rank": 270
+  },
+  {
+   "english": "able",
+   "korean": "할 수 있는",
+   "rank": 271
+  },
+  {
+   "english": "support",
+   "korean": "지원하다",
+   "rank": 272
+  },
+  {
+   "english": "line",
+   "korean": "선",
+   "rank": 274
+  },
+  {
+   "english": "present",
+   "korean": "현재의",
+   "rank": 275
+  },
+  {
+   "english": "sure",
+   "korean": "확신하는",
+   "rank": 279
+  },
+  {
+   "english": "term",
+   "korean": "용어",
+   "rank": 280
+  },
+  {
+   "english": "age",
+   "korean": "나이",
+   "rank": 282
+  },
+  {
+   "english": "low",
+   "korean": "낮은",
+   "rank": 283
+  },
+  {
+   "english": "speak",
+   "korean": "말하다",
+   "rank": 284
+  },
+  {
+   "english": "process",
+   "korean": "프로세스",
+   "rank": 286
+  },
+  {
+   "english": "public",
+   "korean": "공공의",
+   "rank": 287
+  },
+  {
+   "english": "train",
+   "korean": "기차",
+   "rank": 289
+  },
+  {
+   "english": "possible",
+   "korean": "가능한",
+   "rank": 290
+  },
+  {
+   "english": "actually",
+   "korean": "실제로",
+   "rank": 291
+  },
+  {
+   "english": "view",
+   "korean": "보다",
+   "rank": 293
+  },
+  {
+   "english": "consider",
+   "korean": "고려하다",
+   "rank": 295
+  },
+  {
+   "english": "price",
+   "korean": "가격",
+   "rank": 296
+  },
+  {
+   "english": "parent",
+   "korean": "조상",
+   "rank": 297
+  },
+  {
+   "english": "hard",
+   "korean": "딱딱한",
+   "rank": 298
+  },
+  {
+   "english": "party",
+   "korean": "파티",
+   "rank": 299
+  },
+  {
+   "english": "local",
+   "korean": "현지의",
+   "rank": 300
+  },
+  {
+   "english": "control",
+   "korean": "제어",
+   "rank": 301
+  },
+  {
+   "english": "concern",
+   "korean": "우려",
+   "rank": 303
+  },
+  {
+   "english": "product",
+   "korean": "제품",
+   "rank": 304
+  },
+  {
+   "english": "lose",
+   "korean": "잃다",
+   "rank": 305
+  },
+  {
+   "english": "story",
+   "korean": "이야기",
+   "rank": 306
+  },
+  {
+   "english": "continue",
+   "korean": "계속하다",
+   "rank": 308
+  },
+  {
+   "english": "stand",
+   "korean": "서다",
+   "rank": 309
+  },
+  {
+   "english": "rate",
+   "korean": "비율",
+   "rank": 312
+  },
+  {
+   "english": "care",
+   "korean": "케어",
+   "rank": 313
+  },
+  {
+   "english": "expect",
+   "korean": "예상하다",
+   "rank": 314
+  },
+  {
+   "english": "effect",
+   "korean": "효과",
+   "rank": 315
+  },
+  {
+   "english": "sort",
+   "korean": "종류",
+   "rank": 316
+  },
+  {
+   "english": "cause",
+   "korean": "원인",
+   "rank": 319
+  },
+  {
+   "english": "fall",
+   "korean": "떨어지다",
+   "rank": 320
+  },
+  {
+   "english": "deal",
+   "korean": "거래",
+   "rank": 321
+  },
+  {
+   "english": "water",
+   "korean": "물",
+   "rank": 322
+  },
+  {
+   "english": "send",
+   "korean": "보내다",
+   "rank": 323
+  },
+  {
+   "english": "allow",
+   "korean": "허용하다",
+   "rank": 324
+  },
+  {
+   "english": "soon",
+   "korean": "곧",
+   "rank": 325
+  },
+  {
+   "english": "watch",
+   "korean": "보다",
+   "rank": 326
+  },
+  {
+   "english": "base",
+   "korean": "베이스",
+   "rank": 327
+  },
+  {
+   "english": "probably",
+   "korean": "아마",
+   "rank": 328
+  },
+  {
+   "english": "suggest",
+   "korean": "제안하다",
+   "rank": 329
+  },
+  {
+   "english": "past",
+   "korean": "과거",
+   "rank": 330
+  },
+  {
+   "english": "power",
+   "korean": "힘",
+   "rank": 331
+  },
+  {
+   "english": "test",
+   "korean": "시험",
+   "rank": 332
+  },
+  {
+   "english": "visit",
+   "korean": "방문하다",
+   "rank": 333
+  },
+  {
+   "english": "center",
+   "korean": "센터",
+   "rank": 334
+  },
+  {
+   "english": "grow",
+   "korean": "자라다",
+   "rank": 335
+  },
+  {
+   "english": "return",
+   "korean": "반품",
+   "rank": 337
+  },
+  {
+   "english": "mother",
+   "korean": "어머니",
+   "rank": 338
+  },
+  {
+   "english": "walk",
+   "korean": "걷다",
+   "rank": 339
+  },
+  {
+   "english": "matter",
+   "korean": "문제",
+   "rank": 340
+  },
+  {
+   "english": "mind",
+   "korean": "정신",
+   "rank": 341
+  },
+  {
+   "english": "value",
+   "korean": "값",
+   "rank": 342
+  },
+  {
+   "english": "office",
+   "korean": "사무실",
+   "rank": 343
+  },
+  {
+   "english": "record",
+   "korean": "기록",
+   "rank": 344
+  },
+  {
+   "english": "stay",
+   "korean": "머무르다",
+   "rank": 345
+  },
+  {
+   "english": "force",
+   "korean": "힘",
+   "rank": 346
+  },
+  {
+   "english": "stop",
+   "korean": "멈추다",
+   "rank": 347
+  },
+  {
+   "english": "light",
+   "korean": "빛",
+   "rank": 349
+  },
+  {
+   "english": "develop",
+   "korean": "개발하다",
+   "rank": 350
+  },
+  {
+   "english": "remember",
+   "korean": "기억하다",
+   "rank": 351
+  },
+  {
+   "english": "bit",
+   "korean": "조금",
+   "rank": 352
+  },
+  {
+   "english": "share",
+   "korean": "공유하다",
+   "rank": 353
+  },
+  {
+   "english": "real",
+   "korean": "진짜",
+   "rank": 354
+  },
+  {
+   "english": "answer",
+   "korean": "답변",
+   "rank": 355
+  },
+  {
+   "english": "sit",
+   "korean": "앉다",
+   "rank": 356
+  },
+  {
+   "english": "figure",
+   "korean": "수치",
+   "rank": 357
+  },
+  {
+   "english": "letter",
+   "korean": "편지",
+   "rank": 358
+  },
+  {
+   "english": "decide",
+   "korean": "결정하다",
+   "rank": 359
+  },
+  {
+   "english": "language",
+   "korean": "언어",
+   "rank": 360
+  },
+  {
+   "english": "subject",
+   "korean": "주제",
+   "rank": 361
+  },
+  {
+   "english": "class",
+   "korean": "수업",
+   "rank": 362
+  },
+  {
+   "english": "development",
+   "korean": "개발",
+   "rank": 363
+  },
+  {
+   "english": "town",
+   "korean": "도시",
+   "rank": 364
+  },
+  {
+   "english": "half",
+   "korean": "반",
+   "rank": 365
+  },
+  {
+   "english": "minute",
+   "korean": "분",
+   "rank": 366
+  },
+  {
+   "english": "food",
+   "korean": "음식",
+   "rank": 367
+  },
+  {
+   "english": "break",
+   "korean": "부서지다",
+   "rank": 368
+  },
+  {
+   "english": "clear",
+   "korean": "분명한",
+   "rank": 369
+  },
+  {
+   "english": "future",
+   "korean": "미래",
+   "rank": 370
+  },
+  {
+   "english": "ago",
+   "korean": "~ 전에",
+   "rank": 372
+  },
+  {
+   "english": "remain",
+   "korean": "유지하다",
+   "rank": 374
+  },
+  {
+   "english": "win",
+   "korean": "이기다",
+   "rank": 377
+  },
+  {
+   "english": "color",
+   "korean": "색상",
+   "rank": 378
+  },
+  {
+   "english": "involve",
+   "korean": "관련시키다",
+   "rank": 379
+  },
+  {
+   "english": "reach",
+   "korean": "도달하다",
+   "rank": 380
+  },
+  {
+   "english": "social",
+   "korean": "사회의",
+   "rank": 381
+  },
+  {
+   "english": "period",
+   "korean": "기간",
+   "rank": 382
+  },
+  {
+   "english": "note",
+   "korean": "메모",
+   "rank": 384
+  },
+  {
+   "english": "history",
+   "korean": "역사",
+   "rank": 385
+  },
+  {
+   "english": "create",
+   "korean": "만들다",
+   "rank": 386
+  },
+  {
+   "english": "drive",
+   "korean": "운전하다",
+   "rank": 387
+  },
+  {
+   "english": "type",
+   "korean": "유형",
+   "rank": 389
+  },
+  {
+   "english": "sound",
+   "korean": "소리",
+   "rank": 390
+  },
+  {
+   "english": "eye",
+   "korean": "눈",
+   "rank": 391
+  },
+  {
+   "english": "music",
+   "korean": "음악",
+   "rank": 392
+  },
+  {
+   "english": "game",
+   "korean": "게임",
+   "rank": 393
+  },
+  {
+   "english": "political",
+   "korean": "정치적인",
+   "rank": 394
+  },
+  {
+   "english": "free",
+   "korean": "무료",
+   "rank": 395
+  },
+  {
+   "english": "receive",
+   "korean": "받다",
+   "rank": 396
+  },
+  {
+   "english": "moment",
+   "korean": "순간",
+   "rank": 397
+  },
+  {
+   "english": "sale",
+   "korean": "판매",
+   "rank": 398
+  },
+  {
+   "english": "policy",
+   "korean": "정책",
+   "rank": 399
+  },
+  {
+   "english": "body",
+   "korean": "몸",
+   "rank": 401
+  },
+  {
+   "english": "require",
+   "korean": "필요하다",
+   "rank": 402
+  },
+  {
+   "english": "wait",
+   "korean": "기다리다",
+   "rank": 403
+  },
+  {
+   "english": "general",
+   "korean": "일반적인",
+   "rank": 404
+  },
+  {
+   "english": "appear",
+   "korean": "나타나다",
+   "rank": 405
+  },
+  {
+   "english": "team",
+   "korean": "팀",
+   "rank": 407
+  },
+  {
+   "english": "easy",
+   "korean": "쉬운",
+   "rank": 408
+  },
+  {
+   "english": "individual",
+   "korean": "개인",
+   "rank": 409
+  },
+  {
+   "english": "black",
+   "korean": "검은색",
+   "rank": 411
+  },
+  {
+   "english": "sense",
+   "korean": "감각",
+   "rank": 412
+  },
+  {
+   "english": "add",
+   "korean": "추가하다",
+   "rank": 414
+  },
+  {
+   "english": "rule",
+   "korean": "규칙",
+   "rank": 415
+  },
+  {
+   "english": "pass",
+   "korean": "통과하다",
+   "rank": 416
+  },
+  {
+   "english": "produce",
+   "korean": "생산하다",
+   "rank": 417
+  },
+  {
+   "english": "sell",
+   "korean": "팔다",
+   "rank": 418
+  },
+  {
+   "english": "short",
+   "korean": "짧은",
+   "rank": 419
+  },
+  {
+   "english": "agree",
+   "korean": "동의하다",
+   "rank": 420
+  },
+  {
+   "english": "law",
+   "korean": "법",
+   "rank": 421
+  },
+  {
+   "english": "research",
+   "korean": "연구",
+   "rank": 423
+  },
+  {
+   "english": "cover",
+   "korean": "씌우다",
+   "rank": 424
+  },
+  {
+   "english": "paper",
+   "korean": "종이",
+   "rank": 425
+  },
+  {
+   "english": "position",
+   "korean": "위치",
+   "rank": 426
+  },
+  {
+   "english": "near",
+   "korean": "가까운",
+   "rank": 427
+  },
+  {
+   "english": "human",
+   "korean": "인간",
+   "rank": 428
+  },
+  {
+   "english": "computer",
+   "korean": "컴퓨터",
+   "rank": 429
+  },
+  {
+   "english": "situation",
+   "korean": "상황",
+   "rank": 430
+  },
+  {
+   "english": "staff",
+   "korean": "직원",
+   "rank": 431
+  },
+  {
+   "english": "activity",
+   "korean": "활동",
+   "rank": 432
+  },
+  {
+   "english": "film",
+   "korean": "영화",
+   "rank": 433
+  },
+  {
+   "english": "morning",
+   "korean": "아침",
+   "rank": 434
+  },
+  {
+   "english": "war",
+   "korean": "전쟁",
+   "rank": 435
+  },
+  {
+   "english": "account",
+   "korean": "계정",
+   "rank": 436
+  },
+  {
+   "english": "shop",
+   "korean": "가게",
+   "rank": 437
+  },
+  {
+   "english": "major",
+   "korean": "주요한",
+   "rank": 438
+  },
+  {
+   "english": "design",
+   "korean": "설계",
+   "rank": 441
+  },
+  {
+   "english": "event",
+   "korean": "이벤트",
+   "rank": 442
+  },
+  {
+   "english": "special",
+   "korean": "특별한",
+   "rank": 443
+  },
+  {
+   "english": "condition",
+   "korean": "상태",
+   "rank": 445
+  },
+  {
+   "english": "carry",
+   "korean": "나르다",
+   "rank": 446
+  },
+  {
+   "english": "choose",
+   "korean": "선택하다",
+   "rank": 447
+  },
+  {
+   "english": "father",
+   "korean": "아버지",
+   "rank": 448
+  },
+  {
+   "english": "decision",
+   "korean": "결정",
+   "rank": 449
+  },
+  {
+   "english": "table",
+   "korean": "테이블",
+   "rank": 450
+  },
+  {
+   "english": "certain",
+   "korean": "확실한",
+   "rank": 451
+  },
+  {
+   "english": "forward",
+   "korean": "앞으로",
+   "rank": 452
+  },
+  {
+   "english": "main",
+   "korean": "기본",
+   "rank": 453
+  },
+  {
+   "english": "die",
+   "korean": "주사위",
+   "rank": 454
+  },
+  {
+   "english": "bear",
+   "korean": "곰",
+   "rank": 455
+  },
+  {
+   "english": "cut",
+   "korean": "자르다",
+   "rank": 456
+  },
+  {
+   "english": "describe",
+   "korean": "설명하다",
+   "rank": 457
+  },
+  {
+   "english": "available",
+   "korean": "사용 가능",
+   "rank": 459
+  },
+  {
+   "english": "especially",
+   "korean": "특히",
+   "rank": 460
+  },
+  {
+   "english": "strong",
+   "korean": "강한",
+   "rank": 461
+  },
+  {
+   "english": "rise",
+   "korean": "증가",
+   "rank": 462
+  },
+  {
+   "english": "girl",
+   "korean": "소녀",
+   "rank": 463
+  },
+  {
+   "english": "maybe",
+   "korean": "아마도",
+   "rank": 464
+  },
+  {
+   "english": "community",
+   "korean": "지역 사회",
+   "rank": 465
+  },
+  {
+   "english": "particular",
+   "korean": "특정한",
+   "rank": 467
+  },
+  {
+   "english": "role",
+   "korean": "역할",
+   "rank": 468
+  },
+  {
+   "english": "join",
+   "korean": "가입하다",
+   "rank": 469
+  },
+  {
+   "english": "difficult",
+   "korean": "어려운",
+   "rank": 470
+  },
+  {
+   "english": "detail",
+   "korean": "세부 사항",
+   "rank": 472
+  },
+  {
+   "english": "difference",
+   "korean": "차이점",
+   "rank": 473
+  },
+  {
+   "english": "action",
+   "korean": "행동",
+   "rank": 474
+  },
+  {
+   "english": "health",
+   "korean": "건강",
+   "rank": 475
+  },
+  {
+   "english": "eat",
+   "korean": "먹다",
+   "rank": 476
+  },
+  {
+   "english": "step",
+   "korean": "단계",
+   "rank": 477
+  },
+  {
+   "english": "TRUE",
+   "korean": "진실",
+   "rank": 478
+  },
+  {
+   "english": "phone",
+   "korean": "핸드폰",
+   "rank": 479
+  },
+  {
+   "english": "draw",
+   "korean": "그리다",
+   "rank": 481
+  },
+  {
+   "english": "white",
+   "korean": "하얀색",
+   "rank": 482
+  },
+  {
+   "english": "date",
+   "korean": "날짜",
+   "rank": 483
+  },
+  {
+   "english": "practice",
+   "korean": "관행",
+   "rank": 484
+  },
+  {
+   "english": "model",
+   "korean": "모델",
+   "rank": 485
+  },
+  {
+   "english": "raise",
+   "korean": "들어올리다",
+   "rank": 486
+  },
+  {
+   "english": "customer",
+   "korean": "고객",
+   "rank": 487
+  },
+  {
+   "english": "explain",
+   "korean": "설명하다",
+   "rank": 489
+  },
+  {
+   "english": "door",
+   "korean": "문",
+   "rank": 490
+  },
+  {
+   "english": "outside",
+   "korean": "밖의",
+   "rank": 491
+  },
+  {
+   "english": "economic",
+   "korean": "간결한",
+   "rank": 493
+  },
+  {
+   "english": "site",
+   "korean": "대지",
+   "rank": 494
+  },
+  {
+   "english": "approach",
+   "korean": "접근하다",
+   "rank": 495
+  },
+  {
+   "english": "teacher",
+   "korean": "선생님",
+   "rank": 496
+  },
+  {
+   "english": "land",
+   "korean": "땅",
+   "rank": 497
+  },
+  {
+   "english": "charge",
+   "korean": "요금",
+   "rank": 498
+  },
+  {
+   "english": "finally",
+   "korean": "마지막으로",
+   "rank": 499
+  },
+  {
+   "english": "sign",
+   "korean": "징후",
+   "rank": 500
+  },
+  {
+   "english": "claim",
+   "korean": "주장하다",
+   "rank": 501
+  },
+  {
+   "english": "relationship",
+   "korean": "관계",
+   "rank": 502
+  },
+  {
+   "english": "travel",
+   "korean": "여행하다",
+   "rank": 503
+  },
+  {
+   "english": "enjoy",
+   "korean": "즐기다",
+   "rank": 504
+  },
+  {
+   "english": "death",
+   "korean": "죽음",
+   "rank": 505
+  },
+  {
+   "english": "nice",
+   "korean": "멋진",
+   "rank": 506
+  },
+  {
+   "english": "improve",
+   "korean": "개선하다",
+   "rank": 508
+  },
+  {
+   "english": "picture",
+   "korean": "그림",
+   "rank": 509
+  },
+  {
+   "english": "boy",
+   "korean": "소년",
+   "rank": 510
+  },
+  {
+   "english": "regard",
+   "korean": "관심",
+   "rank": 511
+  },
+  {
+   "english": "organization",
+   "korean": "조직",
+   "rank": 512
+  },
+  {
+   "english": "happy",
+   "korean": "행복하다",
+   "rank": 513
+  },
+  {
+   "english": "couple",
+   "korean": "커플",
+   "rank": 514
+  },
+  {
+   "english": "act",
+   "korean": "행동",
+   "rank": 515
+  },
+  {
+   "english": "range",
+   "korean": "범위",
+   "rank": 516
+  },
+  {
+   "english": "quality",
+   "korean": "품질",
+   "rank": 517
+  },
+  {
+   "english": "project",
+   "korean": "프로젝트",
+   "rank": 518
+  },
+  {
+   "english": "round",
+   "korean": "둥근",
+   "rank": 519
+  },
+  {
+   "english": "opportunity",
+   "korean": "기회",
+   "rank": 520
+  },
+  {
+   "english": "road",
+   "korean": "도로",
+   "rank": 521
+  },
+  {
+   "english": "accord",
+   "korean": "일치",
+   "rank": 522
+  },
+  {
+   "english": "list",
+   "korean": "목록",
+   "rank": 523
+  },
+  {
+   "english": "wish",
+   "korean": "소망",
+   "rank": 524
+  },
+  {
+   "english": "wear",
+   "korean": "입다",
+   "rank": 526
+  },
+  {
+   "english": "fund",
+   "korean": "축적",
+   "rank": 527
+  },
+  {
+   "english": "rest",
+   "korean": "나머지",
+   "rank": 528
+  },
+  {
+   "english": "kid",
+   "korean": "어린이",
+   "rank": 529
+  },
+  {
+   "english": "industry",
+   "korean": "산업",
+   "rank": 530
+  },
+  {
+   "english": "education",
+   "korean": "교육",
+   "rank": 531
+  },
+  {
+   "english": "measure",
+   "korean": "측정하다",
+   "rank": 532
+  },
+  {
+   "english": "kill",
+   "korean": "죽이다",
+   "rank": 533
+  },
+  {
+   "english": "serve",
+   "korean": "제공하다",
+   "rank": 534
+  },
+  {
+   "english": "likely",
+   "korean": "~할 것 같은",
+   "rank": 535
+  },
+  {
+   "english": "certainly",
+   "korean": "틀림없이",
+   "rank": 536
+  },
+  {
+   "english": "national",
+   "korean": "국가의",
+   "rank": 537
+  },
+  {
+   "english": "teach",
+   "korean": "가르치다",
+   "rank": 539
+  },
+  {
+   "english": "field",
+   "korean": "필드",
+   "rank": 540
+  },
+  {
+   "english": "security",
+   "korean": "보안",
+   "rank": 541
+  },
+  {
+   "english": "air",
+   "korean": "공기",
+   "rank": 542
+  },
+  {
+   "english": "benefit",
+   "korean": "혜택",
+   "rank": 543
+  },
+  {
+   "english": "trade",
+   "korean": "거래",
+   "rank": 544
+  },
+  {
+   "english": "risk",
+   "korean": "위험",
+   "rank": 545
+  },
+  {
+   "english": "news",
+   "korean": "소식",
+   "rank": 546
+  },
+  {
+   "english": "standard",
+   "korean": "기준",
+   "rank": 547
+  },
+  {
+   "english": "vote",
+   "korean": "투표",
+   "rank": 548
+  },
+  {
+   "english": "percent",
+   "korean": "퍼센트",
+   "rank": 549
+  },
+  {
+   "english": "focus",
+   "korean": "집중하다",
+   "rank": 550
+  },
+  {
+   "english": "stage",
+   "korean": "단계",
+   "rank": 551
+  },
+  {
+   "english": "space",
+   "korean": "공간",
+   "rank": 552
+  },
+  {
+   "english": "instead",
+   "korean": "대신에",
+   "rank": 553
+  },
+  {
+   "english": "realize",
+   "korean": "깨닫다",
+   "rank": 554
+  },
+  {
+   "english": "usually",
+   "korean": "대개",
+   "rank": 555
+  },
+  {
+   "english": "data",
+   "korean": "데이터",
+   "rank": 556
+  },
+  {
+   "english": "single",
+   "korean": "하나의",
+   "rank": 557
+  },
+  {
+   "english": "address",
+   "korean": "주소",
+   "rank": 558
+  },
+  {
+   "english": "performance",
+   "korean": "성능",
+   "rank": 559
+  },
+  {
+   "english": "chance",
+   "korean": "가능성",
+   "rank": 560
+  },
+  {
+   "english": "accept",
+   "korean": "수용하다",
+   "rank": 561
+  },
+  {
+   "english": "society",
+   "korean": "사회",
+   "rank": 562
+  },
+  {
+   "english": "technology",
+   "korean": "기술",
+   "rank": 563
+  },
+  {
+   "english": "mention",
+   "korean": "언급하다",
+   "rank": 564
+  },
+  {
+   "english": "choice",
+   "korean": "선택",
+   "rank": 565
+  },
+  {
+   "english": "save",
+   "korean": "구하다",
+   "rank": 566
+  },
+  {
+   "english": "common",
+   "korean": "흔한",
+   "rank": 567
+  },
+  {
+   "english": "culture",
+   "korean": "문화",
+   "rank": 568
+  },
+  {
+   "english": "total",
+   "korean": "총",
+   "rank": 569
+  },
+  {
+   "english": "demand",
+   "korean": "수요",
+   "rank": 570
+  },
+  {
+   "english": "material",
+   "korean": "재료",
+   "rank": 571
+  },
+  {
+   "english": "limit",
+   "korean": "한계",
+   "rank": 572
+  },
+  {
+   "english": "listen",
+   "korean": "듣다",
+   "rank": 573
+  },
+  {
+   "english": "wrong",
+   "korean": "잘못된",
+   "rank": 575
+  },
+  {
+   "english": "foot",
+   "korean": "발",
+   "rank": 576
+  },
+  {
+   "english": "effort",
+   "korean": "노력",
+   "rank": 577
+  },
+  {
+   "english": "attention",
+   "korean": "주목",
+   "rank": 578
+  },
+  {
+   "english": "check",
+   "korean": "확인하다",
+   "rank": 580
+  },
+  {
+   "english": "complete",
+   "korean": "완벽한",
+   "rank": 581
+  },
+  {
+   "english": "lie",
+   "korean": "거짓말하다",
+   "rank": 582
+  },
+  {
+   "english": "pick",
+   "korean": "선택하다",
+   "rank": 583
+  },
+  {
+   "english": "reduce",
+   "korean": "줄이다",
+   "rank": 584
+  },
+  {
+   "english": "personal",
+   "korean": "개인의",
+   "rank": 585
+  },
+  {
+   "english": "ground",
+   "korean": "지면",
+   "rank": 586
+  },
+  {
+   "english": "animal",
+   "korean": "동물",
+   "rank": 587
+  },
+  {
+   "english": "arrive",
+   "korean": "도착하다",
+   "rank": 588
+  },
+  {
+   "english": "patient",
+   "korean": "인내심 있는",
+   "rank": 589
+  },
+  {
+   "english": "current",
+   "korean": "현재의",
+   "rank": 590
+  },
+  {
+   "english": "century",
+   "korean": "세기",
+   "rank": 591
+  },
+  {
+   "english": "evidence",
+   "korean": "증거",
+   "rank": 592
+  },
+  {
+   "english": "exist",
+   "korean": "존재하다",
+   "rank": 593
+  },
+  {
+   "english": "similar",
+   "korean": "비슷한",
+   "rank": 594
+  },
+  {
+   "english": "fight",
+   "korean": "싸움",
+   "rank": 595
+  },
+  {
+   "english": "leader",
+   "korean": "지도자",
+   "rank": 596
+  },
+  {
+   "english": "fine",
+   "korean": "괜찮은",
+   "rank": 597
+  },
+  {
+   "english": "street",
+   "korean": "거리",
+   "rank": 598
+  },
+  {
+   "english": "contact",
+   "korean": "연락하다",
+   "rank": 600
+  },
+  {
+   "english": "particularly",
+   "korean": "특히",
+   "rank": 601
+  },
+  {
+   "english": "wife",
+   "korean": "부인",
+   "rank": 602
+  },
+  {
+   "english": "sport",
+   "korean": "스포츠",
+   "rank": 603
+  },
+  {
+   "english": "prepare",
+   "korean": "준비하다",
+   "rank": 604
+  },
+  {
+   "english": "discuss",
+   "korean": "논의하다",
+   "rank": 605
+  },
+  {
+   "english": "response",
+   "korean": "응답",
+   "rank": 606
+  },
+  {
+   "english": "voice",
+   "korean": "목소리",
+   "rank": 607
+  },
+  {
+   "english": "piece",
+   "korean": "조각",
+   "rank": 608
+  },
+  {
+   "english": "finish",
+   "korean": "마치다",
+   "rank": 609
+  },
+  {
+   "english": "suppose",
+   "korean": "가정하다",
+   "rank": 610
+  },
+  {
+   "english": "apply",
+   "korean": "적용하다",
+   "rank": 611
+  },
+  {
+   "english": "president",
+   "korean": "대통령",
+   "rank": 612
+  },
+  {
+   "english": "fire",
+   "korean": "불",
+   "rank": 613
+  },
+  {
+   "english": "compare",
+   "korean": "비교하다",
+   "rank": 614
+  },
+  {
+   "english": "court",
+   "korean": "법원",
+   "rank": 615
+  },
+  {
+   "english": "police",
+   "korean": "경찰",
+   "rank": 616
+  },
+  {
+   "english": "store",
+   "korean": "가게",
+   "rank": 617
+  },
+  {
+   "english": "poor",
+   "korean": "가난한",
+   "rank": 618
+  },
+  {
+   "english": "knowledge",
+   "korean": "지식",
+   "rank": 619
+  },
+  {
+   "english": "laugh",
+   "korean": "웃다",
+   "rank": 620
+  },
+  {
+   "english": "arm",
+   "korean": "팔",
+   "rank": 621
+  },
+  {
+   "english": "heart",
+   "korean": "마음",
+   "rank": 622
+  },
+  {
+   "english": "source",
+   "korean": "원천",
+   "rank": 623
+  },
+  {
+   "english": "employee",
+   "korean": "직원",
+   "rank": 624
+  },
+  {
+   "english": "manage",
+   "korean": "관리하다",
+   "rank": 625
+  },
+  {
+   "english": "simply",
+   "korean": "간단히",
+   "rank": 626
+  },
+  {
+   "english": "bank",
+   "korean": "은행",
+   "rank": 627
+  },
+  {
+   "english": "firm",
+   "korean": "단단한",
+   "rank": 628
+  },
+  {
+   "english": "cell",
+   "korean": "셀",
+   "rank": 629
+  },
+  {
+   "english": "article",
+   "korean": "기사",
+   "rank": 630
+  },
+  {
+   "english": "fast",
+   "korean": "빠른",
+   "rank": 631
+  },
+  {
+   "english": "attack",
+   "korean": "공격",
+   "rank": 632
+  },
+  {
+   "english": "foreign",
+   "korean": "외국의",
+   "rank": 633
+  },
+  {
+   "english": "surprise",
+   "korean": "놀라다",
+   "rank": 634
+  },
+  {
+   "english": "feature",
+   "korean": "특징",
+   "rank": 635
+  },
+  {
+   "english": "factor",
+   "korean": "요인",
+   "rank": 636
+  },
+  {
+   "english": "pretty",
+   "korean": "예쁜",
+   "rank": 637
+  },
+  {
+   "english": "recently",
+   "korean": "최근에",
+   "rank": 638
+  },
+  {
+   "english": "affect",
+   "korean": "영향을 미치다",
+   "rank": 639
+  },
+  {
+   "english": "drop",
+   "korean": "떨어지다",
+   "rank": 640
+  },
+  {
+   "english": "recent",
+   "korean": "최근의",
+   "rank": 641
+  },
+  {
+   "english": "relate",
+   "korean": "말하다",
+   "rank": 642
+  },
+  {
+   "english": "official",
+   "korean": "공식적인",
+   "rank": 643
+  },
+  {
+   "english": "financial",
+   "korean": "재정적인",
+   "rank": 644
+  },
+  {
+   "english": "miss",
+   "korean": "놓치다",
+   "rank": 645
+  },
+  {
+   "english": "art",
+   "korean": "미술",
+   "rank": 646
+  },
+  {
+   "english": "campaign",
+   "korean": "운동",
+   "rank": 647
+  },
+  {
+   "english": "private",
+   "korean": "사적인",
+   "rank": 648
+  },
+  {
+   "english": "pause",
+   "korean": "정지시키다",
+   "rank": 649
+  },
+  {
+   "english": "forget",
+   "korean": "잊다",
+   "rank": 651
+  },
+  {
+   "english": "page",
+   "korean": "페이지",
+   "rank": 652
+  },
+  {
+   "english": "worry",
+   "korean": "걱정하다",
+   "rank": 653
+  },
+  {
+   "english": "summer",
+   "korean": "여름",
+   "rank": 654
+  },
+  {
+   "english": "drink",
+   "korean": "마시다",
+   "rank": 655
+  },
+  {
+   "english": "opinion",
+   "korean": "의견",
+   "rank": 656
+  },
+  {
+   "english": "park",
+   "korean": "공원",
+   "rank": 657
+  },
+  {
+   "english": "represent",
+   "korean": "대표하다",
+   "rank": 658
+  },
+  {
+   "english": "key",
+   "korean": "열쇠",
+   "rank": 659
+  },
+  {
+   "english": "inside",
+   "korean": "내부에",
+   "rank": 660
+  },
+  {
+   "english": "manager",
+   "korean": "관리자",
+   "rank": 661
+  },
+  {
+   "english": "international",
+   "korean": "국제적인",
+   "rank": 662
+  },
+  {
+   "english": "contain",
+   "korean": "포함하다",
+   "rank": 663
+  },
+  {
+   "english": "notice",
+   "korean": "알아채다",
+   "rank": 664
+  },
+  {
+   "english": "wonder",
+   "korean": "궁금하다",
+   "rank": 665
+  },
+  {
+   "english": "nature",
+   "korean": "자연",
+   "rank": 666
+  },
+  {
+   "english": "structure",
+   "korean": "구조",
+   "rank": 667
+  },
+  {
+   "english": "section",
+   "korean": "부분",
+   "rank": 668
+  },
+  {
+   "english": "exactly",
+   "korean": "정확히",
+   "rank": 670
+  },
+  {
+   "english": "plant",
+   "korean": "식물",
+   "rank": 671
+  },
+  {
+   "english": "paint",
+   "korean": "페인트",
+   "rank": 672
+  },
+  {
+   "english": "worker",
+   "korean": "노동자",
+   "rank": 673
+  },
+  {
+   "english": "press",
+   "korean": "누르다",
+   "rank": 674
+  },
+  {
+   "english": "necessary",
+   "korean": "필요한",
+   "rank": 676
+  },
+  {
+   "english": "region",
+   "korean": "지역",
+   "rank": 677
+  },
+  {
+   "english": "growth",
+   "korean": "성장",
+   "rank": 678
+  },
+  {
+   "english": "evening",
+   "korean": "저녁",
+   "rank": 679
+  },
+  {
+   "english": "influence",
+   "korean": "영향",
+   "rank": 680
+  },
+  {
+   "english": "respect",
+   "korean": "존경",
+   "rank": 681
+  },
+  {
+   "english": "catch",
+   "korean": "잡다",
+   "rank": 683
+  },
+  {
+   "english": "skill",
+   "korean": "기능",
+   "rank": 685
+  },
+  {
+   "english": "attempt",
+   "korean": "시도",
+   "rank": 686
+  },
+  {
+   "english": "son",
+   "korean": "아들",
+   "rank": 687
+  },
+  {
+   "english": "simple",
+   "korean": "단순한",
+   "rank": 688
+  },
+  {
+   "english": "medium",
+   "korean": "중간",
+   "rank": 689
+  },
+  {
+   "english": "average",
+   "korean": "평균",
+   "rank": 690
+  },
+  {
+   "english": "stock",
+   "korean": "재고",
+   "rank": 691
+  },
+  {
+   "english": "management",
+   "korean": "관리",
+   "rank": 692
+  },
+  {
+   "english": "character",
+   "korean": "성격",
+   "rank": 693
+  },
+  {
+   "english": "bed",
+   "korean": "침대",
+   "rank": 694
+  },
+  {
+   "english": "hit",
+   "korean": "때리다",
+   "rank": 695
+  },
+  {
+   "english": "establish",
+   "korean": "설립하다",
+   "rank": 696
+  },
+  {
+   "english": "final",
+   "korean": "결정적인",
+   "rank": 698
+  },
+  {
+   "english": "economy",
+   "korean": "경제",
+   "rank": 699
+  },
+  {
+   "english": "fit",
+   "korean": "맞다",
+   "rank": 700
+  },
+  {
+   "english": "guy",
+   "korean": "남자",
+   "rank": 701
+  },
+  {
+   "english": "function",
+   "korean": "기능",
+   "rank": 702
+  },
+  {
+   "english": "yesterday",
+   "korean": "어제",
+   "rank": 703
+  },
+  {
+   "english": "image",
+   "korean": "영상",
+   "rank": 704
+  },
+  {
+   "english": "size",
+   "korean": "크기",
+   "rank": 705
+  },
+  {
+   "english": "behavior",
+   "korean": "행동",
+   "rank": 706
+  },
+  {
+   "english": "addition",
+   "korean": "덧셈",
+   "rank": 707
+  },
+  {
+   "english": "determine",
+   "korean": "결정하다",
+   "rank": 708
+  },
+  {
+   "english": "station",
+   "korean": "역",
+   "rank": 709
+  },
+  {
+   "english": "population",
+   "korean": "인구",
+   "rank": 710
+  },
+  {
+   "english": "fail",
+   "korean": "실패하다",
+   "rank": 711
+  },
+  {
+   "english": "environment",
+   "korean": "환경",
+   "rank": 712
+  },
+  {
+   "english": "production",
+   "korean": "생산",
+   "rank": 713
+  },
+  {
+   "english": "contract",
+   "korean": "계약",
+   "rank": 714
+  },
+  {
+   "english": "player",
+   "korean": "플레이어",
+   "rank": 715
+  },
+  {
+   "english": "comment",
+   "korean": "논평",
+   "rank": 716
+  },
+  {
+   "english": "enter",
+   "korean": "입력하다",
+   "rank": 717
+  },
+  {
+   "english": "occur",
+   "korean": "발생하다",
+   "rank": 718
+  },
+  {
+   "english": "significant",
+   "korean": "중요한",
+   "rank": 720
+  },
+  {
+   "english": "drug",
+   "korean": "의약품",
+   "rank": 721
+  },
+  {
+   "english": "wall",
+   "korean": "벽",
+   "rank": 722
+  },
+  {
+   "english": "series",
+   "korean": "시리즈",
+   "rank": 723
+  },
+  {
+   "english": "direct",
+   "korean": "직접",
+   "rank": 724
+  },
+  {
+   "english": "success",
+   "korean": "성공",
+   "rank": 725
+  },
+  {
+   "english": "tomorrow",
+   "korean": "내일",
+   "rank": 726
+  },
+  {
+   "english": "director",
+   "korean": "감독",
+   "rank": 727
+  },
+  {
+   "english": "clearly",
+   "korean": "분명히",
+   "rank": 728
+  },
+  {
+   "english": "lack",
+   "korean": "부족",
+   "rank": 729
+  },
+  {
+   "english": "review",
+   "korean": "검토",
+   "rank": 730
+  },
+  {
+   "english": "depend",
+   "korean": "의존하다",
+   "rank": 731
+  },
+  {
+   "english": "race",
+   "korean": "경주",
+   "rank": 732
+  },
+  {
+   "english": "recognize",
+   "korean": "인정하다",
+   "rank": 733
+  },
+  {
+   "english": "window",
+   "korean": "창문",
+   "rank": 734
+  },
+  {
+   "english": "purpose",
+   "korean": "목적",
+   "rank": 735
+  },
+  {
+   "english": "department",
+   "korean": "부서",
+   "rank": 736
+  },
+  {
+   "english": "gain",
+   "korean": "얻다",
+   "rank": 737
+  },
+  {
+   "english": "tree",
+   "korean": "나무",
+   "rank": 738
+  },
+  {
+   "english": "college",
+   "korean": "대학",
+   "rank": 739
+  },
+  {
+   "english": "argue",
+   "korean": "다투다",
+   "rank": 740
+  },
+  {
+   "english": "board",
+   "korean": "판자",
+   "rank": 741
+  },
+  {
+   "english": "holiday",
+   "korean": "휴일",
+   "rank": 742
+  },
+  {
+   "english": "mark",
+   "korean": "표시",
+   "rank": 743
+  },
+  {
+   "english": "church",
+   "korean": "교회",
+   "rank": 744
+  },
+  {
+   "english": "machine",
+   "korean": "기계",
+   "rank": 745
+  },
+  {
+   "english": "achieve",
+   "korean": "성취하다",
+   "rank": 746
+  },
+  {
+   "english": "item",
+   "korean": "목",
+   "rank": 747
+  },
+  {
+   "english": "prove",
+   "korean": "입증하다",
+   "rank": 748
+  },
+  {
+   "english": "cent",
+   "korean": "센트",
+   "rank": 749
+  },
+  {
+   "english": "season",
+   "korean": "계절",
+   "rank": 750
+  },
+  {
+   "english": "floor",
+   "korean": "바닥",
+   "rank": 751
+  },
+  {
+   "english": "stuff",
+   "korean": "물건",
+   "rank": 752
+  },
+  {
+   "english": "wide",
+   "korean": "넓은",
+   "rank": 753
+  },
+  {
+   "english": "method",
+   "korean": "방법",
+   "rank": 755
+  },
+  {
+   "english": "analysis",
+   "korean": "분석",
+   "rank": 756
+  },
+  {
+   "english": "election",
+   "korean": "선거",
+   "rank": 757
+  },
+  {
+   "english": "military",
+   "korean": "군대",
+   "rank": 758
+  },
+  {
+   "english": "hotel",
+   "korean": "호텔",
+   "rank": 759
+  },
+  {
+   "english": "club",
+   "korean": "클럽",
+   "rank": 760
+  },
+  {
+   "english": "movie",
+   "korean": "영화",
+   "rank": 762
+  },
+  {
+   "english": "doctor",
+   "korean": "의사",
+   "rank": 763
+  },
+  {
+   "english": "discussion",
+   "korean": "논의",
+   "rank": 764
+  },
+  {
+   "english": "sorry",
+   "korean": "죄송합니다",
+   "rank": 765
+  },
+  {
+   "english": "challenge",
+   "korean": "도전",
+   "rank": 766
+  },
+  {
+   "english": "nation",
+   "korean": "국가",
+   "rank": 767
+  },
+  {
+   "english": "nearly",
+   "korean": "거의",
+   "rank": 768
+  },
+  {
+   "english": "statement",
+   "korean": "성명",
+   "rank": 769
+  },
+  {
+   "english": "link",
+   "korean": "링크",
+   "rank": 770
+  },
+  {
+   "english": "despite",
+   "korean": "~에도 불구하고",
+   "rank": 771
+  },
+  {
+   "english": "introduce",
+   "korean": "소개하다",
+   "rank": 772
+  },
+  {
+   "english": "advantage",
+   "korean": "이점",
+   "rank": 773
+  },
+  {
+   "english": "ready",
+   "korean": "준비가 된",
+   "rank": 774
+  },
+  {
+   "english": "marry",
+   "korean": "결혼하다",
+   "rank": 775
+  },
+  {
+   "english": "strike",
+   "korean": "스트라이크",
+   "rank": 776
+  },
+  {
+   "english": "mile",
+   "korean": "마일",
+   "rank": 777
+  },
+  {
+   "english": "seek",
+   "korean": "구하다",
+   "rank": 778
+  },
+  {
+   "english": "ability",
+   "korean": "능력",
+   "rank": 779
+  },
+  {
+   "english": "unit",
+   "korean": "단위",
+   "rank": 780
+  },
+  {
+   "english": "card",
+   "korean": "카드",
+   "rank": 781
+  },
+  {
+   "english": "hospital",
+   "korean": "병원",
+   "rank": 782
+  },
+  {
+   "english": "quickly",
+   "korean": "빠르게",
+   "rank": 783
+  },
+  {
+   "english": "interview",
+   "korean": "회견",
+   "rank": 784
+  },
+  {
+   "english": "agreement",
+   "korean": "합의",
+   "rank": 785
+  },
+  {
+   "english": "release",
+   "korean": "풀어 주다",
+   "rank": 786
+  },
+  {
+   "english": "tax",
+   "korean": "세",
+   "rank": 787
+  },
+  {
+   "english": "solution",
+   "korean": "해결책",
+   "rank": 788
+  },
+  {
+   "english": "capital",
+   "korean": "수도",
+   "rank": 789
+  },
+  {
+   "english": "popular",
+   "korean": "인기 있는",
+   "rank": 790
+  },
+  {
+   "english": "specific",
+   "korean": "특정한",
+   "rank": 791
+  },
+  {
+   "english": "beautiful",
+   "korean": "아름다운",
+   "rank": 792
+  },
+  {
+   "english": "fear",
+   "korean": "두려움",
+   "rank": 793
+  },
+  {
+   "english": "aim",
+   "korean": "목표",
+   "rank": 794
+  },
+  {
+   "english": "television",
+   "korean": "텔레비전",
+   "rank": 795
+  },
+  {
+   "english": "target",
+   "korean": "목표",
+   "rank": 797
+  },
+  {
+   "english": "degree",
+   "korean": "도",
+   "rank": 798
+  },
+  {
+   "english": "pull",
+   "korean": "당기다",
+   "rank": 799
+  },
+  {
+   "english": "red",
+   "korean": "빨간색",
+   "rank": 800
+  },
+  {
+   "english": "husband",
+   "korean": "남편",
+   "rank": 801
+  },
+  {
+   "english": "access",
+   "korean": "입장",
+   "rank": 802
+  },
+  {
+   "english": "movement",
+   "korean": "움직임",
+   "rank": 803
+  },
+  {
+   "english": "treat",
+   "korean": "대하다",
+   "rank": 804
+  },
+  {
+   "english": "identify",
+   "korean": "식별하다",
+   "rank": 805
+  },
+  {
+   "english": "loss",
+   "korean": "손실",
+   "rank": 806
+  },
+  {
+   "english": "shall",
+   "korean": "~일 것이다",
+   "rank": 807
+  },
+  {
+   "english": "modern",
+   "korean": "현대의",
+   "rank": 808
+  },
+  {
+   "english": "pressure",
+   "korean": "압력",
+   "rank": 809
+  },
+  {
+   "english": "bus",
+   "korean": "버스",
+   "rank": 810
+  },
+  {
+   "english": "treatment",
+   "korean": "치료",
+   "rank": 811
+  },
+  {
+   "english": "conference",
+   "korean": "회의",
+   "rank": 812
+  },
+  {
+   "english": "supply",
+   "korean": "공급",
+   "rank": 814
+  },
+  {
+   "english": "village",
+   "korean": "마을",
+   "rank": 815
+  },
+  {
+   "english": "worth",
+   "korean": "가치",
+   "rank": 816
+  },
+  {
+   "english": "natural",
+   "korean": "자연스러운",
+   "rank": 817
+  },
+  {
+   "english": "express",
+   "korean": "표현하다",
+   "rank": 818
+  },
+  {
+   "english": "indicate",
+   "korean": "나타내다",
+   "rank": 819
+  },
+  {
+   "english": "attend",
+   "korean": "참석하다",
+   "rank": 820
+  },
+  {
+   "english": "brother",
+   "korean": "형제",
+   "rank": 821
+  },
+  {
+   "english": "investment",
+   "korean": "투자",
+   "rank": 822
+  },
+  {
+   "english": "score",
+   "korean": "점수",
+   "rank": 823
+  },
+  {
+   "english": "organize",
+   "korean": "정리하다",
+   "rank": 824
+  },
+  {
+   "english": "trip",
+   "korean": "여행",
+   "rank": 825
+  },
+  {
+   "english": "sleep",
+   "korean": "잠",
+   "rank": 827
+  },
+  {
+   "english": "fish",
+   "korean": "물고기",
+   "rank": 828
+  },
+  {
+   "english": "promise",
+   "korean": "약속하다",
+   "rank": 829
+  },
+  {
+   "english": "potential",
+   "korean": "잠재적인",
+   "rank": 830
+  },
+  {
+   "english": "energy",
+   "korean": "에너지",
+   "rank": 831
+  },
+  {
+   "english": "trouble",
+   "korean": "문제",
+   "rank": 832
+  },
+  {
+   "english": "relation",
+   "korean": "관계",
+   "rank": 833
+  },
+  {
+   "english": "touch",
+   "korean": "만지다",
+   "rank": 834
+  },
+  {
+   "english": "file",
+   "korean": "파일",
+   "rank": 835
+  },
+  {
+   "english": "middle",
+   "korean": "가운데",
+   "rank": 836
+  },
+  {
+   "english": "bar",
+   "korean": "술집",
+   "rank": 837
+  },
+  {
+   "english": "suffer",
+   "korean": "시달리다",
+   "rank": 838
+  },
+  {
+   "english": "strategy",
+   "korean": "전략",
+   "rank": 839
+  },
+  {
+   "english": "deep",
+   "korean": "깊은",
+   "rank": 840
+  },
+  {
+   "english": "clean",
+   "korean": "깨끗한",
+   "rank": 842
+  },
+  {
+   "english": "tend",
+   "korean": "추세",
+   "rank": 843
+  },
+  {
+   "english": "advance",
+   "korean": "전진",
+   "rank": 844
+  },
+  {
+   "english": "fill",
+   "korean": "채우다",
+   "rank": 845
+  },
+  {
+   "english": "star",
+   "korean": "별",
+   "rank": 846
+  },
+  {
+   "english": "network",
+   "korean": "회로망",
+   "rank": 847
+  },
+  {
+   "english": "generally",
+   "korean": "일반적으로",
+   "rank": 848
+  },
+  {
+   "english": "operation",
+   "korean": "작업",
+   "rank": 849
+  },
+  {
+   "english": "match",
+   "korean": "성냥",
+   "rank": 850
+  },
+  {
+   "english": "avoid",
+   "korean": "피하다",
+   "rank": 851
+  },
+  {
+   "english": "seat",
+   "korean": "좌석",
+   "rank": 852
+  },
+  {
+   "english": "throw",
+   "korean": "던지다",
+   "rank": 853
+  },
+  {
+   "english": "task",
+   "korean": "일",
+   "rank": 854
+  },
+  {
+   "english": "normal",
+   "korean": "정상",
+   "rank": 855
+  },
+  {
+   "english": "goal",
+   "korean": "목표",
+   "rank": 856
+  },
+  {
+   "english": "associate",
+   "korean": "연관짓다",
+   "rank": 857
+  },
+  {
+   "english": "blue",
+   "korean": "파란색",
+   "rank": 858
+  },
+  {
+   "english": "positive",
+   "korean": "긍정적인",
+   "rank": 859
+  },
+  {
+   "english": "option",
+   "korean": "옵션",
+   "rank": 860
+  },
+  {
+   "english": "box",
+   "korean": "상자",
+   "rank": 861
+  },
+  {
+   "english": "huge",
+   "korean": "거대한",
+   "rank": 862
+  },
+  {
+   "english": "message",
+   "korean": "메시지",
+   "rank": 863
+  },
+  {
+   "english": "instance",
+   "korean": "사례",
+   "rank": 864
+  },
+  {
+   "english": "style",
+   "korean": "스타일",
+   "rank": 865
+  },
+  {
+   "english": "refer",
+   "korean": "나타내다",
+   "rank": 866
+  },
+  {
+   "english": "cold",
+   "korean": "추운",
+   "rank": 867
+  },
+  {
+   "english": "push",
+   "korean": "푸시",
+   "rank": 868
+  },
+  {
+   "english": "quarter",
+   "korean": "4분의 1",
+   "rank": 869
+  },
+  {
+   "english": "assume",
+   "korean": "추정하다",
+   "rank": 870
+  },
+  {
+   "english": "baby",
+   "korean": "아기",
+   "rank": 871
+  },
+  {
+   "english": "successful",
+   "korean": "성공적인",
+   "rank": 872
+  },
+  {
+   "english": "sing",
+   "korean": "노래하다",
+   "rank": 873
+  },
+  {
+   "english": "doubt",
+   "korean": "의심",
+   "rank": 874
+  },
+  {
+   "english": "competition",
+   "korean": "경쟁",
+   "rank": 875
+  },
+  {
+   "english": "theory",
+   "korean": "이론",
+   "rank": 876
+  },
+  {
+   "english": "propose",
+   "korean": "제안하다",
+   "rank": 877
+  },
+  {
+   "english": "reference",
+   "korean": "참조",
+   "rank": 878
+  },
+  {
+   "english": "argument",
+   "korean": "논쟁",
+   "rank": 879
+  },
+  {
+   "english": "adult",
+   "korean": "성인",
+   "rank": 880
+  },
+  {
+   "english": "fly",
+   "korean": "파리",
+   "rank": 881
+  },
+  {
+   "english": "document",
+   "korean": "문서",
+   "rank": 882
+  },
+  {
+   "english": "pattern",
+   "korean": "무늬",
+   "rank": 883
+  },
+  {
+   "english": "application",
+   "korean": "애플리케이션",
+   "rank": 884
+  },
+  {
+   "english": "hot",
+   "korean": "더운",
+   "rank": 885
+  },
+  {
+   "english": "obviously",
+   "korean": "확실히",
+   "rank": 886
+  },
+  {
+   "english": "unclear",
+   "korean": "불분명함",
+   "rank": 887
+  },
+  {
+   "english": "bill",
+   "korean": "청구서",
+   "rank": 888
+  },
+  {
+   "english": "search",
+   "korean": "찾다",
+   "rank": 889
+  },
+  {
+   "english": "separate",
+   "korean": "분리된",
+   "rank": 890
+  },
+  {
+   "english": "central",
+   "korean": "본부",
+   "rank": 891
+  },
+  {
+   "english": "career",
+   "korean": "직업",
+   "rank": 892
+  },
+  {
+   "english": "speech",
+   "korean": "연설",
+   "rank": 894
+  },
+  {
+   "english": "dog",
+   "korean": "개",
+   "rank": 895
+  },
+  {
+   "english": "officer",
+   "korean": "장교",
+   "rank": 896
+  },
+  {
+   "english": "oil",
+   "korean": "기름",
+   "rank": 898
+  },
+  {
+   "english": "dress",
+   "korean": "드레스",
+   "rank": 899
+  },
+  {
+   "english": "profit",
+   "korean": "이익",
+   "rank": 900
+  },
+  {
+   "english": "guess",
+   "korean": "추측하다",
+   "rank": 901
+  },
+  {
+   "english": "fun",
+   "korean": "재미있는",
+   "rank": 902
+  },
+  {
+   "english": "protect",
+   "korean": "보호하다",
+   "rank": 903
+  },
+  {
+   "english": "resource",
+   "korean": "의지",
+   "rank": 904
+  },
+  {
+   "english": "science",
+   "korean": "과학",
+   "rank": 905
+  },
+  {
+   "english": "disease",
+   "korean": "질병",
+   "rank": 906
+  },
+  {
+   "english": "balance",
+   "korean": "균형",
+   "rank": 907
+  },
+  {
+   "english": "damage",
+   "korean": "손상",
+   "rank": 908
+  },
+  {
+   "english": "basis",
+   "korean": "기초",
+   "rank": 909
+  },
+  {
+   "english": "author",
+   "korean": "작가",
+   "rank": 910
+  },
+  {
+   "english": "basic",
+   "korean": "기초적인",
+   "rank": 911
+  },
+  {
+   "english": "encourage",
+   "korean": "장려하다",
+   "rank": 912
+  },
+  {
+   "english": "hair",
+   "korean": "머리카락",
+   "rank": 913
+  },
+  {
+   "english": "male",
+   "korean": "남성",
+   "rank": 914
+  },
+  {
+   "english": "operate",
+   "korean": "작동하다",
+   "rank": 915
+  },
+  {
+   "english": "reflect",
+   "korean": "반영하다",
+   "rank": 916
+  },
+  {
+   "english": "exercise",
+   "korean": "운동",
+   "rank": 917
+  },
+  {
+   "english": "useful",
+   "korean": "유용한",
+   "rank": 918
+  },
+  {
+   "english": "restaurant",
+   "korean": "식당",
+   "rank": 919
+  },
+  {
+   "english": "income",
+   "korean": "소득",
+   "rank": 920
+  },
+  {
+   "english": "property",
+   "korean": "재산",
+   "rank": 921
+  },
+  {
+   "english": "previous",
+   "korean": "이전의",
+   "rank": 922
+  },
+  {
+   "english": "dark",
+   "korean": "어두운",
+   "rank": 923
+  },
+  {
+   "english": "imagine",
+   "korean": "상상하다",
+   "rank": 924
+  },
+  {
+   "english": "okay",
+   "korean": "좋아요",
+   "rank": 925
+  },
+  {
+   "english": "earn",
+   "korean": "벌다",
+   "rank": 926
+  },
+  {
+   "english": "daughter",
+   "korean": "딸",
+   "rank": 927
+  },
+  {
+   "english": "post",
+   "korean": "우편",
+   "rank": 928
+  },
+  {
+   "english": "newspaper",
+   "korean": "신문",
+   "rank": 929
+  },
+  {
+   "english": "define",
+   "korean": "정의하다",
+   "rank": 930
+  },
+  {
+   "english": "conclusion",
+   "korean": "결론",
+   "rank": 931
+  },
+  {
+   "english": "clock",
+   "korean": "시계",
+   "rank": 932
+  },
+  {
+   "english": "everybody",
+   "korean": "여러분",
+   "rank": 933
+  },
+  {
+   "english": "weekend",
+   "korean": "주말",
+   "rank": 934
+  },
+  {
+   "english": "perform",
+   "korean": "공연하다",
+   "rank": 935
+  },
+  {
+   "english": "professional",
+   "korean": "전문적인",
+   "rank": 936
+  },
+  {
+   "english": "debate",
+   "korean": "토론",
+   "rank": 938
+  },
+  {
+   "english": "memory",
+   "korean": "메모리",
+   "rank": 939
+  },
+  {
+   "english": "green",
+   "korean": "녹색",
+   "rank": 940
+  },
+  {
+   "english": "song",
+   "korean": "노래",
+   "rank": 941
+  },
+  {
+   "english": "object",
+   "korean": "물체",
+   "rank": 942
+  },
+  {
+   "english": "maintain",
+   "korean": "유지하다",
+   "rank": 943
+  },
+  {
+   "english": "credit",
+   "korean": "신용 거래",
+   "rank": 944
+  },
+  {
+   "english": "ring",
+   "korean": "반지",
+   "rank": 945
+  },
+  {
+   "english": "discover",
+   "korean": "발견하다",
+   "rank": 946
+  },
+  {
+   "english": "dead",
+   "korean": "죽은",
+   "rank": 947
+  },
+  {
+   "english": "afternoon",
+   "korean": "오후",
+   "rank": 948
+  },
+  {
+   "english": "prefer",
+   "korean": "선호하다",
+   "rank": 949
+  },
+  {
+   "english": "extend",
+   "korean": "연장하다",
+   "rank": 950
+  },
+  {
+   "english": "possibility",
+   "korean": "가능성",
+   "rank": 951
+  },
+  {
+   "english": "direction",
+   "korean": "방향",
+   "rank": 952
+  },
+  {
+   "english": "facility",
+   "korean": "시설",
+   "rank": 953
+  },
+  {
+   "english": "variety",
+   "korean": "다양성",
+   "rank": 954
+  },
+  {
+   "english": "daily",
+   "korean": "일일",
+   "rank": 955
+  },
+  {
+   "english": "clothes",
+   "korean": "옷",
+   "rank": 956
+  },
+  {
+   "english": "screen",
+   "korean": "화면",
+   "rank": 957
+  },
+  {
+   "english": "track",
+   "korean": "길",
+   "rank": 958
+  },
+  {
+   "english": "dance",
+   "korean": "춤",
+   "rank": 959
+  },
+  {
+   "english": "completely",
+   "korean": "완전히",
+   "rank": 960
+  },
+  {
+   "english": "female",
+   "korean": "여성",
+   "rank": 961
+  },
+  {
+   "english": "responsibility",
+   "korean": "책임",
+   "rank": 962
+  },
+  {
+   "english": "original",
+   "korean": "원래의",
+   "rank": 963
+  },
+  {
+   "english": "sister",
+   "korean": "자매",
+   "rank": 964
+  },
+  {
+   "english": "rock",
+   "korean": "바위",
+   "rank": 965
+  },
+  {
+   "english": "dream",
+   "korean": "꿈",
+   "rank": 966
+  },
+  {
+   "english": "university",
+   "korean": "대학교",
+   "rank": 968
+  },
+  {
+   "english": "easily",
+   "korean": "쉽게",
+   "rank": 969
+  },
+  {
+   "english": "agency",
+   "korean": "대행사",
+   "rank": 970
+  },
+  {
+   "english": "dollar",
+   "korean": "달러",
+   "rank": 971
+  },
+  {
+   "english": "garden",
+   "korean": "정원",
+   "rank": 972
+  },
+  {
+   "english": "fix",
+   "korean": "고치다",
+   "rank": 973
+  },
+  {
+   "english": "ahead",
+   "korean": "앞으로",
+   "rank": 974
+  },
+  {
+   "english": "cross",
+   "korean": "십자가",
+   "rank": 975
+  },
+  {
+   "english": "yeah",
+   "korean": "응",
+   "rank": 976
+  },
+  {
+   "english": "candidate",
+   "korean": "후보자",
+   "rank": 977
+  },
+  {
+   "english": "weight",
+   "korean": "무게",
+   "rank": 978
+  },
+  {
+   "english": "legal",
+   "korean": "합법적인",
+   "rank": 979
+  },
+  {
+   "english": "proposal",
+   "korean": "제안",
+   "rank": 980
+  },
+  {
+   "english": "version",
+   "korean": "버전",
+   "rank": 981
+  },
+  {
+   "english": "conversation",
+   "korean": "대화",
+   "rank": 982
+  },
+  {
+   "english": "somebody",
+   "korean": "어떤 사람",
+   "rank": 983
+  },
+  {
+   "english": "pound",
+   "korean": "파운드",
+   "rank": 984
+  },
+  {
+   "english": "magazine",
+   "korean": "잡지",
+   "rank": 985
+  },
+  {
+   "english": "shape",
+   "korean": "모양",
+   "rank": 986
+  },
+  {
+   "english": "sea",
+   "korean": "바다",
+   "rank": 987
+  },
+  {
+   "english": "immediately",
+   "korean": "즉시",
+   "rank": 988
+  },
+  {
+   "english": "welcome",
+   "korean": "환영",
+   "rank": 989
+  },
+  {
+   "english": "smile",
+   "korean": "웃다",
+   "rank": 990
+  },
+  {
+   "english": "communication",
+   "korean": "의사소통",
+   "rank": 991
+  },
+  {
+   "english": "agent",
+   "korean": "대리인",
+   "rank": 992
+  },
+  {
+   "english": "traditional",
+   "korean": "전통적인",
+   "rank": 993
+  },
+  {
+   "english": "replace",
+   "korean": "바꾸다",
+   "rank": 994
+  },
+  {
+   "english": "judge",
+   "korean": "판사",
+   "rank": 995
+  },
+  {
+   "english": "suddenly",
+   "korean": "갑자기",
+   "rank": 997
+  },
+  {
+   "english": "generation",
+   "korean": "세대",
+   "rank": 998
+  },
+  {
+   "english": "estimate",
+   "korean": "추정",
+   "rank": 999
+  },
+  {
+   "english": "favorite",
+   "korean": "가장 좋아하는",
+   "rank": 1000
+  },
+  {
+   "english": "difficulty",
+   "korean": "어려움",
+   "rank": 1001
+  },
+  {
+   "english": "purchase",
+   "korean": "구입",
+   "rank": 1002
+  },
+  {
+   "english": "shoot",
+   "korean": "사격",
+   "rank": 1003
+  },
+  {
+   "english": "announce",
+   "korean": "발표하다",
+   "rank": 1004
+  },
+  {
+   "english": "independent",
+   "korean": "독립적인",
+   "rank": 1006
+  },
+  {
+   "english": "recommend",
+   "korean": "추천하다",
+   "rank": 1007
+  },
+  {
+   "english": "survey",
+   "korean": "조사",
+   "rank": 1008
+  },
+  {
+   "english": "majority",
+   "korean": "다수",
+   "rank": 1009
+  },
+  {
+   "english": "stick",
+   "korean": "막대",
+   "rank": 1010
+  },
+  {
+   "english": "request",
+   "korean": "요구",
+   "rank": 1011
+  },
+  {
+   "english": "rich",
+   "korean": "부자",
+   "rank": 1012
+  },
+  {
+   "english": "wind",
+   "korean": "바람",
+   "rank": 1013
+  },
+  {
+   "english": "exchange",
+   "korean": "교환",
+   "rank": 1015
+  },
+  {
+   "english": "budget",
+   "korean": "예산",
+   "rank": 1016
+  },
+  {
+   "english": "famous",
+   "korean": "유명한",
+   "rank": 1017
+  },
+  {
+   "english": "blood",
+   "korean": "피",
+   "rank": 1018
+  },
+  {
+   "english": "appropriate",
+   "korean": "적절한",
+   "rank": 1019
+  },
+  {
+   "english": "block",
+   "korean": "차단하다",
+   "rank": 1020
+  },
+  {
+   "english": "warm",
+   "korean": "따뜻한",
+   "rank": 1021
+  },
+  {
+   "english": "count",
+   "korean": "세다",
+   "rank": 1022
+  },
+  {
+   "english": "scene",
+   "korean": "장면",
+   "rank": 1023
+  },
+  {
+   "english": "writer",
+   "korean": "작가",
+   "rank": 1024
+  },
+  {
+   "english": "content",
+   "korean": "콘텐츠",
+   "rank": 1025
+  },
+  {
+   "english": "prevent",
+   "korean": "예방하다",
+   "rank": 1026
+  },
+  {
+   "english": "safe",
+   "korean": "안전한",
+   "rank": 1027
+  },
+  {
+   "english": "invite",
+   "korean": "초대하다",
+   "rank": 1028
+  },
+  {
+   "english": "mix",
+   "korean": "혼합",
+   "rank": 1029
+  },
+  {
+   "english": "element",
+   "korean": "요소",
+   "rank": 1030
+  },
+  {
+   "english": "effective",
+   "korean": "효과적인",
+   "rank": 1031
+  },
+  {
+   "english": "correct",
+   "korean": "옳은",
+   "rank": 1032
+  },
+  {
+   "english": "medical",
+   "korean": "의료",
+   "rank": 1033
+  },
+  {
+   "english": "admit",
+   "korean": "인정하다",
+   "rank": 1034
+  },
+  {
+   "english": "beat",
+   "korean": "이기다",
+   "rank": 1035
+  },
+  {
+   "english": "telephone",
+   "korean": "전화",
+   "rank": 1036
+  },
+  {
+   "english": "copy",
+   "korean": "복사",
+   "rank": 1037
+  },
+  {
+   "english": "committee",
+   "korean": "위원회",
+   "rank": 1038
+  },
+  {
+   "english": "aware",
+   "korean": "알고 있는",
+   "rank": 1039
+  },
+  {
+   "english": "advice",
+   "korean": "조언",
+   "rank": 1040
+  },
+  {
+   "english": "handle",
+   "korean": "핸들",
+   "rank": 1041
+  },
+  {
+   "english": "glass",
+   "korean": "유리",
+   "rank": 1042
+  },
+  {
+   "english": "trial",
+   "korean": "재판",
+   "rank": 1043
+  },
+  {
+   "english": "stress",
+   "korean": "스트레스",
+   "rank": 1044
+  },
+  {
+   "english": "radio",
+   "korean": "라디오",
+   "rank": 1045
+  },
+  {
+   "english": "administration",
+   "korean": "관리",
+   "rank": 1046
+  },
+  {
+   "english": "complex",
+   "korean": "복잡한",
+   "rank": 1047
+  },
+  {
+   "english": "text",
+   "korean": "텍스트",
+   "rank": 1048
+  },
+  {
+   "english": "context",
+   "korean": "문맥",
+   "rank": 1049
+  },
+  {
+   "english": "ride",
+   "korean": "타다",
+   "rank": 1050
+  },
+  {
+   "english": "directly",
+   "korean": "곧장",
+   "rank": 1051
+  },
+  {
+   "english": "heavy",
+   "korean": "무거운",
+   "rank": 1052
+  },
+  {
+   "english": "remove",
+   "korean": "제거하다",
+   "rank": 1053
+  },
+  {
+   "english": "conduct",
+   "korean": "지휘하다",
+   "rank": 1054
+  },
+  {
+   "english": "equipment",
+   "korean": "장비",
+   "rank": 1055
+  },
+  {
+   "english": "title",
+   "korean": "제목",
+   "rank": 1057
+  },
+  {
+   "english": "extra",
+   "korean": "추가의",
+   "rank": 1058
+  },
+  {
+   "english": "executive",
+   "korean": "경영진",
+   "rank": 1059
+  },
+  {
+   "english": "chair",
+   "korean": "의자",
+   "rank": 1060
+  },
+  {
+   "english": "expensive",
+   "korean": "값비싼",
+   "rank": 1061
+  },
+  {
+   "english": "sample",
+   "korean": "견본",
+   "rank": 1062
+  },
+  {
+   "english": "sex",
+   "korean": "섹스",
+   "rank": 1063
+  },
+  {
+   "english": "deliver",
+   "korean": "배달하다",
+   "rank": 1064
+  },
+  {
+   "english": "video",
+   "korean": "동영상",
+   "rank": 1065
+  },
+  {
+   "english": "connection",
+   "korean": "연결",
+   "rank": 1066
+  },
+  {
+   "english": "primary",
+   "korean": "주요한",
+   "rank": 1067
+  },
+  {
+   "english": "weather",
+   "korean": "날씨",
+   "rank": 1068
+  },
+  {
+   "english": "collect",
+   "korean": "모으다",
+   "rank": 1069
+  },
+  {
+   "english": "inform",
+   "korean": "알리다",
+   "rank": 1070
+  },
+  {
+   "english": "principle",
+   "korean": "원칙",
+   "rank": 1071
+  },
+  {
+   "english": "straight",
+   "korean": "똑바로",
+   "rank": 1072
+  },
+  {
+   "english": "appeal",
+   "korean": "항소",
+   "rank": 1073
+  },
+  {
+   "english": "highly",
+   "korean": "고도로",
+   "rank": 1074
+  },
+  {
+   "english": "trust",
+   "korean": "신뢰하다",
+   "rank": 1075
+  },
+  {
+   "english": "wonderful",
+   "korean": "아주 멋진",
+   "rank": 1076
+  },
+  {
+   "english": "flat",
+   "korean": "평평한",
+   "rank": 1077
+  },
+  {
+   "english": "absolutely",
+   "korean": "전적으로",
+   "rank": 1078
+  },
+  {
+   "english": "flow",
+   "korean": "흐름",
+   "rank": 1079
+  },
+  {
+   "english": "fair",
+   "korean": "공정한",
+   "rank": 1080
+  },
+  {
+   "english": "additional",
+   "korean": "추가의",
+   "rank": 1081
+  },
+  {
+   "english": "responsible",
+   "korean": "책임이 있는",
+   "rank": 1082
+  },
+  {
+   "english": "farm",
+   "korean": "농장",
+   "rank": 1083
+  },
+  {
+   "english": "collection",
+   "korean": "수집",
+   "rank": 1084
+  },
+  {
+   "english": "hang",
+   "korean": "걸다",
+   "rank": 1085
+  },
+  {
+   "english": "negative",
+   "korean": "부정적인",
+   "rank": 1086
+  },
+  {
+   "english": "band",
+   "korean": "밴드",
+   "rank": 1087
+  },
+  {
+   "english": "relative",
+   "korean": "상대적인",
+   "rank": 1088
+  },
+  {
+   "english": "tour",
+   "korean": "관광",
+   "rank": 1089
+  },
+  {
+   "english": "alternative",
+   "korean": "대안",
+   "rank": 1090
+  },
+  {
+   "english": "software",
+   "korean": "소프트웨어",
+   "rank": 1091
+  },
+  {
+   "english": "pair",
+   "korean": "쌍",
+   "rank": 1092
+  },
+  {
+   "english": "ship",
+   "korean": "배",
+   "rank": 1093
+  },
+  {
+   "english": "attitude",
+   "korean": "태도",
+   "rank": 1094
+  },
+  {
+   "english": "cheap",
+   "korean": "값이 싼",
+   "rank": 1095
+  },
+  {
+   "english": "double",
+   "korean": "더블",
+   "rank": 1096
+  },
+  {
+   "english": "leg",
+   "korean": "다리",
+   "rank": 1097
+  },
+  {
+   "english": "observe",
+   "korean": "관찰하다",
+   "rank": 1098
+  },
+  {
+   "english": "sentence",
+   "korean": "문장",
+   "rank": 1099
+  },
+  {
+   "english": "print",
+   "korean": "인쇄",
+   "rank": 1100
+  },
+  {
+   "english": "progress",
+   "korean": "진전",
+   "rank": 1101
+  },
+  {
+   "english": "truth",
+   "korean": "진실",
+   "rank": 1102
+  },
+  {
+   "english": "examine",
+   "korean": "조사하다",
+   "rank": 1104
+  },
+  {
+   "english": "lay",
+   "korean": "놓다",
+   "rank": 1105
+  },
+  {
+   "english": "speed",
+   "korean": "속도",
+   "rank": 1106
+  },
+  {
+   "english": "politics",
+   "korean": "정치",
+   "rank": 1107
+  },
+  {
+   "english": "reply",
+   "korean": "회신하다",
+   "rank": 1108
+  },
+  {
+   "english": "display",
+   "korean": "표시하다",
+   "rank": 1109
+  },
+  {
+   "english": "transfer",
+   "korean": "옮기다",
+   "rank": 1110
+  },
+  {
+   "english": "perfect",
+   "korean": "완벽한",
+   "rank": 1111
+  },
+  {
+   "english": "slightly",
+   "korean": "약간",
+   "rank": 1112
+  },
+  {
+   "english": "overall",
+   "korean": "전반적인",
+   "rank": 1113
+  },
+  {
+   "english": "intend",
+   "korean": "의도하다",
+   "rank": 1114
+  },
+  {
+   "english": "user",
+   "korean": "사용자",
+   "rank": 1115
+  },
+  {
+   "english": "respond",
+   "korean": "대답하다",
+   "rank": 1116
+  },
+  {
+   "english": "dinner",
+   "korean": "저녁",
+   "rank": 1117
+  },
+  {
+   "english": "slow",
+   "korean": "느린",
+   "rank": 1118
+  },
+  {
+   "english": "regular",
+   "korean": "정기적인",
+   "rank": 1119
+  },
+  {
+   "english": "physical",
+   "korean": "물리적",
+   "rank": 1120
+  },
+  {
+   "english": "apart",
+   "korean": "따로",
+   "rank": 1121
+  },
+  {
+   "english": "suit",
+   "korean": "정장",
+   "rank": 1122
+  },
+  {
+   "english": "federal",
+   "korean": "연방",
+   "rank": 1123
+  },
+  {
+   "english": "reveal",
+   "korean": "드러내다",
+   "rank": 1124
+  },
+  {
+   "english": "percentage",
+   "korean": "백분율",
+   "rank": 1125
+  },
+  {
+   "english": "peace",
+   "korean": "평화",
+   "rank": 1126
+  },
+  {
+   "english": "status",
+   "korean": "상태",
+   "rank": 1127
+  },
+  {
+   "english": "crime",
+   "korean": "범죄",
+   "rank": 1128
+  },
+  {
+   "english": "decline",
+   "korean": "감소",
+   "rank": 1129
+  },
+  {
+   "english": "decade",
+   "korean": "10년",
+   "rank": 1130
+  },
+  {
+   "english": "launch",
+   "korean": "시작하다",
+   "rank": 1131
+  },
+  {
+   "english": "warn",
+   "korean": "경고하다",
+   "rank": 1132
+  },
+  {
+   "english": "consumer",
+   "korean": "소비자",
+   "rank": 1133
+  },
+  {
+   "english": "favor",
+   "korean": "호의",
+   "rank": 1134
+  },
+  {
+   "english": "dry",
+   "korean": "마른",
+   "rank": 1135
+  },
+  {
+   "english": "partner",
+   "korean": "파트너",
+   "rank": 1136
+  },
+  {
+   "english": "institution",
+   "korean": "기관",
+   "rank": 1137
+  },
+  {
+   "english": "spot",
+   "korean": "점",
+   "rank": 1138
+  },
+  {
+   "english": "horse",
+   "korean": "말",
+   "rank": 1139
+  },
+  {
+   "english": "eventually",
+   "korean": "결국",
+   "rank": 1140
+  },
+  {
+   "english": "heat",
+   "korean": "열",
+   "rank": 1141
+  },
+  {
+   "english": "excite",
+   "korean": "일으키다",
+   "rank": 1142
+  },
+  {
+   "english": "reader",
+   "korean": "리더",
+   "rank": 1143
+  },
+  {
+   "english": "importance",
+   "korean": "중요성",
+   "rank": 1144
+  },
+  {
+   "english": "distance",
+   "korean": "거리",
+   "rank": 1145
+  },
+  {
+   "english": "guide",
+   "korean": "가이드",
+   "rank": 1146
+  },
+  {
+   "english": "grant",
+   "korean": "승인하다",
+   "rank": 1147
+  },
+  {
+   "english": "taxi",
+   "korean": "택시",
+   "rank": 1148
+  },
+  {
+   "english": "feed",
+   "korean": "밥을 먹이다",
+   "rank": 1149
+  },
+  {
+   "english": "pain",
+   "korean": "통증",
+   "rank": 1150
+  },
+  {
+   "english": "sector",
+   "korean": "부문",
+   "rank": 1151
+  },
+  {
+   "english": "mistake",
+   "korean": "실수",
+   "rank": 1152
+  },
+  {
+   "english": "ensure",
+   "korean": "보장하다",
+   "rank": 1153
+  },
+  {
+   "english": "satisfy",
+   "korean": "풀다",
+   "rank": 1154
+  },
+  {
+   "english": "chief",
+   "korean": "셰프",
+   "rank": 1155
+  },
+  {
+   "english": "cool",
+   "korean": "시원한",
+   "rank": 1156
+  },
+  {
+   "english": "expert",
+   "korean": "전문가",
+   "rank": 1157
+  },
+  {
+   "english": "wave",
+   "korean": "파도",
+   "rank": 1158
+  },
+  {
+   "english": "south",
+   "korean": "남쪽",
+   "rank": 1159
+  },
+  {
+   "english": "labor",
+   "korean": "노동",
+   "rank": 1160
+  },
+  {
+   "english": "surface",
+   "korean": "표면",
+   "rank": 1161
+  },
+  {
+   "english": "library",
+   "korean": "도서관",
+   "rank": 1162
+  },
+  {
+   "english": "excellent",
+   "korean": "훌륭한",
+   "rank": 1163
+  },
+  {
+   "english": "edge",
+   "korean": "가장자리",
+   "rank": 1164
+  },
+  {
+   "english": "camp",
+   "korean": "캠프",
+   "rank": 1165
+  },
+  {
+   "english": "audience",
+   "korean": "청중",
+   "rank": 1166
+  },
+  {
+   "english": "lift",
+   "korean": "승강기",
+   "rank": 1167
+  },
+  {
+   "english": "procedure",
+   "korean": "절차",
+   "rank": 1168
+  },
+  {
+   "english": "email",
+   "korean": "이메일",
+   "rank": 1169
+  },
+  {
+   "english": "global",
+   "korean": "글로벌",
+   "rank": 1170
+  },
+  {
+   "english": "struggle",
+   "korean": "고심하다",
+   "rank": 1171
+  },
+  {
+   "english": "advertise",
+   "korean": "공시 하다",
+   "rank": 1172
+  },
+  {
+   "english": "select",
+   "korean": "선택하다",
+   "rank": 1173
+  },
+  {
+   "english": "surround",
+   "korean": "주변",
+   "rank": 1174
+  },
+  {
+   "english": "extent",
+   "korean": "정도",
+   "rank": 1175
+  },
+  {
+   "english": "river",
+   "korean": "강",
+   "rank": 1176
+  },
+  {
+   "english": "annual",
+   "korean": "연간",
+   "rank": 1177
+  },
+  {
+   "english": "fully",
+   "korean": "충분히",
+   "rank": 1178
+  },
+  {
+   "english": "contrast",
+   "korean": "차이",
+   "rank": 1179
+  },
+  {
+   "english": "roll",
+   "korean": "연타",
+   "rank": 1180
+  },
+  {
+   "english": "reality",
+   "korean": "현실",
+   "rank": 1181
+  },
+  {
+   "english": "photograph",
+   "korean": "사진",
+   "rank": 1182
+  },
+  {
+   "english": "artist",
+   "korean": "아티스트",
+   "rank": 1183
+  },
+  {
+   "english": "conflict",
+   "korean": "갈등",
+   "rank": 1184
+  },
+  {
+   "english": "entire",
+   "korean": "전체",
+   "rank": 1185
+  },
+  {
+   "english": "presence",
+   "korean": "있음",
+   "rank": 1186
+  },
+  {
+   "english": "crowd",
+   "korean": "군중",
+   "rank": 1187
+  },
+  {
+   "english": "corner",
+   "korean": "모서리",
+   "rank": 1188
+  },
+  {
+   "english": "gas",
+   "korean": "가스",
+   "rank": 1189
+  },
+  {
+   "english": "shift",
+   "korean": "옮기다",
+   "rank": 1190
+  },
+  {
+   "english": "net",
+   "korean": "그물",
+   "rank": 1191
+  },
+  {
+   "english": "category",
+   "korean": "범주",
+   "rank": 1192
+  },
+  {
+   "english": "secretary",
+   "korean": "비서",
+   "rank": 1193
+  },
+  {
+   "english": "defense",
+   "korean": "방어",
+   "rank": 1194
+  },
+  {
+   "english": "quick",
+   "korean": "빠른",
+   "rank": 1195
+  },
+  {
+   "english": "cook",
+   "korean": "요리하다",
+   "rank": 1196
+  },
+  {
+   "english": "spread",
+   "korean": "확산",
+   "rank": 1197
+  },
+  {
+   "english": "nuclear",
+   "korean": "핵무기",
+   "rank": 1198
+  },
+  {
+   "english": "scale",
+   "korean": "규모",
+   "rank": 1199
+  },
+  {
+   "english": "driver",
+   "korean": "운전사",
+   "rank": 1200
+  },
+  {
+   "english": "ball",
+   "korean": "공",
+   "rank": 1201
+  },
+  {
+   "english": "cry",
+   "korean": "울다",
+   "rank": 1202
+  },
+  {
+   "english": "introduction",
+   "korean": "소개",
+   "rank": 1203
+  },
+  {
+   "english": "requirement",
+   "korean": "요구 사항",
+   "rank": 1204
+  },
+  {
+   "english": "north",
+   "korean": "북쪽",
+   "rank": 1205
+  },
+  {
+   "english": "confirm",
+   "korean": "확인하다",
+   "rank": 1206
+  },
+  {
+   "english": "senior",
+   "korean": "상위",
+   "rank": 1207
+  },
+  {
+   "english": "photo",
+   "korean": "사진",
+   "rank": 1208
+  },
+  {
+   "english": "refuse",
+   "korean": "거절하다",
+   "rank": 1209
+  },
+  {
+   "english": "transport",
+   "korean": "수송",
+   "rank": 1210
+  },
+  {
+   "english": "emerge",
+   "korean": "알려지다",
+   "rank": 1211
+  },
+  {
+   "english": "map",
+   "korean": "지도",
+   "rank": 1212
+  },
+  {
+   "english": "concept",
+   "korean": "개념",
+   "rank": 1213
+  },
+  {
+   "english": "island",
+   "korean": "섬",
+   "rank": 1214
+  },
+  {
+   "english": "reform",
+   "korean": "개정",
+   "rank": 1215
+  },
+  {
+   "english": "football",
+   "korean": "축구",
+   "rank": 1217
+  },
+  {
+   "english": "survive",
+   "korean": "생존하다",
+   "rank": 1218
+  },
+  {
+   "english": "flight",
+   "korean": "비행",
+   "rank": 1219
+  },
+  {
+   "english": "left",
+   "korean": "왼쪽",
+   "rank": 1220
+  },
+  {
+   "english": "solve",
+   "korean": "해결하다",
+   "rank": 1221
+  },
+  {
+   "english": "neighbor",
+   "korean": "이웃",
+   "rank": 1222
+  },
+  {
+   "english": "background",
+   "korean": "배경",
+   "rank": 1223
+  },
+  {
+   "english": "technique",
+   "korean": "기술",
+   "rank": 1224
+  },
+  {
+   "english": "traffic",
+   "korean": "교통",
+   "rank": 1225
+  },
+  {
+   "english": "improvement",
+   "korean": "개선",
+   "rank": 1226
+  },
+  {
+   "english": "tool",
+   "korean": "도구",
+   "rank": 1227
+  },
+  {
+   "english": "consequence",
+   "korean": "결과",
+   "rank": 1228
+  },
+  {
+   "english": "circumstance",
+   "korean": "상황",
+   "rank": 1229
+  },
+  {
+   "english": "smoke",
+   "korean": "연기",
+   "rank": 1230
+  },
+  {
+   "english": "reaction",
+   "korean": "반응",
+   "rank": 1231
+  },
+  {
+   "english": "rain",
+   "korean": "비",
+   "rank": 1232
+  },
+  {
+   "english": "busy",
+   "korean": "바쁘다",
+   "rank": 1233
+  },
+  {
+   "english": "lesson",
+   "korean": "수업",
+   "rank": 1234
+  },
+  {
+   "english": "brain",
+   "korean": "뇌",
+   "rank": 1235
+  },
+  {
+   "english": "mass",
+   "korean": "대량의",
+   "rank": 1236
+  },
+  {
+   "english": "funny",
+   "korean": "재미있는",
+   "rank": 1237
+  },
+  {
+   "english": "contribute",
+   "korean": "기여하다",
+   "rank": 1238
+  },
+  {
+   "english": "failure",
+   "korean": "실패",
+   "rank": 1239
+  },
+  {
+   "english": "schedule",
+   "korean": "일정",
+   "rank": 1240
+  },
+  {
+   "english": "speaker",
+   "korean": "스피커",
+   "rank": 1241
+  },
+  {
+   "english": "adopt",
+   "korean": "입양하다",
+   "rank": 1243
+  },
+  {
+   "english": "combine",
+   "korean": "결합하다",
+   "rank": 1244
+  },
+  {
+   "english": "mountain",
+   "korean": "산",
+   "rank": 1245
+  },
+  {
+   "english": "waste",
+   "korean": "쓰레기",
+   "rank": 1246
+  },
+  {
+   "english": "hide",
+   "korean": "숨다",
+   "rank": 1247
+  },
+  {
+   "english": "marriage",
+   "korean": "결혼",
+   "rank": 1248
+  },
+  {
+   "english": "ticket",
+   "korean": "표",
+   "rank": 1249
+  },
+  {
+   "english": "meal",
+   "korean": "식사",
+   "rank": 1250
+  },
+  {
+   "english": "colleague",
+   "korean": "동료",
+   "rank": 1251
+  },
+  {
+   "english": "bag",
+   "korean": "가방",
+   "rank": 1252
+  },
+  {
+   "english": "repeat",
+   "korean": "반복하다",
+   "rank": 1253
+  },
+  {
+   "english": "equal",
+   "korean": "동일한",
+   "rank": 1254
+  },
+  {
+   "english": "expression",
+   "korean": "표현",
+   "rank": 1255
+  },
+  {
+   "english": "plus",
+   "korean": "...을 더한",
+   "rank": 1256
+  },
+  {
+   "english": "extremely",
+   "korean": "극도로",
+   "rank": 1257
+  },
+  {
+   "english": "owner",
+   "korean": "소유자",
+   "rank": 1258
+  },
+  {
+   "english": "plane",
+   "korean": "비행기",
+   "rank": 1259
+  },
+  {
+   "english": "commercial",
+   "korean": "광고",
+   "rank": 1260
+  },
+  {
+   "english": "lady",
+   "korean": "숙녀",
+   "rank": 1261
+  },
+  {
+   "english": "duty",
+   "korean": "의무",
+   "rank": 1262
+  },
+  {
+   "english": "strength",
+   "korean": "힘",
+   "rank": 1263
+  },
+  {
+   "english": "connect",
+   "korean": "연결하다",
+   "rank": 1264
+  },
+  {
+   "english": "cultural",
+   "korean": "문화적인",
+   "rank": 1265
+  },
+  {
+   "english": "arrange",
+   "korean": "마련하다",
+   "rank": 1266
+  },
+  {
+   "english": "scheme",
+   "korean": "계획",
+   "rank": 1267
+  },
+  {
+   "english": "payment",
+   "korean": "지불",
+   "rank": 1268
+  },
+  {
+   "english": "unfortunately",
+   "korean": "안타깝게도",
+   "rank": 1269
+  },
+  {
+   "english": "brief",
+   "korean": "짧은",
+   "rank": 1270
+  },
+  {
+   "english": "bird",
+   "korean": "새",
+   "rank": 1271
+  },
+  {
+   "english": "demonstrate",
+   "korean": "입증하다",
+   "rank": 1272
+  },
+  {
+   "english": "contribution",
+   "korean": "기부금",
+   "rank": 1273
+  },
+  {
+   "english": "appreciate",
+   "korean": "고마워하다",
+   "rank": 1274
+  },
+  {
+   "english": "chapter",
+   "korean": "장",
+   "rank": 1275
+  },
+  {
+   "english": "secret",
+   "korean": "비밀",
+   "rank": 1276
+  },
+  {
+   "english": "apparently",
+   "korean": "보기에",
+   "rank": 1277
+  },
+  {
+   "english": "novel",
+   "korean": "소설",
+   "rank": 1278
+  },
+  {
+   "english": "union",
+   "korean": "노동 조합",
+   "rank": 1279
+  },
+  {
+   "english": "burn",
+   "korean": "불타다",
+   "rank": 1280
+  },
+  {
+   "english": "trend",
+   "korean": "경향",
+   "rank": 1281
+  },
+  {
+   "english": "initial",
+   "korean": "초기의",
+   "rank": 1282
+  },
+  {
+   "english": "pleasure",
+   "korean": "기쁨",
+   "rank": 1283
+  },
+  {
+   "english": "suggestion",
+   "korean": "제안",
+   "rank": 1284
+  },
+  {
+   "english": "critical",
+   "korean": "비판적인",
+   "rank": 1285
+  },
+  {
+   "english": "gather",
+   "korean": "모으다",
+   "rank": 1286
+  },
+  {
+   "english": "earth",
+   "korean": "지구",
+   "rank": 1288
+  },
+  {
+   "english": "pop",
+   "korean": "팝",
+   "rank": 1289
+  },
+  {
+   "english": "essential",
+   "korean": "필수적인",
+   "rank": 1290
+  },
+  {
+   "english": "desire",
+   "korean": "욕구",
+   "rank": 1291
+  },
+  {
+   "english": "promote",
+   "korean": "홍보하다",
+   "rank": 1292
+  },
+  {
+   "english": "currently",
+   "korean": "현재",
+   "rank": 1293
+  },
+  {
+   "english": "employ",
+   "korean": "고용",
+   "rank": 1294
+  },
+  {
+   "english": "path",
+   "korean": "길",
+   "rank": 1295
+  },
+  {
+   "english": "topic",
+   "korean": "주제",
+   "rank": 1296
+  },
+  {
+   "english": "beach",
+   "korean": "해변",
+   "rank": 1297
+  },
+  {
+   "english": "attract",
+   "korean": "끌어 들이다",
+   "rank": 1298
+  },
+  {
+   "english": "engage",
+   "korean": "관계를 맺다",
+   "rank": 1299
+  },
+  {
+   "english": "powerful",
+   "korean": "강한",
+   "rank": 1300
+  },
+  {
+   "english": "flower",
+   "korean": "꽃",
+   "rank": 1301
+  },
+  {
+   "english": "crisis",
+   "korean": "위기",
+   "rank": 1302
+  },
+  {
+   "english": "settle",
+   "korean": "해결하다",
+   "rank": 1303
+  },
+  {
+   "english": "boat",
+   "korean": "보트",
+   "rank": 1304
+  },
+  {
+   "english": "aid",
+   "korean": "지원",
+   "rank": 1305
+  },
+  {
+   "english": "fan",
+   "korean": "팬",
+   "rank": 1306
+  },
+  {
+   "english": "kitchen",
+   "korean": "주방",
+   "rank": 1307
+  },
+  {
+   "english": "twice",
+   "korean": "두 배",
+   "rank": 1308
+  },
+  {
+   "english": "fresh",
+   "korean": "신선한",
+   "rank": 1309
+  },
+  {
+   "english": "delay",
+   "korean": "지연",
+   "rank": 1310
+  },
+  {
+   "english": "safety",
+   "korean": "안전",
+   "rank": 1311
+  },
+  {
+   "english": "engineer",
+   "korean": "엔지니어",
+   "rank": 1312
+  },
+  {
+   "english": "quiet",
+   "korean": "조용한",
+   "rank": 1313
+  },
+  {
+   "english": "insurance",
+   "korean": "보험",
+   "rank": 1314
+  },
+  {
+   "english": "nurse",
+   "korean": "간호사",
+   "rank": 1315
+  },
+  {
+   "english": "divide",
+   "korean": "나누다",
+   "rank": 1316
+  },
+  {
+   "english": "length",
+   "korean": "길이",
+   "rank": 1317
+  },
+  {
+   "english": "investigation",
+   "korean": "조사",
+   "rank": 1318
+  },
+  {
+   "english": "package",
+   "korean": "패키지",
+   "rank": 1319
+  },
+  {
+   "english": "expand",
+   "korean": "확장하다",
+   "rank": 1321
+  },
+  {
+   "english": "commit",
+   "korean": "저지르다",
+   "rank": 1322
+  },
+  {
+   "english": "obvious",
+   "korean": "분명한",
+   "rank": 1323
+  },
+  {
+   "english": "jump",
+   "korean": "도약",
+   "rank": 1324
+  },
+  {
+   "english": "weapon",
+   "korean": "무기",
+   "rank": 1325
+  },
+  {
+   "english": "relatively",
+   "korean": "비교적",
+   "rank": 1326
+  },
+  {
+   "english": "host",
+   "korean": "주인",
+   "rank": 1327
+  },
+  {
+   "english": "winter",
+   "korean": "겨울",
+   "rank": 1328
+  },
+  {
+   "english": "district",
+   "korean": "구역",
+   "rank": 1329
+  },
+  {
+   "english": "broad",
+   "korean": "넓은",
+   "rank": 1330
+  },
+  {
+   "english": "tire",
+   "korean": "타이어",
+   "rank": 1331
+  },
+  {
+   "english": "spring",
+   "korean": "봄",
+   "rank": 1332
+  },
+  {
+   "english": "spirit",
+   "korean": "영혼",
+   "rank": 1333
+  },
+  {
+   "english": "lunch",
+   "korean": "점심",
+   "rank": 1334
+  },
+  {
+   "english": "actual",
+   "korean": "실제",
+   "rank": 1335
+  },
+  {
+   "english": "pool",
+   "korean": "수영장",
+   "rank": 1336
+  },
+  {
+   "english": "battle",
+   "korean": "전투",
+   "rank": 1337
+  },
+  {
+   "english": "tradition",
+   "korean": "전통",
+   "rank": 1338
+  },
+  {
+   "english": "cash",
+   "korean": "현금",
+   "rank": 1339
+  },
+  {
+   "english": "hardly",
+   "korean": "거의 ~ 아니다",
+   "rank": 1340
+  },
+  {
+   "english": "award",
+   "korean": "상",
+   "rank": 1341
+  },
+  {
+   "english": "coach",
+   "korean": "코치",
+   "rank": 1342
+  },
+  {
+   "english": "experiment",
+   "korean": "실험",
+   "rank": 1343
+  },
+  {
+   "english": "consideration",
+   "korean": "고려 사항",
+   "rank": 1344
+  },
+  {
+   "english": "strange",
+   "korean": "이상한",
+   "rank": 1345
+  },
+  {
+   "english": "code",
+   "korean": "암호",
+   "rank": 1346
+  },
+  {
+   "english": "possibly",
+   "korean": "혹시",
+   "rank": 1347
+  },
+  {
+   "english": "threat",
+   "korean": "위협",
+   "rank": 1348
+  },
+  {
+   "english": "accident",
+   "korean": "사고",
+   "rank": 1349
+  },
+  {
+   "english": "impossible",
+   "korean": "불가능한",
+   "rank": 1350
+  },
+  {
+   "english": "revenue",
+   "korean": "수익",
+   "rank": 1351
+  },
+  {
+   "english": "enable",
+   "korean": "~할 수 있게 하다",
+   "rank": 1352
+  },
+  {
+   "english": "afraid",
+   "korean": "두려워하는",
+   "rank": 1353
+  },
+  {
+   "english": "active",
+   "korean": "활동적인",
+   "rank": 1354
+  },
+  {
+   "english": "conclude",
+   "korean": "끝내다",
+   "rank": 1355
+  },
+  {
+   "english": "religious",
+   "korean": "종교의",
+   "rank": 1356
+  },
+  {
+   "english": "cancer",
+   "korean": "암",
+   "rank": 1357
+  },
+  {
+   "english": "convince",
+   "korean": "확신시키다",
+   "rank": 1358
+  },
+  {
+   "english": "vary",
+   "korean": "달라지다",
+   "rank": 1359
+  },
+  {
+   "english": "environmental",
+   "korean": "환경",
+   "rank": 1360
+  },
+  {
+   "english": "sun",
+   "korean": "해",
+   "rank": 1361
+  },
+  {
+   "english": "healthy",
+   "korean": "건강한",
+   "rank": 1362
+  },
+  {
+   "english": "blow",
+   "korean": "불다",
+   "rank": 1363
+  },
+  {
+   "english": "volume",
+   "korean": "용량",
+   "rank": 1364
+  },
+  {
+   "english": "location",
+   "korean": "위치",
+   "rank": 1365
+  },
+  {
+   "english": "invest",
+   "korean": "투자하다",
+   "rank": 1366
+  },
+  {
+   "english": "proceed",
+   "korean": "진행하다",
+   "rank": 1367
+  },
+  {
+   "english": "wash",
+   "korean": "씻다",
+   "rank": 1368
+  },
+  {
+   "english": "actor",
+   "korean": "배우",
+   "rank": 1369
+  },
+  {
+   "english": "glad",
+   "korean": "기쁜",
+   "rank": 1370
+  },
+  {
+   "english": "tape",
+   "korean": "줄자",
+   "rank": 1371
+  },
+  {
+   "english": "opposite",
+   "korean": "반대",
+   "rank": 1373
+  },
+  {
+   "english": "stone",
+   "korean": "결석",
+   "rank": 1374
+  },
+  {
+   "english": "sum",
+   "korean": "합집합",
+   "rank": 1375
+  },
+  {
+   "english": "murder",
+   "korean": "살인",
+   "rank": 1376
+  },
+  {
+   "english": "monitor",
+   "korean": "감시 장치",
+   "rank": 1377
+  },
+  {
+   "english": "soldier",
+   "korean": "군인",
+   "rank": 1378
+  },
+  {
+   "english": "finance",
+   "korean": "재원",
+   "rank": 1379
+  },
+  {
+   "english": "hate",
+   "korean": "싫어하다",
+   "rank": 1380
+  },
+  {
+   "english": "egg",
+   "korean": "계란",
+   "rank": 1381
+  },
+  {
+   "english": "concert",
+   "korean": "콘서트",
+   "rank": 1382
+  },
+  {
+   "english": "shock",
+   "korean": "충격",
+   "rank": 1383
+  },
+  {
+   "english": "comfortable",
+   "korean": "편안한",
+   "rank": 1384
+  },
+  {
+   "english": "usual",
+   "korean": "보통",
+   "rank": 1385
+  },
+  {
+   "english": "carefully",
+   "korean": "주의하여",
+   "rank": 1386
+  },
+  {
+   "english": "pack",
+   "korean": "팩",
+   "rank": 1387
+  },
+  {
+   "english": "recall",
+   "korean": "상기하다",
+   "rank": 1388
+  },
+  {
+   "english": "wine",
+   "korean": "와인",
+   "rank": 1389
+  },
+  {
+   "english": "camera",
+   "korean": "카메라",
+   "rank": 1390
+  },
+  {
+   "english": "swim",
+   "korean": "헤엄",
+   "rank": 1391
+  },
+  {
+   "english": "manufacture",
+   "korean": "제조",
+   "rank": 1392
+  },
+  {
+   "english": "theater",
+   "korean": "극장",
+   "rank": 1393
+  },
+  {
+   "english": "cycle",
+   "korean": "주기",
+   "rank": 1394
+  },
+  {
+   "english": "coffee",
+   "korean": "커피",
+   "rank": 1395
+  },
+  {
+   "english": "totally",
+   "korean": "완전히",
+   "rank": 1396
+  },
+  {
+   "english": "museum",
+   "korean": "박물관",
+   "rank": 1397
+  },
+  {
+   "english": "visitor",
+   "korean": "방문객",
+   "rank": 1398
+  },
+  {
+   "english": "freedom",
+   "korean": "자유",
+   "rank": 1399
+  },
+  {
+   "english": "construction",
+   "korean": "건설",
+   "rank": 1400
+  },
+  {
+   "english": "dear",
+   "korean": "~에게",
+   "rank": 1401
+  },
+  {
+   "english": "objective",
+   "korean": "목적",
+   "rank": 1402
+  },
+  {
+   "english": "historical",
+   "korean": "역사적인",
+   "rank": 1405
+  },
+  {
+   "english": "oppose",
+   "korean": "대들다",
+   "rank": 1406
+  },
+  {
+   "english": "branch",
+   "korean": "나뭇가지",
+   "rank": 1407
+  },
+  {
+   "english": "vehicle",
+   "korean": "차량",
+   "rank": 1408
+  },
+  {
+   "english": "scientist",
+   "korean": "과학자",
+   "rank": 1409
+  },
+  {
+   "english": "route",
+   "korean": "노선",
+   "rank": 1410
+  },
+  {
+   "english": "bind",
+   "korean": "묶다",
+   "rank": 1411
+  },
+  {
+   "english": "belong",
+   "korean": "제자리에 있다",
+   "rank": 1412
+  },
+  {
+   "english": "taste",
+   "korean": "맛",
+   "rank": 1413
+  },
+  {
+   "english": "tonight",
+   "korean": "오늘 밤",
+   "rank": 1414
+  },
+  {
+   "english": "fashion",
+   "korean": "패션",
+   "rank": 1415
+  },
+  {
+   "english": "danger",
+   "korean": "위험",
+   "rank": 1416
+  },
+  {
+   "english": "bomb",
+   "korean": "폭탄",
+   "rank": 1417
+  },
+  {
+   "english": "army",
+   "korean": "군대",
+   "rank": 1418
+  },
+  {
+   "english": "dangerous",
+   "korean": "위험한",
+   "rank": 1419
+  },
+  {
+   "english": "decrease",
+   "korean": "감소하다",
+   "rank": 1420
+  },
+  {
+   "english": "hurt",
+   "korean": "아프다",
+   "rank": 1421
+  },
+  {
+   "english": "council",
+   "korean": "이사회",
+   "rank": 1422
+  },
+  {
+   "english": "editor",
+   "korean": "편집자",
+   "rank": 1423
+  },
+  {
+   "english": "normally",
+   "korean": "보통",
+   "rank": 1424
+  },
+  {
+   "english": "sight",
+   "korean": "시력",
+   "rank": 1425
+  },
+  {
+   "english": "generate",
+   "korean": "생성하다",
+   "rank": 1426
+  },
+  {
+   "english": "gift",
+   "korean": "선물",
+   "rank": 1427
+  },
+  {
+   "english": "delivery",
+   "korean": "배달",
+   "rank": 1428
+  },
+  {
+   "english": "deny",
+   "korean": "부인하다",
+   "rank": 1429
+  },
+  {
+   "english": "guest",
+   "korean": "손님",
+   "rank": 1430
+  },
+  {
+   "english": "anybody",
+   "korean": "아무도",
+   "rank": 1431
+  },
+  {
+   "english": "bedroom",
+   "korean": "침실",
+   "rank": 1432
+  },
+  {
+   "english": "quote",
+   "korean": "인용하다",
+   "rank": 1433
+  },
+  {
+   "english": "climb",
+   "korean": "오르다",
+   "rank": 1434
+  },
+  {
+   "english": "basically",
+   "korean": "원래",
+   "rank": 1435
+  },
+  {
+   "english": "violence",
+   "korean": "폭행",
+   "rank": 1436
+  },
+  {
+   "english": "minister",
+   "korean": "장관",
+   "rank": 1437
+  },
+  {
+   "english": "mainly",
+   "korean": "주로",
+   "rank": 1438
+  },
+  {
+   "english": "mouth",
+   "korean": "입",
+   "rank": 1439
+  },
+  {
+   "english": "noise",
+   "korean": "소음",
+   "rank": 1440
+  },
+  {
+   "english": "manner",
+   "korean": "방법",
+   "rank": 1441
+  },
+  {
+   "english": "gun",
+   "korean": "총",
+   "rank": 1442
+  },
+  {
+   "english": "square",
+   "korean": "정사각형",
+   "rank": 1443
+  },
+  {
+   "english": "occasion",
+   "korean": "기회",
+   "rank": 1444
+  },
+  {
+   "english": "familiar",
+   "korean": "친숙한",
+   "rank": 1445
+  },
+  {
+   "english": "ignore",
+   "korean": "무시하다",
+   "rank": 1446
+  },
+  {
+   "english": "destroy",
+   "korean": "파괴하다",
+   "rank": 1447
+  },
+  {
+   "english": "affair",
+   "korean": "일",
+   "rank": 1448
+  },
+  {
+   "english": "civil",
+   "korean": "예의 바른",
+   "rank": 1449
+  },
+  {
+   "english": "locate",
+   "korean": "위치하고 있다",
+   "rank": 1450
+  },
+  {
+   "english": "citizen",
+   "korean": "시민",
+   "rank": 1451
+  },
+  {
+   "english": "temperature",
+   "korean": "온도",
+   "rank": 1452
+  },
+  {
+   "english": "gold",
+   "korean": "금",
+   "rank": 1453
+  },
+  {
+   "english": "domestic",
+   "korean": "국내의",
+   "rank": 1454
+  },
+  {
+   "english": "load",
+   "korean": "짐",
+   "rank": 1455
+  },
+  {
+   "english": "belief",
+   "korean": "믿음",
+   "rank": 1456
+  },
+  {
+   "english": "troop",
+   "korean": "군대",
+   "rank": 1457
+  },
+  {
+   "english": "technical",
+   "korean": "인위적인",
+   "rank": 1458
+  },
+  {
+   "english": "remind",
+   "korean": "상기시키다",
+   "rank": 1459
+  },
+  {
+   "english": "arrangement",
+   "korean": "준비",
+   "rank": 1460
+  },
+  {
+   "english": "skin",
+   "korean": "피부",
+   "rank": 1461
+  },
+  {
+   "english": "prison",
+   "korean": "감옥",
+   "rank": 1462
+  },
+  {
+   "english": "switch",
+   "korean": "스위치",
+   "rank": 1463
+  },
+  {
+   "english": "acquire",
+   "korean": "습득하다",
+   "rank": 1464
+  },
+  {
+   "english": "corporate",
+   "korean": "기업",
+   "rank": 1465
+  },
+  {
+   "english": "fairly",
+   "korean": "꽤",
+   "rank": 1466
+  },
+  {
+   "english": "wood",
+   "korean": "목재",
+   "rank": 1467
+  },
+  {
+   "english": "participate",
+   "korean": "참가하다",
+   "rank": 1468
+  },
+  {
+   "english": "tough",
+   "korean": "힘든",
+   "rank": 1469
+  },
+  {
+   "english": "tear",
+   "korean": "눈물",
+   "rank": 1470
+  },
+  {
+   "english": "representative",
+   "korean": "대표",
+   "rank": 1471
+  },
+  {
+   "english": "capacity",
+   "korean": "용량",
+   "rank": 1472
+  },
+  {
+   "english": "border",
+   "korean": "국경",
+   "rank": 1473
+  },
+  {
+   "english": "shake",
+   "korean": "떨림",
+   "rank": 1474
+  },
+  {
+   "english": "assessment",
+   "korean": "평가",
+   "rank": 1475
+  },
+  {
+   "english": "shoe",
+   "korean": "구두",
+   "rank": 1476
+  },
+  {
+   "english": "ought",
+   "korean": "영",
+   "rank": 1477
+  },
+  {
+   "english": "ad",
+   "korean": "광고",
+   "rank": 1478
+  },
+  {
+   "english": "fee",
+   "korean": "요금",
+   "rank": 1479
+  },
+  {
+   "english": "hall",
+   "korean": "홀",
+   "rank": 1480
+  },
+  {
+   "english": "regulation",
+   "korean": "규제",
+   "rank": 1481
+  },
+  {
+   "english": "escape",
+   "korean": "탈출하다",
+   "rank": 1482
+  },
+  {
+   "english": "studio",
+   "korean": "사진관",
+   "rank": 1483
+  },
+  {
+   "english": "proper",
+   "korean": "적절한",
+   "rank": 1484
+  },
+  {
+   "english": "relax",
+   "korean": "안심하다",
+   "rank": 1485
+  },
+  {
+   "english": "tourist",
+   "korean": "관광객",
+   "rank": 1486
+  },
+  {
+   "english": "component",
+   "korean": "요소",
+   "rank": 1487
+  },
+  {
+   "english": "afford",
+   "korean": "여유가 되다",
+   "rank": 1488
+  },
+  {
+   "english": "lawyer",
+   "korean": "변호사",
+   "rank": 1489
+  },
+  {
+   "english": "suspect",
+   "korean": "의심하다",
+   "rank": 1490
+  },
+  {
+   "english": "cup",
+   "korean": "컵",
+   "rank": 1491
+  },
+  {
+   "english": "description",
+   "korean": "설명",
+   "rank": 1492
+  },
+  {
+   "english": "confidence",
+   "korean": "신뢰",
+   "rank": 1493
+  },
+  {
+   "english": "industrial",
+   "korean": "산업",
+   "rank": 1494
+  },
+  {
+   "english": "complain",
+   "korean": "불평하다",
+   "rank": 1495
+  },
+  {
+   "english": "perspective",
+   "korean": "관점",
+   "rank": 1496
+  },
+  {
+   "english": "error",
+   "korean": "오류",
+   "rank": 1497
+  },
+  {
+   "english": "arrest",
+   "korean": "체포",
+   "rank": 1498
+  },
+  {
+   "english": "assess",
+   "korean": "평가하다",
+   "rank": 1499
+  },
+  {
+   "english": "register",
+   "korean": "등록하다",
+   "rank": 1500
+  },
+  {
+   "english": "asset",
+   "korean": "유산",
+   "rank": 1501
+  },
+  {
+   "english": "signal",
+   "korean": "신호",
+   "rank": 1502
+  },
+  {
+   "english": "finger",
+   "korean": "손가락",
+   "rank": 1503
+  },
+  {
+   "english": "relevant",
+   "korean": "관련 있는",
+   "rank": 1504
+  },
+  {
+   "english": "explore",
+   "korean": "탐구하다",
+   "rank": 1505
+  },
+  {
+   "english": "leadership",
+   "korean": "지도",
+   "rank": 1506
+  },
+  {
+   "english": "commitment",
+   "korean": "약속",
+   "rank": 1507
+  },
+  {
+   "english": "wake",
+   "korean": "깨어 있다",
+   "rank": 1508
+  },
+  {
+   "english": "necessarily",
+   "korean": "필연적으로",
+   "rank": 1509
+  },
+  {
+   "english": "bright",
+   "korean": "밝은",
+   "rank": 1510
+  },
+  {
+   "english": "frame",
+   "korean": "액자",
+   "rank": 1511
+  },
+  {
+   "english": "slowly",
+   "korean": "느리게",
+   "rank": 1512
+  },
+  {
+   "english": "bond",
+   "korean": "노예",
+   "rank": 1513
+  },
+  {
+   "english": "hire",
+   "korean": "고용하다",
+   "rank": 1514
+  },
+  {
+   "english": "hole",
+   "korean": "구멍",
+   "rank": 1515
+  },
+  {
+   "english": "tie",
+   "korean": "묶다",
+   "rank": 1516
+  },
+  {
+   "english": "internal",
+   "korean": "내부",
+   "rank": 1517
+  },
+  {
+   "english": "chain",
+   "korean": "체인",
+   "rank": 1518
+  },
+  {
+   "english": "literature",
+   "korean": "문학",
+   "rank": 1519
+  },
+  {
+   "english": "victim",
+   "korean": "피해자",
+   "rank": 1520
+  },
+  {
+   "english": "threaten",
+   "korean": "위협하다",
+   "rank": 1521
+  },
+  {
+   "english": "division",
+   "korean": "분할",
+   "rank": 1522
+  },
+  {
+   "english": "secure",
+   "korean": "안전한",
+   "rank": 1523
+  },
+  {
+   "english": "amaze",
+   "korean": "놀리다",
+   "rank": 1524
+  },
+  {
+   "english": "device",
+   "korean": "장치",
+   "rank": 1525
+  },
+  {
+   "english": "birth",
+   "korean": "출생",
+   "rank": 1526
+  },
+  {
+   "english": "forest",
+   "korean": "숲",
+   "rank": 1527
+  },
+  {
+   "english": "label",
+   "korean": "상표",
+   "rank": 1528
+  },
+  {
+   "english": "root",
+   "korean": "뿌리",
+   "rank": 1529
+  },
+  {
+   "english": "factory",
+   "korean": "공장",
+   "rank": 1530
+  },
+  {
+   "english": "expense",
+   "korean": "비용",
+   "rank": 1531
+  },
+  {
+   "english": "channel",
+   "korean": "채널",
+   "rank": 1532
+  },
+  {
+   "english": "investigate",
+   "korean": "조사하다",
+   "rank": 1533
+  },
+  {
+   "english": "recommendation",
+   "korean": "추천",
+   "rank": 1534
+  },
+  {
+   "english": "rank",
+   "korean": "계급",
+   "rank": 1535
+  },
+  {
+   "english": "typical",
+   "korean": "전형적인",
+   "rank": 1536
+  },
+  {
+   "english": "west",
+   "korean": "서쪽",
+   "rank": 1537
+  },
+  {
+   "english": "friendly",
+   "korean": "친숙한",
+   "rank": 1538
+  },
+  {
+   "english": "resident",
+   "korean": "거주자",
+   "rank": 1539
+  },
+  {
+   "english": "provision",
+   "korean": "공급",
+   "rank": 1540
+  },
+  {
+   "english": "concentrate",
+   "korean": "집중하다",
+   "rank": 1541
+  },
+  {
+   "english": "plenty",
+   "korean": "풍부한",
+   "rank": 1542
+  },
+  {
+   "english": "export",
+   "korean": "내보내다",
+   "rank": 1543
+  },
+  {
+   "english": "entirely",
+   "korean": "전적으로",
+   "rank": 1544
+  },
+  {
+   "english": "strongly",
+   "korean": "강하게",
+   "rank": 1545
+  },
+  {
+   "english": "bridge",
+   "korean": "다리",
+   "rank": 1546
+  },
+  {
+   "english": "consist",
+   "korean": "이루어져 있다",
+   "rank": 1547
+  },
+  {
+   "english": "graduate",
+   "korean": "졸업하다",
+   "rank": 1548
+  },
+  {
+   "english": "brand",
+   "korean": "상표",
+   "rank": 1549
+  },
+  {
+   "english": "moral",
+   "korean": "도의적인",
+   "rank": 1550
+  },
+  {
+   "english": "insist",
+   "korean": "주장하다",
+   "rank": 1551
+  },
+  {
+   "english": "combination",
+   "korean": "콤비네이션",
+   "rank": 1552
+  },
+  {
+   "english": "abuse",
+   "korean": "남용",
+   "rank": 1553
+  },
+  {
+   "english": "ice",
+   "korean": "얼음",
+   "rank": 1554
+  },
+  {
+   "english": "principal",
+   "korean": "주요한",
+   "rank": 1555
+  },
+  {
+   "english": "master",
+   "korean": "주인",
+   "rank": 1556
+  },
+  {
+   "english": "definitely",
+   "korean": "분명히",
+   "rank": 1557
+  },
+  {
+   "english": "session",
+   "korean": "세션",
+   "rank": 1558
+  },
+  {
+   "english": "grade",
+   "korean": "등급",
+   "rank": 1559
+  },
+  {
+   "english": "predict",
+   "korean": "예측하다",
+   "rank": 1561
+  },
+  {
+   "english": "previously",
+   "korean": "이전에",
+   "rank": 1562
+  },
+  {
+   "english": "protection",
+   "korean": "보호",
+   "rank": 1563
+  },
+  {
+   "english": "largely",
+   "korean": "크게",
+   "rank": 1564
+  },
+  {
+   "english": "wed",
+   "korean": "결혼하다",
+   "rank": 1565
+  },
+  {
+   "english": "rent",
+   "korean": "임차료",
+   "rank": 1566
+  },
+  {
+   "english": "shot",
+   "korean": "발사",
+   "rank": 1567
+  },
+  {
+   "english": "appearance",
+   "korean": "모습",
+   "rank": 1568
+  },
+  {
+   "english": "reasonable",
+   "korean": "합리적인",
+   "rank": 1569
+  },
+  {
+   "english": "guarantee",
+   "korean": "보장하다",
+   "rank": 1570
+  },
+  {
+   "english": "till",
+   "korean": "...까지",
+   "rank": 1571
+  },
+  {
+   "english": "theme",
+   "korean": "주제",
+   "rank": 1572
+  },
+  {
+   "english": "judgment",
+   "korean": "심판",
+   "rank": 1573
+  },
+  {
+   "english": "odd",
+   "korean": "이상한",
+   "rank": 1574
+  },
+  {
+   "english": "approve",
+   "korean": "승인하다",
+   "rank": 1575
+  },
+  {
+   "english": "loan",
+   "korean": "대출",
+   "rank": 1576
+  },
+  {
+   "english": "definition",
+   "korean": "정의",
+   "rank": 1577
+  },
+  {
+   "english": "elect",
+   "korean": "선택된",
+   "rank": 1578
+  },
+  {
+   "english": "atmosphere",
+   "korean": "대기",
+   "rank": 1579
+  },
+  {
+   "english": "farmer",
+   "korean": "농장주",
+   "rank": 1580
+  },
+  {
+   "english": "comparison",
+   "korean": "비교",
+   "rank": 1581
+  },
+  {
+   "english": "characteristic",
+   "korean": "특성",
+   "rank": 1582
+  },
+  {
+   "english": "license",
+   "korean": "특허",
+   "rank": 1583
+  },
+  {
+   "english": "rely",
+   "korean": "의존하다",
+   "rank": 1584
+  },
+  {
+   "english": "narrow",
+   "korean": "좁은",
+   "rank": 1585
+  },
+  {
+   "english": "succeed",
+   "korean": "성공하다",
+   "rank": 1586
+  },
+  {
+   "english": "identity",
+   "korean": "신원",
+   "rank": 1587
+  },
+  {
+   "english": "desk",
+   "korean": "책상",
+   "rank": 1588
+  },
+  {
+   "english": "permit",
+   "korean": "허용하다",
+   "rank": 1589
+  },
+  {
+   "english": "seriously",
+   "korean": "진지하게",
+   "rank": 1590
+  },
+  {
+   "english": "wild",
+   "korean": "야생의",
+   "rank": 1591
+  },
+  {
+   "english": "commission",
+   "korean": "수수료",
+   "rank": 1593
+  },
+  {
+   "english": "unique",
+   "korean": "고유한",
+   "rank": 1594
+  },
+  {
+   "english": "association",
+   "korean": "협회",
+   "rank": 1595
+  },
+  {
+   "english": "instrument",
+   "korean": "기구",
+   "rank": 1596
+  },
+  {
+   "english": "investor",
+   "korean": "투자자",
+   "rank": 1597
+  },
+  {
+   "english": "practical",
+   "korean": "현실적인",
+   "rank": 1598
+  },
+  {
+   "english": "tea",
+   "korean": "차",
+   "rank": 1599
+  },
+  {
+   "english": "lovely",
+   "korean": "사랑스러운",
+   "rank": 1600
+  },
+  {
+   "english": "soft",
+   "korean": "부드러운",
+   "rank": 1601
+  },
+  {
+   "english": "row",
+   "korean": "열",
+   "rank": 1602
+  },
+  {
+   "english": "youth",
+   "korean": "청년",
+   "rank": 1603
+  },
+  {
+   "english": "lock",
+   "korean": "잠그다",
+   "rank": 1604
+  },
+  {
+   "english": "fuel",
+   "korean": "연료",
+   "rank": 1605
+  },
+  {
+   "english": "expectation",
+   "korean": "기대",
+   "rank": 1606
+  },
+  {
+   "english": "employment",
+   "korean": "고용",
+   "rank": 1607
+  },
+  {
+   "english": "celebrate",
+   "korean": "축하하다",
+   "rank": 1608
+  },
+  {
+   "english": "sexual",
+   "korean": "성적",
+   "rank": 1609
+  },
+  {
+   "english": "shoulder",
+   "korean": "어깨",
+   "rank": 1610
+  },
+  {
+   "english": "breath",
+   "korean": "호흡",
+   "rank": 1611
+  },
+  {
+   "english": "increasingly",
+   "korean": "더욱 더",
+   "rank": 1612
+  },
+  {
+   "english": "import",
+   "korean": "수입",
+   "rank": 1613
+  },
+  {
+   "english": "bottle",
+   "korean": "병",
+   "rank": 1614
+  },
+  {
+   "english": "sheet",
+   "korean": "시트",
+   "rank": 1616
+  },
+  {
+   "english": "engine",
+   "korean": "엔진",
+   "rank": 1617
+  },
+  {
+   "english": "cast",
+   "korean": "깁스",
+   "rank": 1618
+  },
+  {
+   "english": "notion",
+   "korean": "개념",
+   "rank": 1619
+  },
+  {
+   "english": "conservative",
+   "korean": "보수적인",
+   "rank": 1620
+  },
+  {
+   "english": "journey",
+   "korean": "여행",
+   "rank": 1621
+  },
+  {
+   "english": "opposition",
+   "korean": "반대",
+   "rank": 1622
+  },
+  {
+   "english": "relief",
+   "korean": "안도",
+   "rank": 1623
+  },
+  {
+   "english": "debt",
+   "korean": "빚",
+   "rank": 1624
+  },
+  {
+   "english": "honor",
+   "korean": "명예",
+   "rank": 1625
+  },
+  {
+   "english": "outcome",
+   "korean": "결과",
+   "rank": 1626
+  },
+  {
+   "english": "blame",
+   "korean": "탓하다",
+   "rank": 1627
+  },
+  {
+   "english": "explanation",
+   "korean": "설명",
+   "rank": 1628
+  },
+  {
+   "english": "arise",
+   "korean": "생기다",
+   "rank": 1629
+  },
+  {
+   "english": "musical",
+   "korean": "뮤지컬",
+   "rank": 1630
+  },
+  {
+   "english": "recover",
+   "korean": "다시 덮다",
+   "rank": 1631
+  },
+  {
+   "english": "dad",
+   "korean": "아빠",
+   "rank": 1632
+  },
+  {
+   "english": "stretch",
+   "korean": "뻗기",
+   "rank": 1633
+  },
+  {
+   "english": "declare",
+   "korean": "선언하다",
+   "rank": 1634
+  },
+  {
+   "english": "retire",
+   "korean": "은퇴하다",
+   "rank": 1635
+  },
+  {
+   "english": "tiny",
+   "korean": "매우 작은",
+   "rank": 1636
+  },
+  {
+   "english": "careful",
+   "korean": "주의 깊은",
+   "rank": 1637
+  },
+  {
+   "english": "suitable",
+   "korean": "적합한",
+   "rank": 1638
+  },
+  {
+   "english": "native",
+   "korean": "토종의",
+   "rank": 1639
+  },
+  {
+   "english": "fruit",
+   "korean": "과일",
+   "rank": 1640
+  },
+  {
+   "english": "analyze",
+   "korean": "분석하다",
+   "rank": 1641
+  },
+  {
+   "english": "witness",
+   "korean": "증인",
+   "rank": 1642
+  },
+  {
+   "english": "mail",
+   "korean": "우편",
+   "rank": 1643
+  },
+  {
+   "english": "terrible",
+   "korean": "끔찍한",
+   "rank": 1644
+  },
+  {
+   "english": "researcher",
+   "korean": "연구원",
+   "rank": 1645
+  },
+  {
+   "english": "ordinary",
+   "korean": "평범한",
+   "rank": 1646
+  },
+  {
+   "english": "selection",
+   "korean": "선택",
+   "rank": 1647
+  },
+  {
+   "english": "mental",
+   "korean": "정신적인",
+   "rank": 1649
+  },
+  {
+   "english": "participant",
+   "korean": "참가자",
+   "rank": 1650
+  },
+  {
+   "english": "vision",
+   "korean": "비전",
+   "rank": 1651
+  },
+  {
+   "english": "personality",
+   "korean": "성격",
+   "rank": 1652
+  },
+  {
+   "english": "specifically",
+   "korean": "구체적으로",
+   "rank": 1653
+  },
+  {
+   "english": "fat",
+   "korean": "지방",
+   "rank": 1654
+  },
+  {
+   "english": "entry",
+   "korean": "기입",
+   "rank": 1655
+  },
+  {
+   "english": "fellow",
+   "korean": "사람",
+   "rank": 1656
+  },
+  {
+   "english": "chemical",
+   "korean": "화학적인",
+   "rank": 1657
+  },
+  {
+   "english": "capture",
+   "korean": "포착",
+   "rank": 1658
+  },
+  {
+   "english": "tip",
+   "korean": "팁",
+   "rank": 1659
+  },
+  {
+   "english": "discount",
+   "korean": "할인",
+   "rank": 1660
+  },
+  {
+   "english": "peak",
+   "korean": "정점",
+   "rank": 1661
+  },
+  {
+   "english": "chairman",
+   "korean": "의장",
+   "rank": 1662
+  },
+  {
+   "english": "proportion",
+   "korean": "비율",
+   "rank": 1663
+  },
+  {
+   "english": "ear",
+   "korean": "귀",
+   "rank": 1664
+  },
+  {
+   "english": "disappear",
+   "korean": "사라지다",
+   "rank": 1665
+  },
+  {
+   "english": "shout",
+   "korean": "외침",
+   "rank": 1666
+  },
+  {
+   "english": "yard",
+   "korean": "마당",
+   "rank": 1667
+  },
+  {
+   "english": "constant",
+   "korean": "끊임없는",
+   "rank": 1668
+  },
+  {
+   "english": "significantly",
+   "korean": "상당히",
+   "rank": 1669
+  },
+  {
+   "english": "hill",
+   "korean": "언덕",
+   "rank": 1670
+  },
+  {
+   "english": "considerable",
+   "korean": "많은",
+   "rank": 1671
+  },
+  {
+   "english": "instruction",
+   "korean": "지침",
+   "rank": 1672
+  },
+  {
+   "english": "intelligence",
+   "korean": "지능",
+   "rank": 1673
+  },
+  {
+   "english": "ideal",
+   "korean": "이상적인",
+   "rank": 1674
+  },
+  {
+   "english": "folk",
+   "korean": "사람들",
+   "rank": 1675
+  },
+  {
+   "english": "surely",
+   "korean": "확실히",
+   "rank": 1676
+  },
+  {
+   "english": "guard",
+   "korean": "경비원",
+   "rank": 1677
+  },
+  {
+   "english": "cat",
+   "korean": "고양이",
+   "rank": 1678
+  },
+  {
+   "english": "somewhat",
+   "korean": "약간",
+   "rank": 1679
+  },
+  {
+   "english": "kiss",
+   "korean": "키스",
+   "rank": 1680
+  },
+  {
+   "english": "presentation",
+   "korean": "프레젠테이션",
+   "rank": 1681
+  },
+  {
+   "english": "joint",
+   "korean": "관절",
+   "rank": 1682
+  },
+  {
+   "english": "compete",
+   "korean": "경쟁하다",
+   "rank": 1683
+  },
+  {
+   "english": "poll",
+   "korean": "투표",
+   "rank": 1684
+  },
+  {
+   "english": "weak",
+   "korean": "약한",
+   "rank": 1685
+  },
+  {
+   "english": "faith",
+   "korean": "믿음",
+   "rank": 1686
+  },
+  {
+   "english": "reduction",
+   "korean": "절감",
+   "rank": 1687
+  },
+  {
+   "english": "reserve",
+   "korean": "예약하다",
+   "rank": 1688
+  },
+  {
+   "english": "complaint",
+   "korean": "불평",
+   "rank": 1689
+  },
+  {
+   "english": "bore",
+   "korean": "구경",
+   "rank": 1690
+  },
+  {
+   "english": "mission",
+   "korean": "사명",
+   "rank": 1691
+  },
+  {
+   "english": "tone",
+   "korean": "음정",
+   "rank": 1693
+  },
+  {
+   "english": "neighborhood",
+   "korean": "이웃",
+   "rank": 1694
+  },
+  {
+   "english": "passenger",
+   "korean": "승객",
+   "rank": 1695
+  },
+  {
+   "english": "justice",
+   "korean": "정당성",
+   "rank": 1696
+  },
+  {
+   "english": "phase",
+   "korean": "단계",
+   "rank": 1697
+  },
+  {
+   "english": "thin",
+   "korean": "얇은",
+   "rank": 1698
+  },
+  {
+   "english": "rush",
+   "korean": "서두르다",
+   "rank": 1699
+  },
+  {
+   "english": "formal",
+   "korean": "공식적인",
+   "rank": 1700
+  },
+  {
+   "english": "religion",
+   "korean": "종교",
+   "rank": 1701
+  },
+  {
+   "english": "employer",
+   "korean": "고용주",
+   "rank": 1702
+  },
+  {
+   "english": "reject",
+   "korean": "거부하다",
+   "rank": 1703
+  },
+  {
+   "english": "plate",
+   "korean": "그릇",
+   "rank": 1705
+  },
+  {
+   "english": "ban",
+   "korean": "반",
+   "rank": 1706
+  },
+  {
+   "english": "steal",
+   "korean": "훔치다",
+   "rank": 1707
+  },
+  {
+   "english": "protest",
+   "korean": "항의",
+   "rank": 1708
+  },
+  {
+   "english": "index",
+   "korean": "색인",
+   "rank": 1709
+  },
+  {
+   "english": "sad",
+   "korean": "슬픈",
+   "rank": 1710
+  },
+  {
+   "english": "frequently",
+   "korean": "자주",
+   "rank": 1711
+  },
+  {
+   "english": "circle",
+   "korean": "원",
+   "rank": 1712
+  },
+  {
+   "english": "helpful",
+   "korean": "도움이 되는",
+   "rank": 1713
+  },
+  {
+   "english": "command",
+   "korean": "명령",
+   "rank": 1714
+  },
+  {
+   "english": "attractive",
+   "korean": "매력적인",
+   "rank": 1715
+  },
+  {
+   "english": "sick",
+   "korean": "아픈",
+   "rank": 1716
+  },
+  {
+   "english": "impression",
+   "korean": "인상",
+   "rank": 1717
+  },
+  {
+   "english": "unable",
+   "korean": "할 수 없는",
+   "rank": 1718
+  },
+  {
+   "english": "joke",
+   "korean": "농담",
+   "rank": 1719
+  },
+  {
+   "english": "sky",
+   "korean": "하늘",
+   "rank": 1720
+  },
+  {
+   "english": "column",
+   "korean": "열",
+   "rank": 1721
+  },
+  {
+   "english": "electronic",
+   "korean": "전자",
+   "rank": 1722
+  },
+  {
+   "english": "impose",
+   "korean": "부과하다",
+   "rank": 1723
+  },
+  {
+   "english": "criminal",
+   "korean": "범인",
+   "rank": 1724
+  },
+  {
+   "english": "properly",
+   "korean": "제대로",
+   "rank": 1726
+  },
+  {
+   "english": "ancient",
+   "korean": "고대의",
+   "rank": 1727
+  },
+  {
+   "english": "coast",
+   "korean": "해안",
+   "rank": 1728
+  },
+  {
+   "english": "ill",
+   "korean": "아픈",
+   "rank": 1729
+  },
+  {
+   "english": "kick",
+   "korean": "차기",
+   "rank": 1730
+  },
+  {
+   "english": "closely",
+   "korean": "면밀히",
+   "rank": 1731
+  },
+  {
+   "english": "multiple",
+   "korean": "다수의",
+   "rank": 1732
+  },
+  {
+   "english": "yield",
+   "korean": "생산하다",
+   "rank": 1733
+  },
+  {
+   "english": "legislation",
+   "korean": "법률 제정",
+   "rank": 1735
+  },
+  {
+   "english": "county",
+   "korean": "군",
+   "rank": 1736
+  },
+  {
+   "english": "unlike",
+   "korean": "같지 않은",
+   "rank": 1737
+  },
+  {
+   "english": "mobile",
+   "korean": "이동하는",
+   "rank": 1738
+  },
+  {
+   "english": "assistant",
+   "korean": "어시스턴트",
+   "rank": 1739
+  },
+  {
+   "english": "implement",
+   "korean": "구현하다",
+   "rank": 1740
+  },
+  {
+   "english": "chart",
+   "korean": "차트",
+   "rank": 1741
+  },
+  {
+   "english": "attach",
+   "korean": "붙이다",
+   "rank": 1742
+  },
+  {
+   "english": "hell",
+   "korean": "지옥",
+   "rank": 1743
+  },
+  {
+   "english": "advise",
+   "korean": "권하다",
+   "rank": 1745
+  },
+  {
+   "english": "household",
+   "korean": "가정",
+   "rank": 1746
+  },
+  {
+   "english": "acknowledge",
+   "korean": "인정하다",
+   "rank": 1747
+  },
+  {
+   "english": "reward",
+   "korean": "보상",
+   "rank": 1748
+  },
+  {
+   "english": "east",
+   "korean": "동쪽",
+   "rank": 1749
+  },
+  {
+   "english": "hat",
+   "korean": "모자",
+   "rank": 1750
+  },
+  {
+   "english": "academic",
+   "korean": "학생",
+   "rank": 1751
+  },
+  {
+   "english": "voter",
+   "korean": "유권자",
+   "rank": 1752
+  },
+  {
+   "english": "furthermore",
+   "korean": "뿐만 아니라",
+   "rank": 1754
+  },
+  {
+   "english": "accuse",
+   "korean": "고발하다",
+   "rank": 1755
+  },
+  {
+   "english": "scientific",
+   "korean": "과학적인",
+   "rank": 1756
+  },
+  {
+   "english": "wage",
+   "korean": "값",
+   "rank": 1757
+  },
+  {
+   "english": "absence",
+   "korean": "결석",
+   "rank": 1758
+  },
+  {
+   "english": "construct",
+   "korean": "건설하다",
+   "rank": 1759
+  },
+  {
+   "english": "remark",
+   "korean": "주목",
+   "rank": 1760
+  },
+  {
+   "english": "medicine",
+   "korean": "약",
+   "rank": 1761
+  },
+  {
+   "english": "professor",
+   "korean": "교수",
+   "rank": 1762
+  },
+  {
+   "english": "rare",
+   "korean": "희귀한",
+   "rank": 1763
+  },
+  {
+   "english": "intention",
+   "korean": "의도",
+   "rank": 1764
+  },
+  {
+   "english": "dozen",
+   "korean": "다스",
+   "rank": 1765
+  },
+  {
+   "english": "settlement",
+   "korean": "합의",
+   "rank": 1766
+  },
+  {
+   "english": "gap",
+   "korean": "갭",
+   "rank": 1767
+  },
+  {
+   "english": "widely",
+   "korean": "넓게",
+   "rank": 1768
+  },
+  {
+   "english": "minimum",
+   "korean": "최저한의",
+   "rank": 1769
+  },
+  {
+   "english": "northern",
+   "korean": "북부 사투리",
+   "rank": 1770
+  },
+  {
+   "english": "estate",
+   "korean": "사유지",
+   "rank": 1771
+  },
+  {
+   "english": "equally",
+   "korean": "같이",
+   "rank": 1772
+  },
+  {
+   "english": "expose",
+   "korean": "폭로하다",
+   "rank": 1773
+  },
+  {
+   "english": "alive",
+   "korean": "살아 있는",
+   "rank": 1774
+  },
+  {
+   "english": "shut",
+   "korean": "닫다",
+   "rank": 1775
+  },
+  {
+   "english": "victory",
+   "korean": "승리",
+   "rank": 1776
+  },
+  {
+   "english": "resolve",
+   "korean": "해결하다",
+   "rank": 1777
+  },
+  {
+   "english": "critic",
+   "korean": "비평가",
+   "rank": 1778
+  },
+  {
+   "english": "variable",
+   "korean": "변하기 쉬운",
+   "rank": 1779
+  },
+  {
+   "english": "enormous",
+   "korean": "막대한",
+   "rank": 1780
+  },
+  {
+   "english": "sweet",
+   "korean": "달콤한",
+   "rank": 1781
+  },
+  {
+   "english": "permanent",
+   "korean": "영구적인",
+   "rank": 1782
+  },
+  {
+   "english": "emotion",
+   "korean": "감정",
+   "rank": 1783
+  },
+  {
+   "english": "pursue",
+   "korean": "추구하다",
+   "rank": 1784
+  },
+  {
+   "english": "tall",
+   "korean": "키가 큰",
+   "rank": 1785
+  },
+  {
+   "english": "urge",
+   "korean": "충고하다",
+   "rank": 1786
+  },
+  {
+   "english": "enemy",
+   "korean": "적",
+   "rank": 1787
+  },
+  {
+   "english": "appoint",
+   "korean": "정하다",
+   "rank": 1788
+  },
+  {
+   "english": "milk",
+   "korean": "우유",
+   "rank": 1789
+  },
+  {
+   "english": "talent",
+   "korean": "재능",
+   "rank": 1790
+  },
+  {
+   "english": "smell",
+   "korean": "냄새가 나다",
+   "rank": 1791
+  },
+  {
+   "english": "prior",
+   "korean": "이전의",
+   "rank": 1792
+  },
+  {
+   "english": "priority",
+   "korean": "우선 사항",
+   "rank": 1793
+  },
+  {
+   "english": "online",
+   "korean": "온라인",
+   "rank": 1794
+  },
+  {
+   "english": "phrase",
+   "korean": "구절",
+   "rank": 1795
+  },
+  {
+   "english": "pilot",
+   "korean": "조종사",
+   "rank": 1796
+  },
+  {
+   "english": "stable",
+   "korean": "안정적인",
+   "rank": 1797
+  },
+  {
+   "english": "merely",
+   "korean": "그저",
+   "rank": 1798
+  },
+  {
+   "english": "resolution",
+   "korean": "해결",
+   "rank": 1799
+  },
+  {
+   "english": "communicate",
+   "korean": "의사소통하다",
+   "rank": 1800
+  },
+  {
+   "english": "injury",
+   "korean": "부상",
+   "rank": 1801
+  },
+  {
+   "english": "vast",
+   "korean": "대단한",
+   "rank": 1802
+  },
+  {
+   "english": "exhibition",
+   "korean": "전시회",
+   "rank": 1803
+  },
+  {
+   "english": "producer",
+   "korean": "생산자",
+   "rank": 1804
+  },
+  {
+   "english": "regional",
+   "korean": "지역",
+   "rank": 1805
+  },
+  {
+   "english": "immediate",
+   "korean": "즉각적인",
+   "rank": 1806
+  },
+  {
+   "english": "incident",
+   "korean": "사건",
+   "rank": 1807
+  },
+  {
+   "english": "childhood",
+   "korean": "어린 시절",
+   "rank": 1808
+  },
+  {
+   "english": "draft",
+   "korean": "초안",
+   "rank": 1809
+  },
+  {
+   "english": "slip",
+   "korean": "슬립",
+   "rank": 1810
+  },
+  {
+   "english": "accompany",
+   "korean": "따르게 하다",
+   "rank": 1811
+  },
+  {
+   "english": "politician",
+   "korean": "정치가",
+   "rank": 1812
+  },
+  {
+   "english": "angry",
+   "korean": "화난",
+   "rank": 1813
+  },
+  {
+   "english": "knock",
+   "korean": "노크",
+   "rank": 1814
+  },
+  {
+   "english": "seed",
+   "korean": "씨앗",
+   "rank": 1815
+  },
+  {
+   "english": "salary",
+   "korean": "급여",
+   "rank": 1816
+  },
+  {
+   "english": "illustrate",
+   "korean": "설명하다",
+   "rank": 1817
+  },
+  {
+   "english": "imply",
+   "korean": "암시하다",
+   "rank": 1818
+  },
+  {
+   "english": "breakfast",
+   "korean": "아침",
+   "rank": 1819
+  },
+  {
+   "english": "temporary",
+   "korean": "일시적인",
+   "rank": 1820
+  },
+  {
+   "english": "liberal",
+   "korean": "많은",
+   "rank": 1821
+  },
+  {
+   "english": "lake",
+   "korean": "호수",
+   "rank": 1822
+  },
+  {
+   "english": "qualify",
+   "korean": "자격을 갖춘",
+   "rank": 1823
+  },
+  {
+   "english": "competitive",
+   "korean": "경쟁력 있는",
+   "rank": 1824
+  },
+  {
+   "english": "truly",
+   "korean": "진심으로",
+   "rank": 1825
+  },
+  {
+   "english": "hi",
+   "korean": "안녕",
+   "rank": 1826
+  },
+  {
+   "english": "yellow",
+   "korean": "노란색",
+   "rank": 1827
+  },
+  {
+   "english": "habit",
+   "korean": "습관",
+   "rank": 1828
+  },
+  {
+   "english": "disk",
+   "korean": "디스크",
+   "rank": 1829
+  },
+  {
+   "english": "core",
+   "korean": "핵심",
+   "rank": 1830
+  },
+  {
+   "english": "emotional",
+   "korean": "감정적인",
+   "rank": 1831
+  },
+  {
+   "english": "aircraft",
+   "korean": "항공기",
+   "rank": 1832
+  },
+  {
+   "english": "self",
+   "korean": "본인",
+   "rank": 1833
+  },
+  {
+   "english": "metal",
+   "korean": "금속",
+   "rank": 1834
+  },
+  {
+   "english": "existence",
+   "korean": "존재",
+   "rank": 1835
+  },
+  {
+   "english": "bone",
+   "korean": "뼈",
+   "rank": 1836
+  },
+  {
+   "english": "panel",
+   "korean": "패널",
+   "rank": 1837
+  },
+  {
+   "english": "prime",
+   "korean": "초기",
+   "rank": 1838
+  },
+  {
+   "english": "appointment",
+   "korean": "약속",
+   "rank": 1839
+  },
+  {
+   "english": "emphasize",
+   "korean": "강조하다",
+   "rank": 1840
+  },
+  {
+   "english": "maximum",
+   "korean": "최고",
+   "rank": 1841
+  },
+  {
+   "english": "effectively",
+   "korean": "효과적으로",
+   "rank": 1842
+  },
+  {
+   "english": "bother",
+   "korean": "신경 쓰다",
+   "rank": 1844
+  },
+  {
+   "english": "initiative",
+   "korean": "계획",
+   "rank": 1845
+  },
+  {
+   "english": "sharp",
+   "korean": "날카로운",
+   "rank": 1846
+  },
+  {
+   "english": "diet",
+   "korean": "다이어트",
+   "rank": 1847
+  },
+  {
+   "english": "motion",
+   "korean": "운동",
+   "rank": 1848
+  },
+  {
+   "english": "gray",
+   "korean": "회색",
+   "rank": 1849
+  },
+  {
+   "english": "plastic",
+   "korean": "플라스틱",
+   "rank": 1850
+  },
+  {
+   "english": "complicate",
+   "korean": "복잡하게",
+   "rank": 1851
+  },
+  {
+   "english": "discipline",
+   "korean": "규율",
+   "rank": 1852
+  },
+  {
+   "english": "disappoint",
+   "korean": "어긋나게 하다",
+   "rank": 1853
+  },
+  {
+   "english": "boss",
+   "korean": "사장",
+   "rank": 1854
+  },
+  {
+   "english": "assumption",
+   "korean": "추정",
+   "rank": 1855
+  },
+  {
+   "english": "freeze",
+   "korean": "얼다",
+   "rank": 1856
+  },
+  {
+   "english": "extreme",
+   "korean": "극심한",
+   "rank": 1857
+  },
+  {
+   "english": "passage",
+   "korean": "통로",
+   "rank": 1858
+  },
+  {
+   "english": "reputation",
+   "korean": "평판",
+   "rank": 1859
+  },
+  {
+   "english": "forth",
+   "korean": "앞으로",
+   "rank": 1860
+  },
+  {
+   "english": "negotiation",
+   "korean": "협상",
+   "rank": 1861
+  },
+  {
+   "english": "mechanism",
+   "korean": "기구",
+   "rank": 1862
+  },
+  {
+   "english": "coat",
+   "korean": "코트",
+   "rank": 1863
+  },
+  {
+   "english": "democracy",
+   "korean": "민주주의",
+   "rank": 1864
+  },
+  {
+   "english": "pocket",
+   "korean": "포켓",
+   "rank": 1865
+  },
+  {
+   "english": "lucky",
+   "korean": "운이 좋은",
+   "rank": 1866
+  },
+  {
+   "english": "crash",
+   "korean": "충돌",
+   "rank": 1867
+  },
+  {
+   "english": "observation",
+   "korean": "관찰",
+   "rank": 1868
+  },
+  {
+   "english": "meat",
+   "korean": "고기",
+   "rank": 1869
+  },
+  {
+   "english": "concentration",
+   "korean": "집중",
+   "rank": 1870
+  },
+  {
+   "english": "implication",
+   "korean": "함축",
+   "rank": 1871
+  },
+  {
+   "english": "deserve",
+   "korean": "~ 받을 만하다",
+   "rank": 1872
+  },
+  {
+   "english": "unusual",
+   "korean": "특이한",
+   "rank": 1873
+  },
+  {
+   "english": "defend",
+   "korean": "지키다",
+   "rank": 1874
+  },
+  {
+   "english": "classic",
+   "korean": "권위 있는",
+   "rank": 1875
+  },
+  {
+   "english": "king",
+   "korean": "왕",
+   "rank": 1876
+  },
+  {
+   "english": "interaction",
+   "korean": "상호 작용",
+   "rank": 1877
+  },
+  {
+   "english": "repair",
+   "korean": "수리하다",
+   "rank": 1878
+  },
+  {
+   "english": "collapse",
+   "korean": "무너지다",
+   "rank": 1879
+  },
+  {
+   "english": "borrow",
+   "korean": "빌리다",
+   "rank": 1880
+  },
+  {
+   "english": "fundamental",
+   "korean": "근본적인",
+   "rank": 1881
+  },
+  {
+   "english": "dish",
+   "korean": "접시",
+   "rank": 1882
+  },
+  {
+   "english": "abroad",
+   "korean": "해외에서",
+   "rank": 1883
+  },
+  {
+   "english": "soul",
+   "korean": "영혼",
+   "rank": 1884
+  },
+  {
+   "english": "capable",
+   "korean": "유능한",
+   "rank": 1885
+  },
+  {
+   "english": "defeat",
+   "korean": "패배시키다",
+   "rank": 1886
+  },
+  {
+   "english": "presidential",
+   "korean": "대통령",
+   "rank": 1887
+  },
+  {
+   "english": "perfectly",
+   "korean": "아주",
+   "rank": 1888
+  },
+  {
+   "english": "enhance",
+   "korean": "향상시키다",
+   "rank": 1889
+  },
+  {
+   "english": "proud",
+   "korean": "자랑스러운",
+   "rank": 1890
+  },
+  {
+   "english": "emergency",
+   "korean": "비상",
+   "rank": 1891
+  },
+  {
+   "english": "educational",
+   "korean": "교육적인",
+   "rank": 1892
+  },
+  {
+   "english": "distinguish",
+   "korean": "구별하다",
+   "rank": 1893
+  },
+  {
+   "english": "substantial",
+   "korean": "상당한",
+   "rank": 1894
+  },
+  {
+   "english": "nearby",
+   "korean": "가까운",
+   "rank": 1895
+  },
+  {
+   "english": "manufacturer",
+   "korean": "제조업체",
+   "rank": 1896
+  },
+  {
+   "english": "slide",
+   "korean": "슬라이드",
+   "rank": 1897
+  },
+  {
+   "english": "valuable",
+   "korean": "귀중한",
+   "rank": 1898
+  },
+  {
+   "english": "personally",
+   "korean": "몸소",
+   "rank": 1899
+  },
+  {
+   "english": "breast",
+   "korean": "가슴",
+   "rank": 1900
+  },
+  {
+   "english": "cope",
+   "korean": "코프",
+   "rank": 1901
+  },
+  {
+   "english": "approximately",
+   "korean": "약",
+   "rank": 1902
+  },
+  {
+   "english": "accommodation",
+   "korean": "숙소",
+   "rank": 1903
+  },
+  {
+   "english": "highlight",
+   "korean": "가장 밝은 부분",
+   "rank": 1904
+  },
+  {
+   "english": "reporter",
+   "korean": "보고자",
+   "rank": 1905
+  },
+  {
+   "english": "climate",
+   "korean": "기후",
+   "rank": 1906
+  },
+  {
+   "english": "shirt",
+   "korean": "셔츠",
+   "rank": 1907
+  },
+  {
+   "english": "exception",
+   "korean": "예외",
+   "rank": 1908
+  },
+  {
+   "english": "corporation",
+   "korean": "법인",
+   "rank": 1909
+  },
+  {
+   "english": "chip",
+   "korean": "칩",
+   "rank": 1910
+  },
+  {
+   "english": "winner",
+   "korean": "우승자",
+   "rank": 1911
+  },
+  {
+   "english": "encounter",
+   "korean": "맞닥뜨리다",
+   "rank": 1912
+  },
+  {
+   "english": "brown",
+   "korean": "갈색",
+   "rank": 1913
+  },
+  {
+   "english": "breathe",
+   "korean": "숨 쉬다",
+   "rank": 1914
+  },
+  {
+   "english": "excuse",
+   "korean": "변명",
+   "rank": 1915
+  },
+  {
+   "english": "partly",
+   "korean": "부분적으로",
+   "rank": 1916
+  },
+  {
+   "english": "tennis",
+   "korean": "테니스",
+   "rank": 1917
+  },
+  {
+   "english": "urban",
+   "korean": "도시의",
+   "rank": 1918
+  },
+  {
+   "english": "confuse",
+   "korean": "혼란시키다",
+   "rank": 1919
+  },
+  {
+   "english": "southern",
+   "korean": "남부 지방 사투리",
+   "rank": 1920
+  },
+  {
+   "english": "output",
+   "korean": "산출",
+   "rank": 1921
+  },
+  {
+   "english": "beauty",
+   "korean": "아름다움",
+   "rank": 1922
+  },
+  {
+   "english": "massive",
+   "korean": "엄청난",
+   "rank": 1923
+  },
+  {
+   "english": "install",
+   "korean": "설치하다",
+   "rank": 1924
+  },
+  {
+   "english": "calculate",
+   "korean": "믿다",
+   "rank": 1925
+  },
+  {
+   "english": "mouse",
+   "korean": "생쥐",
+   "rank": 1926
+  },
+  {
+   "english": "mathematics",
+   "korean": "수학",
+   "rank": 1927
+  },
+  {
+   "english": "upper",
+   "korean": "높은",
+   "rank": 1928
+  },
+  {
+   "english": "creation",
+   "korean": "창조",
+   "rank": 1929
+  },
+  {
+   "english": "occupy",
+   "korean": "점유하다",
+   "rank": 1930
+  },
+  {
+   "english": "outline",
+   "korean": "개요",
+   "rank": 1931
+  },
+  {
+   "english": "sufficient",
+   "korean": "충분한",
+   "rank": 1932
+  },
+  {
+   "english": "update",
+   "korean": "업데이트",
+   "rank": 1933
+  },
+  {
+   "english": "luck",
+   "korean": "운",
+   "rank": 1934
+  },
+  {
+   "english": "preserve",
+   "korean": "보존하다",
+   "rank": 1935
+  },
+  {
+   "english": "split",
+   "korean": "나뉘다",
+   "rank": 1936
+  },
+  {
+   "english": "swing",
+   "korean": "그네",
+   "rank": 1937
+  },
+  {
+   "english": "illness",
+   "korean": "병",
+   "rank": 1938
+  },
+  {
+   "english": "journalist",
+   "korean": "기자",
+   "rank": 1939
+  },
+  {
+   "english": "sudden",
+   "korean": "갑자기",
+   "rank": 1940
+  },
+  {
+   "english": "advertisement",
+   "korean": "광고",
+   "rank": 1941
+  },
+  {
+   "english": "consistent",
+   "korean": "일관된",
+   "rank": 1942
+  },
+  {
+   "english": "originally",
+   "korean": "원래",
+   "rank": 1943
+  },
+  {
+   "english": "aside",
+   "korean": "곁에",
+   "rank": 1944
+  },
+  {
+   "english": "comfort",
+   "korean": "편안",
+   "rank": 1945
+  },
+  {
+   "english": "secondly",
+   "korean": "둘째로",
+   "rank": 1946
+  },
+  {
+   "english": "severe",
+   "korean": "극심한",
+   "rank": 1947
+  },
+  {
+   "english": "gene",
+   "korean": "유전자",
+   "rank": 1948
+  },
+  {
+   "english": "prospect",
+   "korean": "전망",
+   "rank": 1949
+  },
+  {
+   "english": "snow",
+   "korean": "눈",
+   "rank": 1950
+  },
+  {
+   "english": "plot",
+   "korean": "구성",
+   "rank": 1951
+  },
+  {
+   "english": "neck",
+   "korean": "목",
+   "rank": 1952
+  },
+  {
+   "english": "criteria",
+   "korean": "기준",
+   "rank": 1953
+  },
+  {
+   "english": "primarily",
+   "korean": "주로",
+   "rank": 1954
+  },
+  {
+   "english": "integrate",
+   "korean": "통합",
+   "rank": 1955
+  },
+  {
+   "english": "criticism",
+   "korean": "비판",
+   "rank": 1956
+  },
+  {
+   "english": "convention",
+   "korean": "협약",
+   "rank": 1957
+  },
+  {
+   "english": "bet",
+   "korean": "내기",
+   "rank": 1958
+  },
+  {
+   "english": "retain",
+   "korean": "유지하다",
+   "rank": 1959
+  },
+  {
+   "english": "sequence",
+   "korean": "순서",
+   "rank": 1960
+  },
+  {
+   "english": "plain",
+   "korean": "솔직한",
+   "rank": 1961
+  },
+  {
+   "english": "volunteer",
+   "korean": "자원 봉사자",
+   "rank": 1962
+  },
+  {
+   "english": "rural",
+   "korean": "시골의",
+   "rank": 1963
+  },
+  {
+   "english": "calm",
+   "korean": "침착한",
+   "rank": 1964
+  },
+  {
+   "english": "abandon",
+   "korean": "버리다",
+   "rank": 1965
+  },
+  {
+   "english": "examination",
+   "korean": "시험",
+   "rank": 1966
+  },
+  {
+   "english": "silence",
+   "korean": "고요",
+   "rank": 1967
+  },
+  {
+   "english": "rapidly",
+   "korean": "급속히",
+   "rank": 1968
+  },
+  {
+   "english": "efficient",
+   "korean": "효율적인",
+   "rank": 1969
+  },
+  {
+   "english": "revolution",
+   "korean": "혁명",
+   "rank": 1970
+  },
+  {
+   "english": "delight",
+   "korean": "기쁨",
+   "rank": 1971
+  },
+  {
+   "english": "spell",
+   "korean": "주문",
+   "rank": 1972
+  },
+  {
+   "english": "premise",
+   "korean": "전제",
+   "rank": 1973
+  },
+  {
+   "english": "lean",
+   "korean": "기대다",
+   "rank": 1974
+  },
+  {
+   "english": "dramatic",
+   "korean": "극적인",
+   "rank": 1975
+  },
+  {
+   "english": "differ",
+   "korean": "다르다",
+   "rank": 1976
+  },
+  {
+   "english": "grateful",
+   "korean": "고마워하는",
+   "rank": 1977
+  },
+  {
+   "english": "protein",
+   "korean": "단백질",
+   "rank": 1978
+  },
+  {
+   "english": "bike",
+   "korean": "자전거",
+   "rank": 1979
+  },
+  {
+   "english": "distribute",
+   "korean": "분배하다",
+   "rank": 1980
+  },
+  {
+   "english": "intellectual",
+   "korean": "지적인",
+   "rank": 1981
+  },
+  {
+   "english": "derive",
+   "korean": "유도하다",
+   "rank": 1982
+  },
+  {
+   "english": "crucial",
+   "korean": "중대한",
+   "rank": 1983
+  },
+  {
+   "english": "unemployment",
+   "korean": "실업",
+   "rank": 1984
+  },
+  {
+   "english": "wheel",
+   "korean": "바퀴",
+   "rank": 1985
+  },
+  {
+   "english": "crop",
+   "korean": "수확고",
+   "rank": 1986
+  },
+  {
+   "english": "minority",
+   "korean": "소수",
+   "rank": 1987
+  },
+  {
+   "english": "origin",
+   "korean": "기원",
+   "rank": 1988
+  },
+  {
+   "english": "interpretation",
+   "korean": "해석",
+   "rank": 1989
+  },
+  {
+   "english": "gentleman",
+   "korean": "신사",
+   "rank": 1990
+  },
+  {
+   "english": "drama",
+   "korean": "드라마",
+   "rank": 1991
+  },
+  {
+   "english": "landscape",
+   "korean": "풍경",
+   "rank": 1992
+  },
+  {
+   "english": "educate",
+   "korean": "기르다",
+   "rank": 1993
+  },
+  {
+   "english": "toy",
+   "korean": "장난감",
+   "rank": 1994
+  },
+  {
+   "english": "fault",
+   "korean": "잘못",
+   "rank": 1995
+  },
+  {
+   "english": "exhibit",
+   "korean": "전시하다",
+   "rank": 1996
+  },
+  {
+   "english": "minor",
+   "korean": "미성년자",
+   "rank": 1997
+  },
+  {
+   "english": "hunt",
+   "korean": "사냥",
+   "rank": 1998
+  },
+  {
+   "english": "storm",
+   "korean": "폭풍",
+   "rank": 1999
+  },
+  {
+   "english": "thick",
+   "korean": "두꺼운",
+   "rank": 2000
+  },
+  {
+   "english": "achievement",
+   "korean": "성취",
+   "rank": 2001
+  },
+  {
+   "english": "negotiate",
+   "korean": "협상하다",
+   "rank": 2002
+  },
+  {
+   "english": "dominate",
+   "korean": "빼어나게 솟다",
+   "rank": 2003
+  },
+  {
+   "english": "supplier",
+   "korean": "공급업체",
+   "rank": 2004
+  },
+  {
+   "english": "prize",
+   "korean": "상",
+   "rank": 2005
+  },
+  {
+   "english": "typically",
+   "korean": "일반적으로",
+   "rank": 2006
+  },
+  {
+   "english": "peer",
+   "korean": "또래",
+   "rank": 2007
+  },
+  {
+   "english": "pension",
+   "korean": "연금",
+   "rank": 2008
+  },
+  {
+   "english": "wing",
+   "korean": "비행",
+   "rank": 2009
+  },
+  {
+   "english": "acquisition",
+   "korean": "인수",
+   "rank": 2010
+  },
+  {
+   "english": "laughter",
+   "korean": "웃음",
+   "rank": 2011
+  },
+  {
+   "english": "deeply",
+   "korean": "깊이",
+   "rank": 2012
+  },
+  {
+   "english": "recognition",
+   "korean": "인식",
+   "rank": 2013
+  },
+  {
+   "english": "electricity",
+   "korean": "전기",
+   "rank": 2014
+  },
+  {
+   "english": "assistance",
+   "korean": "보조",
+   "rank": 2015
+  },
+  {
+   "english": "roof",
+   "korean": "지붕",
+   "rank": 2016
+  },
+  {
+   "english": "retirement",
+   "korean": "퇴직",
+   "rank": 2017
+  },
+  {
+   "english": "respectively",
+   "korean": "각기",
+   "rank": 2018
+  },
+  {
+   "english": "variation",
+   "korean": "변화",
+   "rank": 2019
+  },
+  {
+   "english": "ultimately",
+   "korean": "궁극적으로",
+   "rank": 2020
+  },
+  {
+   "english": "proof",
+   "korean": "증거",
+   "rank": 2021
+  },
+  {
+   "english": "soil",
+   "korean": "토양",
+   "rank": 2022
+  },
+  {
+   "english": "smart",
+   "korean": "똑똑한",
+   "rank": 2023
+  },
+  {
+   "english": "layer",
+   "korean": "층",
+   "rank": 2024
+  },
+  {
+   "english": "upset",
+   "korean": "속상한",
+   "rank": 2025
+  },
+  {
+   "english": "tooth",
+   "korean": "이빨",
+   "rank": 2026
+  },
+  {
+   "english": "representation",
+   "korean": "대표",
+   "rank": 2027
+  },
+  {
+   "english": "preparation",
+   "korean": "준비",
+   "rank": 2028
+  },
+  {
+   "english": "dispute",
+   "korean": "논쟁",
+   "rank": 2029
+  },
+  {
+   "english": "agenda",
+   "korean": "의제",
+   "rank": 2030
+  },
+  {
+   "english": "emphasis",
+   "korean": "중요성",
+   "rank": 2031
+  },
+  {
+   "english": "edition",
+   "korean": "판",
+   "rank": 2032
+  },
+  {
+   "english": "silver",
+   "korean": "은",
+   "rank": 2033
+  },
+  {
+   "english": "entertainment",
+   "korean": "오락",
+   "rank": 2034
+  },
+  {
+   "english": "honest",
+   "korean": "솔직한",
+   "rank": 2035
+  },
+  {
+   "english": "undertake",
+   "korean": "맡다",
+   "rank": 2036
+  },
+  {
+   "english": "retail",
+   "korean": "소매",
+   "rank": 2037
+  },
+  {
+   "english": "wire",
+   "korean": "철사",
+   "rank": 2038
+  },
+  {
+   "english": "unlikely",
+   "korean": "~할 것 같지 않은",
+   "rank": 2039
+  },
+  {
+   "english": "gay",
+   "korean": "게이",
+   "rank": 2040
+  },
+  {
+   "english": "publication",
+   "korean": "출판",
+   "rank": 2041
+  },
+  {
+   "english": "slight",
+   "korean": "근소한",
+   "rank": 2042
+  },
+  {
+   "english": "unknown",
+   "korean": "알려지지 않은",
+   "rank": 2043
+  },
+  {
+   "english": "framework",
+   "korean": "뼈대",
+   "rank": 2044
+  },
+  {
+   "english": "zone",
+   "korean": "존",
+   "rank": 2045
+  },
+  {
+   "english": "restrict",
+   "korean": "얽매다",
+   "rank": 2046
+  },
+  {
+   "english": "trace",
+   "korean": "추적하다",
+   "rank": 2047
+  },
+  {
+   "english": "inch",
+   "korean": "인치",
+   "rank": 2048
+  },
+  {
+   "english": "equivalent",
+   "korean": "동등한",
+   "rank": 2049
+  },
+  {
+   "english": "solid",
+   "korean": "단단한",
+   "rank": 2050
+  },
+  {
+   "english": "enterprise",
+   "korean": "기업",
+   "rank": 2051
+  },
+  {
+   "english": "elderly",
+   "korean": "연세가 드신",
+   "rank": 2052
+  },
+  {
+   "english": "owe",
+   "korean": "빚지다",
+   "rank": 2053
+  },
+  {
+   "english": "governor",
+   "korean": "지사",
+   "rank": 2054
+  },
+  {
+   "english": "uniform",
+   "korean": "제복",
+   "rank": 2055
+  },
+  {
+   "english": "port",
+   "korean": "포트",
+   "rank": 2056
+  },
+  {
+   "english": "pitch",
+   "korean": "정점",
+   "rank": 2057
+  },
+  {
+   "english": "arrival",
+   "korean": "도착",
+   "rank": 2058
+  },
+  {
+   "english": "contemporary",
+   "korean": "현대의",
+   "rank": 2059
+  },
+  {
+   "english": "gate",
+   "korean": "문",
+   "rank": 2060
+  },
+  {
+   "english": "ease",
+   "korean": "쉬움",
+   "rank": 2061
+  },
+  {
+   "english": "beer",
+   "korean": "맥주",
+   "rank": 2062
+  },
+  {
+   "english": "specialist",
+   "korean": "전문가",
+   "rank": 2063
+  },
+  {
+   "english": "assure",
+   "korean": "확신하다",
+   "rank": 2064
+  },
+  {
+   "english": "profile",
+   "korean": "윤곽",
+   "rank": 2065
+  },
+  {
+   "english": "mood",
+   "korean": "분위기",
+   "rank": 2066
+  },
+  {
+   "english": "episode",
+   "korean": "삽화",
+   "rank": 2067
+  },
+  {
+   "english": "crack",
+   "korean": "금이 가다",
+   "rank": 2068
+  },
+  {
+   "english": "numerous",
+   "korean": "많은",
+   "rank": 2069
+  },
+  {
+   "english": "submit",
+   "korean": "제출하다",
+   "rank": 2070
+  },
+  {
+   "english": "symptom",
+   "korean": "징후",
+   "rank": 2071
+  },
+  {
+   "english": "virtually",
+   "korean": "사실상",
+   "rank": 2072
+  },
+  {
+   "english": "era",
+   "korean": "연대",
+   "rank": 2073
+  },
+  {
+   "english": "coverage",
+   "korean": "적용 범위",
+   "rank": 2074
+  },
+  {
+   "english": "tension",
+   "korean": "긴장",
+   "rank": 2075
+  },
+  {
+   "english": "cable",
+   "korean": "케이블",
+   "rank": 2076
+  },
+  {
+   "english": "sensitive",
+   "korean": "예민한",
+   "rank": 2077
+  },
+  {
+   "english": "nervous",
+   "korean": "불안한",
+   "rank": 2078
+  },
+  {
+   "english": "input",
+   "korean": "입력",
+   "rank": 2079
+  },
+  {
+   "english": "isolate",
+   "korean": "분리하다",
+   "rank": 2080
+  },
+  {
+   "english": "prisoner",
+   "korean": "죄인",
+   "rank": 2081
+  },
+  {
+   "english": "eliminate",
+   "korean": "제거하다",
+   "rank": 2082
+  },
+  {
+   "english": "tight",
+   "korean": "단단한",
+   "rank": 2083
+  },
+  {
+   "english": "wet",
+   "korean": "젖은",
+   "rank": 2084
+  },
+  {
+   "english": "secondary",
+   "korean": "이차적인",
+   "rank": 2085
+  },
+  {
+   "english": "welfare",
+   "korean": "복지",
+   "rank": 2086
+  },
+  {
+   "english": "recruit",
+   "korean": "모집",
+   "rank": 2087
+  },
+  {
+   "english": "exclude",
+   "korean": "들어오지 못하게 하다",
+   "rank": 2088
+  },
+  {
+   "english": "string",
+   "korean": "끈",
+   "rank": 2089
+  },
+  {
+   "english": "cloud",
+   "korean": "구름",
+   "rank": 2090
+  },
+  {
+   "english": "persuade",
+   "korean": "설득하다",
+   "rank": 2091
+  },
+  {
+   "english": "inspire",
+   "korean": "고무하다",
+   "rank": 2092
+  },
+  {
+   "english": "grand",
+   "korean": "멋진",
+   "rank": 2093
+  },
+  {
+   "english": "crew",
+   "korean": "승무원",
+   "rank": 2095
+  },
+  {
+   "english": "phenomenon",
+   "korean": "현상",
+   "rank": 2096
+  },
+  {
+   "english": "pupil",
+   "korean": "학생",
+   "rank": 2097
+  },
+  {
+   "english": "FALSE",
+   "korean": "거짓",
+   "rank": 2098
+  },
+  {
+   "english": "assist",
+   "korean": "돕다",
+   "rank": 2099
+  },
+  {
+   "english": "restore",
+   "korean": "복원하다",
+   "rank": 2100
+  },
+  {
+   "english": "formula",
+   "korean": "공식",
+   "rank": 2101
+  },
+  {
+   "english": "alter",
+   "korean": "바꾸다",
+   "rank": 2102
+  },
+  {
+   "english": "perceive",
+   "korean": "감지하다",
+   "rank": 2103
+  },
+  {
+   "english": "routine",
+   "korean": "루틴",
+   "rank": 2104
+  },
+  {
+   "english": "sink",
+   "korean": "싱크대",
+   "rank": 2105
+  },
+  {
+   "english": "stare",
+   "korean": "응시",
+   "rank": 2106
+  },
+  {
+   "english": "anymore",
+   "korean": "더 이상",
+   "rank": 2107
+  },
+  {
+   "english": "hero",
+   "korean": "영웅",
+   "rank": 2108
+  },
+  {
+   "english": "supporter",
+   "korean": "서포터",
+   "rank": 2109
+  },
+  {
+   "english": "convert",
+   "korean": "전환하다",
+   "rank": 2110
+  },
+  {
+   "english": "steady",
+   "korean": "꾸준한",
+   "rank": 2111
+  },
+  {
+   "english": "meter",
+   "korean": "미터",
+   "rank": 2112
+  },
+  {
+   "english": "truck",
+   "korean": "트럭",
+   "rank": 2113
+  },
+  {
+   "english": "nose",
+   "korean": "코",
+   "rank": 2114
+  },
+  {
+   "english": "sail",
+   "korean": "돛",
+   "rank": 2116
+  },
+  {
+   "english": "disaster",
+   "korean": "재해",
+   "rank": 2117
+  },
+  {
+   "english": "pace",
+   "korean": "속도",
+   "rank": 2118
+  },
+  {
+   "english": "heavily",
+   "korean": "무겁게",
+   "rank": 2119
+  },
+  {
+   "english": "devote",
+   "korean": "바치다",
+   "rank": 2120
+  },
+  {
+   "english": "terrorist",
+   "korean": "테러리스트",
+   "rank": 2121
+  },
+  {
+   "english": "justify",
+   "korean": "신이 옳다고 하다",
+   "rank": 2122
+  },
+  {
+   "english": "vital",
+   "korean": "필수적인",
+   "rank": 2123
+  },
+  {
+   "english": "fascinate",
+   "korean": "호리다",
+   "rank": 2124
+  },
+  {
+   "english": "external",
+   "korean": "외부",
+   "rank": 2125
+  },
+  {
+   "english": "spare",
+   "korean": "여분의",
+   "rank": 2126
+  },
+  {
+   "english": "depression",
+   "korean": "우울증",
+   "rank": 2128
+  },
+  {
+   "english": "guilty",
+   "korean": "죄책감이 드는",
+   "rank": 2129
+  },
+  {
+   "english": "underlie",
+   "korean": "밑바탕이",
+   "rank": 2130
+  },
+  {
+   "english": "mom",
+   "korean": "엄마",
+   "rank": 2131
+  },
+  {
+   "english": "distinction",
+   "korean": "구별",
+   "rank": 2132
+  },
+  {
+   "english": "satisfaction",
+   "korean": "만족",
+   "rank": 2133
+  },
+  {
+   "english": "incorporate",
+   "korean": "포함하다",
+   "rank": 2134
+  },
+  {
+   "english": "pour",
+   "korean": "붓다",
+   "rank": 2135
+  },
+  {
+   "english": "sweep",
+   "korean": "스위프",
+   "rank": 2136
+  },
+  {
+   "english": "obligation",
+   "korean": "의무",
+   "rank": 2137
+  },
+  {
+   "english": "sir",
+   "korean": "선생님",
+   "rank": 2138
+  },
+  {
+   "english": "evaluate",
+   "korean": "평가하다",
+   "rank": 2139
+  },
+  {
+   "english": "anger",
+   "korean": "화",
+   "rank": 2140
+  },
+  {
+   "english": "pub",
+   "korean": "선술집",
+   "rank": 2141
+  },
+  {
+   "english": "perception",
+   "korean": "지각",
+   "rank": 2142
+  },
+  {
+   "english": "naturally",
+   "korean": "당연히",
+   "rank": 2143
+  },
+  {
+   "english": "currency",
+   "korean": "통화",
+   "rank": 2144
+  },
+  {
+   "english": "database",
+   "korean": "데이터 베이스",
+   "rank": 2145
+  },
+  {
+   "english": "initially",
+   "korean": "처음에",
+   "rank": 2146
+  },
+  {
+   "english": "territory",
+   "korean": "지역",
+   "rank": 2147
+  },
+  {
+   "english": "stream",
+   "korean": "개울",
+   "rank": 2148
+  },
+  {
+   "english": "rarely",
+   "korean": "드물게",
+   "rank": 2149
+  },
+  {
+   "english": "height",
+   "korean": "키",
+   "rank": 2150
+  },
+  {
+   "english": "apparent",
+   "korean": "명백한",
+   "rank": 2151
+  },
+  {
+   "english": "western",
+   "korean": "서부 사람",
+   "rank": 2152
+  },
+  {
+   "english": "expansion",
+   "korean": "확장",
+   "rank": 2153
+  },
+  {
+   "english": "constantly",
+   "korean": "끊임없이",
+   "rank": 2154
+  },
+  {
+   "english": "muscle",
+   "korean": "근",
+   "rank": 2155
+  },
+  {
+   "english": "scare",
+   "korean": "공황",
+   "rank": 2156
+  },
+  {
+   "english": "badly",
+   "korean": "심하게",
+   "rank": 2157
+  },
+  {
+   "english": "everyday",
+   "korean": "매일",
+   "rank": 2158
+  },
+  {
+   "english": "boundary",
+   "korean": "경계",
+   "rank": 2159
+  },
+  {
+   "english": "ratio",
+   "korean": "비율",
+   "rank": 2160
+  },
+  {
+   "english": "essay",
+   "korean": "수필",
+   "rank": 2161
+  },
+  {
+   "english": "scream",
+   "korean": "비명",
+   "rank": 2162
+  },
+  {
+   "english": "withdraw",
+   "korean": "철회하다",
+   "rank": 2163
+  },
+  {
+   "english": "pollution",
+   "korean": "오염",
+   "rank": 2164
+  },
+  {
+   "english": "disorder",
+   "korean": "무질서",
+   "rank": 2165
+  },
+  {
+   "english": "furniture",
+   "korean": "가구",
+   "rank": 2166
+  },
+  {
+   "english": "symbol",
+   "korean": "상징",
+   "rank": 2167
+  },
+  {
+   "english": "apartment",
+   "korean": "아파트",
+   "rank": 2168
+  },
+  {
+   "english": "demonstration",
+   "korean": "데모",
+   "rank": 2169
+  },
+  {
+   "english": "analyst",
+   "korean": "분석자",
+   "rank": 2170
+  },
+  {
+   "english": "platform",
+   "korean": "플랫폼",
+   "rank": 2171
+  },
+  {
+   "english": "steel",
+   "korean": "강철",
+   "rank": 2172
+  },
+  {
+   "english": "cake",
+   "korean": "케이크",
+   "rank": 2173
+  },
+  {
+   "english": "transform",
+   "korean": "변환",
+   "rank": 2174
+  },
+  {
+   "english": "wound",
+   "korean": "상처",
+   "rank": 2175
+  },
+  {
+   "english": "restriction",
+   "korean": "제한",
+   "rank": 2176
+  },
+  {
+   "english": "foundation",
+   "korean": "기반",
+   "rank": 2177
+  },
+  {
+   "english": "designer",
+   "korean": "디자이너",
+   "rank": 2178
+  },
+  {
+   "english": "strain",
+   "korean": "부담",
+   "rank": 2179
+  },
+  {
+   "english": "innovation",
+   "korean": "혁신",
+   "rank": 2180
+  },
+  {
+   "english": "album",
+   "korean": "앨범",
+   "rank": 2181
+  },
+  {
+   "english": "singer",
+   "korean": "가수",
+   "rank": 2182
+  },
+  {
+   "english": "trail",
+   "korean": "자취",
+   "rank": 2183
+  },
+  {
+   "english": "trap",
+   "korean": "덫",
+   "rank": 2184
+  },
+  {
+   "english": "loose",
+   "korean": "헐렁한",
+   "rank": 2185
+  },
+  {
+   "english": "extension",
+   "korean": "확대",
+   "rank": 2186
+  },
+  {
+   "english": "wealth",
+   "korean": "재산",
+   "rank": 2187
+  },
+  {
+   "english": "gradually",
+   "korean": "서서히",
+   "rank": 2188
+  },
+  {
+   "english": "tank",
+   "korean": "탱크",
+   "rank": 2189
+  },
+  {
+   "english": "evil",
+   "korean": "사악한",
+   "rank": 2190
+  },
+  {
+   "english": "remarkable",
+   "korean": "놀랄 만한",
+   "rank": 2191
+  },
+  {
+   "english": "tune",
+   "korean": "곡조",
+   "rank": 2192
+  },
+  {
+   "english": "grass",
+   "korean": "잔디",
+   "rank": 2193
+  },
+  {
+   "english": "invitation",
+   "korean": "초대",
+   "rank": 2194
+  },
+  {
+   "english": "transition",
+   "korean": "이행",
+   "rank": 2195
+  },
+  {
+   "english": "frighten",
+   "korean": "놀라다",
+   "rank": 2196
+  },
+  {
+   "english": "bid",
+   "korean": "매기다",
+   "rank": 2197
+  },
+  {
+   "english": "breed",
+   "korean": "새끼를 낳다",
+   "rank": 2198
+  },
+  {
+   "english": "extraordinary",
+   "korean": "기이한",
+   "rank": 2199
+  },
+  {
+   "english": "brilliant",
+   "korean": "멋진",
+   "rank": 2200
+  },
+  {
+   "english": "adviser",
+   "korean": "고문",
+   "rank": 2201
+  },
+  {
+   "english": "stem",
+   "korean": "줄기",
+   "rank": 2202
+  },
+  {
+   "english": "reverse",
+   "korean": "뒤집다",
+   "rank": 2203
+  },
+  {
+   "english": "mode",
+   "korean": "방법",
+   "rank": 2204
+  },
+  {
+   "english": "mirror",
+   "korean": "거울",
+   "rank": 2205
+  },
+  {
+   "english": "awful",
+   "korean": "끔찍한",
+   "rank": 2206
+  },
+  {
+   "english": "pose",
+   "korean": "포즈",
+   "rank": 2207
+  },
+  {
+   "english": "adjust",
+   "korean": "조정하다",
+   "rank": 2208
+  },
+  {
+   "english": "creative",
+   "korean": "창의적인",
+   "rank": 2209
+  },
+  {
+   "english": "nowadays",
+   "korean": "요즘에는",
+   "rank": 2210
+  },
+  {
+   "english": "poem",
+   "korean": "시",
+   "rank": 2211
+  },
+  {
+   "english": "agricultural",
+   "korean": "농업",
+   "rank": 2212
+  },
+  {
+   "english": "competitor",
+   "korean": "경쟁자",
+   "rank": 2213
+  },
+  {
+   "english": "alcohol",
+   "korean": "술",
+   "rank": 2214
+  },
+  {
+   "english": "festival",
+   "korean": "제전",
+   "rank": 2215
+  },
+  {
+   "english": "vegetable",
+   "korean": "채소",
+   "rank": 2216
+  },
+  {
+   "english": "van",
+   "korean": "봉고차",
+   "rank": 2217
+  },
+  {
+   "english": "confident",
+   "korean": "자신감",
+   "rank": 2218
+  },
+  {
+   "english": "planet",
+   "korean": "행성",
+   "rank": 2219
+  },
+  {
+   "english": "curve",
+   "korean": "곡선",
+   "rank": 2220
+  },
+  {
+   "english": "knee",
+   "korean": "무릎",
+   "rank": 2221
+  },
+  {
+   "english": "overcome",
+   "korean": "극복하다",
+   "rank": 2222
+  },
+  {
+   "english": "web",
+   "korean": "편물",
+   "rank": 2223
+  },
+  {
+   "english": "depth",
+   "korean": "깊이",
+   "rank": 2224
+  },
+  {
+   "english": "entrance",
+   "korean": "입구",
+   "rank": 2225
+  },
+  {
+   "english": "log",
+   "korean": "통나무",
+   "rank": 2226
+  },
+  {
+   "english": "giant",
+   "korean": "거대한",
+   "rank": 2227
+  },
+  {
+   "english": "god",
+   "korean": "하나님",
+   "rank": 2228
+  },
+  {
+   "english": "portion",
+   "korean": "부분",
+   "rank": 2229
+  },
+  {
+   "english": "substance",
+   "korean": "물질",
+   "rank": 2230
+  },
+  {
+   "english": "extensive",
+   "korean": "광범위한",
+   "rank": 2231
+  },
+  {
+   "english": "interpret",
+   "korean": "해석하다",
+   "rank": 2232
+  },
+  {
+   "english": "independence",
+   "korean": "독립",
+   "rank": 2233
+  },
+  {
+   "english": "sugar",
+   "korean": "설탕",
+   "rank": 2234
+  },
+  {
+   "english": "inner",
+   "korean": "안의",
+   "rank": 2235
+  },
+  {
+   "english": "harm",
+   "korean": "피해",
+   "rank": 2236
+  },
+  {
+   "english": "consult",
+   "korean": "찾다",
+   "rank": 2237
+  },
+  {
+   "english": "pink",
+   "korean": "분홍색",
+   "rank": 2238
+  },
+  {
+   "english": "shadow",
+   "korean": "그림자",
+   "rank": 2239
+  },
+  {
+   "english": "strip",
+   "korean": "조각",
+   "rank": 2240
+  },
+  {
+   "english": "smooth",
+   "korean": "매끄러운",
+   "rank": 2241
+  },
+  {
+   "english": "intervention",
+   "korean": "간섭",
+   "rank": 2242
+  },
+  {
+   "english": "impress",
+   "korean": "날인",
+   "rank": 2243
+  },
+  {
+   "english": "exam",
+   "korean": "시험",
+   "rank": 2244
+  },
+  {
+   "english": "vice",
+   "korean": "바이스",
+   "rank": 2245
+  },
+  {
+   "english": "radical",
+   "korean": "근본적인",
+   "rank": 2246
+  },
+  {
+   "english": "similarly",
+   "korean": "비슷하게",
+   "rank": 2247
+  },
+  {
+   "english": "behave",
+   "korean": "행동하다",
+   "rank": 2248
+  },
+  {
+   "english": "loud",
+   "korean": "시끄러운",
+   "rank": 2249
+  },
+  {
+   "english": "dimension",
+   "korean": "차원",
+   "rank": 2250
+  },
+  {
+   "english": "subsequent",
+   "korean": "후속",
+   "rank": 2251
+  },
+  {
+   "english": "infection",
+   "korean": "전염병",
+   "rank": 2252
+  },
+  {
+   "english": "jacket",
+   "korean": "재킷",
+   "rank": 2253
+  },
+  {
+   "english": "efficiency",
+   "korean": "능률",
+   "rank": 2254
+  },
+  {
+   "english": "dirty",
+   "korean": "더러운",
+   "rank": 2255
+  },
+  {
+   "english": "statistic",
+   "korean": "통계량",
+   "rank": 2256
+  },
+  {
+   "english": "regularly",
+   "korean": "정기적으로",
+   "rank": 2257
+  },
+  {
+   "english": "resort",
+   "korean": "의지",
+   "rank": 2258
+  },
+  {
+   "english": "iron",
+   "korean": "철",
+   "rank": 2259
+  },
+  {
+   "english": "broadcast",
+   "korean": "방송",
+   "rank": 2260
+  },
+  {
+   "english": "membership",
+   "korean": "멤버십",
+   "rank": 2261
+  },
+  {
+   "english": "bread",
+   "korean": "빵",
+   "rank": 2262
+  },
+  {
+   "english": "blind",
+   "korean": "눈이 먼",
+   "rank": 2263
+  },
+  {
+   "english": "pure",
+   "korean": "순수한",
+   "rank": 2264
+  },
+  {
+   "english": "bloody",
+   "korean": "피의",
+   "rank": 2265
+  },
+  {
+   "english": "ally",
+   "korean": "동맹국",
+   "rank": 2266
+  },
+  {
+   "english": "quantity",
+   "korean": "수량",
+   "rank": 2267
+  },
+  {
+   "english": "bend",
+   "korean": "만곡부",
+   "rank": 2268
+  },
+  {
+   "english": "mature",
+   "korean": "성숙한",
+   "rank": 2269
+  },
+  {
+   "english": "briefly",
+   "korean": "간단히",
+   "rank": 2270
+  },
+  {
+   "english": "alarm",
+   "korean": "경보",
+   "rank": 2271
+  },
+  {
+   "english": "disturb",
+   "korean": "방해하다",
+   "rank": 2272
+  },
+  {
+   "english": "sustain",
+   "korean": "지속시키다",
+   "rank": 2273
+  },
+  {
+   "english": "flood",
+   "korean": "홍수",
+   "rank": 2274
+  },
+  {
+   "english": "poverty",
+   "korean": "빈곤",
+   "rank": 2275
+  },
+  {
+   "english": "crazy",
+   "korean": "미친",
+   "rank": 2276
+  },
+  {
+   "english": "cite",
+   "korean": "인용문",
+   "rank": 2277
+  },
+  {
+   "english": "newly",
+   "korean": "최근",
+   "rank": 2278
+  },
+  {
+   "english": "parallel",
+   "korean": "평행한",
+   "rank": 2279
+  },
+  {
+   "english": "gender",
+   "korean": "성별",
+   "rank": 2280
+  },
+  {
+   "english": "sponsor",
+   "korean": "스폰서",
+   "rank": 2281
+  },
+  {
+   "english": "boot",
+   "korean": "신병",
+   "rank": 2282
+  },
+  {
+   "english": "accurate",
+   "korean": "정확한",
+   "rank": 2283
+  },
+  {
+   "english": "dealer",
+   "korean": "상인",
+   "rank": 2284
+  },
+  {
+   "english": "button",
+   "korean": "단추",
+   "rank": 2285
+  },
+  {
+   "english": "burden",
+   "korean": "부담",
+   "rank": 2286
+  },
+  {
+   "english": "desert",
+   "korean": "사막",
+   "rank": 2287
+  },
+  {
+   "english": "mate",
+   "korean": "친구",
+   "rank": 2288
+  },
+  {
+   "english": "occasionally",
+   "korean": "가끔",
+   "rank": 2289
+  },
+  {
+   "english": "shareholder",
+   "korean": "주주",
+   "rank": 2290
+  },
+  {
+   "english": "bowl",
+   "korean": "그릇",
+   "rank": 2291
+  },
+  {
+   "english": "discovery",
+   "korean": "발견",
+   "rank": 2292
+  },
+  {
+   "english": "resistance",
+   "korean": "저항",
+   "rank": 2293
+  },
+  {
+   "english": "bath",
+   "korean": "욕조",
+   "rank": 2294
+  },
+  {
+   "english": "frequency",
+   "korean": "빈도",
+   "rank": 2295
+  },
+  {
+   "english": "criticize",
+   "korean": "흠잡다",
+   "rank": 2296
+  },
+  {
+   "english": "tap",
+   "korean": "수도꼭지",
+   "rank": 2297
+  },
+  {
+   "english": "philosophy",
+   "korean": "철학",
+   "rank": 2298
+  },
+  {
+   "english": "lip",
+   "korean": "말뿐인",
+   "rank": 2299
+  },
+  {
+   "english": "attribute",
+   "korean": "기인하다",
+   "rank": 2300
+  },
+  {
+   "english": "apologize",
+   "korean": "사과하다",
+   "rank": 2301
+  },
+  {
+   "english": "approval",
+   "korean": "승인",
+   "rank": 2302
+  },
+  {
+   "english": "grab",
+   "korean": "붙잡다",
+   "rank": 2303
+  },
+  {
+   "english": "entitle",
+   "korean": "제목",
+   "rank": 2304
+  },
+  {
+   "english": "lend",
+   "korean": "빌려주다",
+   "rank": 2305
+  },
+  {
+   "english": "involvement",
+   "korean": "참여",
+   "rank": 2306
+  },
+  {
+   "english": "exposure",
+   "korean": "노출",
+   "rank": 2307
+  },
+  {
+   "english": "conventional",
+   "korean": "전통적인",
+   "rank": 2308
+  },
+  {
+   "english": "digital",
+   "korean": "디지털",
+   "rank": 2309
+  },
+  {
+   "english": "translate",
+   "korean": "번역하다",
+   "rank": 2310
+  },
+  {
+   "english": "edit",
+   "korean": "편집하다",
+   "rank": 2311
+  },
+  {
+   "english": "formation",
+   "korean": "형성",
+   "rank": 2312
+  },
+  {
+   "english": "deposit",
+   "korean": "보증금",
+   "rank": 2313
+  },
+  {
+   "english": "pleasant",
+   "korean": "즐거운",
+   "rank": 2314
+  },
+  {
+   "english": "overseas",
+   "korean": "해외",
+   "rank": 2315
+  },
+  {
+   "english": "advocate",
+   "korean": "지지하다",
+   "rank": 2316
+  },
+  {
+   "english": "establishment",
+   "korean": "설립",
+   "rank": 2317
+  },
+  {
+   "english": "summary",
+   "korean": "요약",
+   "rank": 2318
+  },
+  {
+   "english": "rough",
+   "korean": "거친",
+   "rank": 2319
+  },
+  {
+   "english": "pen",
+   "korean": "펜",
+   "rank": 2320
+  },
+  {
+   "english": "recovery",
+   "korean": "회복",
+   "rank": 2321
+  },
+  {
+   "english": "seal",
+   "korean": "밀봉하다",
+   "rank": 2322
+  },
+  {
+   "english": "tube",
+   "korean": "튜브",
+   "rank": 2323
+  },
+  {
+   "english": "tower",
+   "korean": "탑",
+   "rank": 2324
+  },
+  {
+   "english": "characterize",
+   "korean": "특징짓다",
+   "rank": 2325
+  },
+  {
+   "english": "specify",
+   "korean": "명시하다",
+   "rank": 2326
+  },
+  {
+   "english": "exact",
+   "korean": "정확한",
+   "rank": 2327
+  },
+  {
+   "english": "spin",
+   "korean": "회전",
+   "rank": 2328
+  },
+  {
+   "english": "operator",
+   "korean": "연산자",
+   "rank": 2329
+  },
+  {
+   "english": "infant",
+   "korean": "유아",
+   "rank": 2330
+  },
+  {
+   "english": "dig",
+   "korean": "파기",
+   "rank": 2331
+  },
+  {
+   "english": "drag",
+   "korean": "견인",
+   "rank": 2332
+  },
+  {
+   "english": "mount",
+   "korean": "산",
+   "rank": 2333
+  },
+  {
+   "english": "wrap",
+   "korean": "포장하다",
+   "rank": 2334
+  },
+  {
+   "english": "anticipate",
+   "korean": "예상하다",
+   "rank": 2335
+  },
+  {
+   "english": "dependent",
+   "korean": "매달린",
+   "rank": 2336
+  },
+  {
+   "english": "specialize",
+   "korean": "전문화하다",
+   "rank": 2337
+  },
+  {
+   "english": "angle",
+   "korean": "각도",
+   "rank": 2338
+  },
+  {
+   "english": "chicken",
+   "korean": "닭",
+   "rank": 2339
+  },
+  {
+   "english": "anxiety",
+   "korean": "불안",
+   "rank": 2340
+  },
+  {
+   "english": "virus",
+   "korean": "바이러스",
+   "rank": 2341
+  },
+  {
+   "english": "precisely",
+   "korean": "정확히",
+   "rank": 2342
+  },
+  {
+   "english": "rival",
+   "korean": "경쟁자",
+   "rank": 2343
+  },
+  {
+   "english": "offense",
+   "korean": "위반",
+   "rank": 2344
+  },
+  {
+   "english": "detect",
+   "korean": "감지하다",
+   "rank": 2345
+  },
+  {
+   "english": "teenager",
+   "korean": "십대",
+   "rank": 2346
+  },
+  {
+   "english": "admire",
+   "korean": "존경하다",
+   "rank": 2347
+  },
+  {
+   "english": "moderate",
+   "korean": "보통의",
+   "rank": 2348
+  },
+  {
+   "english": "surgery",
+   "korean": "수술",
+   "rank": 2349
+  },
+  {
+   "english": "musician",
+   "korean": "음악가",
+   "rank": 2350
+  },
+  {
+   "english": "significance",
+   "korean": "중요성",
+   "rank": 2351
+  },
+  {
+   "english": "shower",
+   "korean": "샤워",
+   "rank": 2352
+  },
+  {
+   "english": "illegal",
+   "korean": "불법적인",
+   "rank": 2353
+  },
+  {
+   "english": "charity",
+   "korean": "자선 단체",
+   "rank": 2354
+  },
+  {
+   "english": "universal",
+   "korean": "만능인",
+   "rank": 2355
+  },
+  {
+   "english": "cigarette",
+   "korean": "담배",
+   "rank": 2356
+  },
+  {
+   "english": "constitute",
+   "korean": "구성하다",
+   "rank": 2357
+  },
+  {
+   "english": "adequate",
+   "korean": "적절한",
+   "rank": 2358
+  },
+  {
+   "english": "consultant",
+   "korean": "컨설턴트",
+   "rank": 2359
+  },
+  {
+   "english": "historian",
+   "korean": "역사가",
+   "rank": 2360
+  },
+  {
+   "english": "cousin",
+   "korean": "사촌",
+   "rank": 2361
+  },
+  {
+   "english": "visual",
+   "korean": "시각적",
+   "rank": 2362
+  },
+  {
+   "english": "stupid",
+   "korean": "멍청한",
+   "rank": 2363
+  },
+  {
+   "english": "keen",
+   "korean": "날카로운",
+   "rank": 2364
+  },
+  {
+   "english": "ethnic",
+   "korean": "민족",
+   "rank": 2365
+  },
+  {
+   "english": "twin",
+   "korean": "쌍",
+   "rank": 2366
+  },
+  {
+   "english": "clinical",
+   "korean": "객관적인",
+   "rank": 2367
+  },
+  {
+   "english": "eastern",
+   "korean": "동쪽",
+   "rank": 2368
+  },
+  {
+   "english": "forecast",
+   "korean": "예측",
+   "rank": 2369
+  },
+  {
+   "english": "segment",
+   "korean": "분절",
+   "rank": 2370
+  },
+  {
+   "english": "custom",
+   "korean": "관습",
+   "rank": 2371
+  },
+  {
+   "english": "adapt",
+   "korean": "적응하다",
+   "rank": 2372
+  },
+  {
+   "english": "sand",
+   "korean": "모래",
+   "rank": 2373
+  },
+  {
+   "english": "cap",
+   "korean": "캡",
+   "rank": 2374
+  },
+  {
+   "english": "prompt",
+   "korean": "즉각적인",
+   "rank": 2375
+  },
+  {
+   "english": "charm",
+   "korean": "매력",
+   "rank": 2376
+  },
+  {
+   "english": "react",
+   "korean": "반응하다",
+   "rank": 2377
+  },
+  {
+   "english": "lecture",
+   "korean": "강의",
+   "rank": 2378
+  },
+  {
+   "english": "venture",
+   "korean": "투기",
+   "rank": 2379
+  },
+  {
+   "english": "compound",
+   "korean": "화합물",
+   "rank": 2380
+  },
+  {
+   "english": "rescue",
+   "korean": "구조하다",
+   "rank": 2381
+  },
+  {
+   "english": "mess",
+   "korean": "엉망",
+   "rank": 2382
+  },
+  {
+   "english": "preference",
+   "korean": "선호",
+   "rank": 2383
+  },
+  {
+   "english": "comprehensive",
+   "korean": "포괄적인",
+   "rank": 2384
+  },
+  {
+   "english": "incentive",
+   "korean": "자극",
+   "rank": 2385
+  },
+  {
+   "english": "league",
+   "korean": "리그",
+   "rank": 2386
+  },
+  {
+   "english": "dialog",
+   "korean": "대화",
+   "rank": 2387
+  },
+  {
+   "english": "cream",
+   "korean": "크림",
+   "rank": 2388
+  },
+  {
+   "english": "rapid",
+   "korean": "빠른",
+   "rank": 2389
+  },
+  {
+   "english": "cancel",
+   "korean": "취소",
+   "rank": 2390
+  },
+  {
+   "english": "regret",
+   "korean": "후회",
+   "rank": 2391
+  },
+  {
+   "english": "dismiss",
+   "korean": "해고하다",
+   "rank": 2392
+  },
+  {
+   "english": "margin",
+   "korean": "여유",
+   "rank": 2393
+  },
+  {
+   "english": "beneath",
+   "korean": "~ 아래에",
+   "rank": 2394
+  },
+  {
+   "english": "opponent",
+   "korean": "상대",
+   "rank": 2395
+  },
+  {
+   "english": "resist",
+   "korean": "저항하다",
+   "rank": 2396
+  },
+  {
+   "english": "capability",
+   "korean": "능력",
+   "rank": 2397
+  },
+  {
+   "english": "absolute",
+   "korean": "순수한",
+   "rank": 2398
+  },
+  {
+   "english": "correspond",
+   "korean": "대응하다",
+   "rank": 2399
+  },
+  {
+   "english": "stroke",
+   "korean": "뇌졸중",
+   "rank": 2400
+  },
+  {
+   "english": "dare",
+   "korean": "도전",
+   "rank": 2401
+  },
+  {
+   "english": "barrier",
+   "korean": "장벽",
+   "rank": 2402
+  },
+  {
+   "english": "rid",
+   "korean": "제거하다",
+   "rank": 2403
+  },
+  {
+   "english": "divorce",
+   "korean": "이혼",
+   "rank": 2404
+  },
+  {
+   "english": "ruin",
+   "korean": "망치다",
+   "rank": 2405
+  },
+  {
+   "english": "bury",
+   "korean": "묻다",
+   "rank": 2406
+  },
+  {
+   "english": "counsel",
+   "korean": "조언",
+   "rank": 2407
+  },
+  {
+   "english": "tendency",
+   "korean": "성향",
+   "rank": 2408
+  },
+  {
+   "english": "frequent",
+   "korean": "잦은",
+   "rank": 2409
+  },
+  {
+   "english": "motor",
+   "korean": "모터",
+   "rank": 2410
+  },
+  {
+   "english": "survival",
+   "korean": "활착",
+   "rank": 2411
+  },
+  {
+   "english": "counter",
+   "korean": "계수기",
+   "rank": 2412
+  },
+  {
+   "english": "possess",
+   "korean": "붙잡다",
+   "rank": 2413
+  },
+  {
+   "english": "permission",
+   "korean": "허가",
+   "rank": 2414
+  },
+  {
+   "english": "valley",
+   "korean": "골짜기",
+   "rank": 2415
+  },
+  {
+   "english": "float",
+   "korean": "뜨다",
+   "rank": 2416
+  },
+  {
+   "english": "mad",
+   "korean": "미친",
+   "rank": 2417
+  },
+  {
+   "english": "greatly",
+   "korean": "매우",
+   "rank": 2418
+  },
+  {
+   "english": "visible",
+   "korean": "보이는",
+   "rank": 2419
+  },
+  {
+   "english": "electric",
+   "korean": "전기 같은",
+   "rank": 2420
+  },
+  {
+   "english": "impressive",
+   "korean": "인상적인",
+   "rank": 2421
+  },
+  {
+   "english": "evolution",
+   "korean": "진화",
+   "rank": 2422
+  },
+  {
+   "english": "awareness",
+   "korean": "의식",
+   "rank": 2423
+  },
+  {
+   "english": "violent",
+   "korean": "폭력적인",
+   "rank": 2424
+  },
+  {
+   "english": "slave",
+   "korean": "노예",
+   "rank": 2425
+  },
+  {
+   "english": "wealthy",
+   "korean": "풍부한",
+   "rank": 2426
+  },
+  {
+   "english": "architecture",
+   "korean": "건축학",
+   "rank": 2427
+  },
+  {
+   "english": "acceptable",
+   "korean": "허용 가능한",
+   "rank": 2428
+  },
+  {
+   "english": "journal",
+   "korean": "신문",
+   "rank": 2429
+  },
+  {
+   "english": "coal",
+   "korean": "석탄",
+   "rank": 2430
+  },
+  {
+   "english": "measurement",
+   "korean": "측정",
+   "rank": 2431
+  },
+  {
+   "english": "random",
+   "korean": "무작위의",
+   "rank": 2432
+  },
+  {
+   "english": "successfully",
+   "korean": "성공적으로",
+   "rank": 2433
+  },
+  {
+   "english": "depress",
+   "korean": "기를 꺾다",
+   "rank": 2434
+  },
+  {
+   "english": "illustration",
+   "korean": "삽화",
+   "rank": 2435
+  },
+  {
+   "english": "burst",
+   "korean": "터지다",
+   "rank": 2436
+  },
+  {
+   "english": "privilege",
+   "korean": "특권",
+   "rank": 2437
+  },
+  {
+   "english": "buyer",
+   "korean": "사는 사람",
+   "rank": 2438
+  },
+  {
+   "english": "mutual",
+   "korean": "상호간의",
+   "rank": 2439
+  },
+  {
+   "english": "rail",
+   "korean": "레일",
+   "rank": 2440
+  },
+  {
+   "english": "motivate",
+   "korean": "동기 부여",
+   "rank": 2441
+  },
+  {
+   "english": "laboratory",
+   "korean": "실혐실",
+   "rank": 2442
+  },
+  {
+   "english": "mortgage",
+   "korean": "저당",
+   "rank": 2443
+  },
+  {
+   "english": "promotion",
+   "korean": "홍보",
+   "rank": 2444
+  },
+  {
+   "english": "passion",
+   "korean": "열정",
+   "rank": 2445
+  },
+  {
+   "english": "champion",
+   "korean": "챔피언",
+   "rank": 2446
+  },
+  {
+   "english": "fulfill",
+   "korean": "다하다",
+   "rank": 2447
+  },
+  {
+   "english": "dust",
+   "korean": "먼지",
+   "rank": 2448
+  },
+  {
+   "english": "dedicate",
+   "korean": "전념하다",
+   "rank": 2449
+  },
+  {
+   "english": "roughly",
+   "korean": "대충",
+   "rank": 2450
+  },
+  {
+   "english": "skirt",
+   "korean": "치마",
+   "rank": 2451
+  },
+  {
+   "english": "province",
+   "korean": "주",
+   "rank": 2452
+  },
+  {
+   "english": "march",
+   "korean": "3월",
+   "rank": 2453
+  },
+  {
+   "english": "evaluation",
+   "korean": "평가",
+   "rank": 2454
+  },
+  {
+   "english": "compromise",
+   "korean": "타협",
+   "rank": 2455
+  },
+  {
+   "english": "accomplish",
+   "korean": "성취하다",
+   "rank": 2456
+  },
+  {
+   "english": "weakness",
+   "korean": "약점",
+   "rank": 2457
+  },
+  {
+   "english": "announcement",
+   "korean": "발표",
+   "rank": 2458
+  },
+  {
+   "english": "salt",
+   "korean": "소금",
+   "rank": 2459
+  },
+  {
+   "english": "glance",
+   "korean": "섬광",
+   "rank": 2460
+  },
+  {
+   "english": "opera",
+   "korean": "오페라",
+   "rank": 2461
+  },
+  {
+   "english": "contest",
+   "korean": "경쟁",
+   "rank": 2462
+  },
+  {
+   "english": "brush",
+   "korean": "브러시",
+   "rank": 2463
+  },
+  {
+   "english": "embarrass",
+   "korean": "당황하게 하다",
+   "rank": 2464
+  },
+  {
+   "english": "gallery",
+   "korean": "갱도",
+   "rank": 2465
+  },
+  {
+   "english": "genetic",
+   "korean": "유전적인",
+   "rank": 2466
+  },
+  {
+   "english": "aggressive",
+   "korean": "공격적인",
+   "rank": 2467
+  },
+  {
+   "english": "chest",
+   "korean": "가슴",
+   "rank": 2468
+  },
+  {
+   "english": "format",
+   "korean": "체재",
+   "rank": 2469
+  },
+  {
+   "english": "literary",
+   "korean": "문호",
+   "rank": 2470
+  },
+  {
+   "english": "govern",
+   "korean": "통치하다",
+   "rank": 2471
+  },
+  {
+   "english": "embrace",
+   "korean": "포옹하다",
+   "rank": 2472
+  },
+  {
+   "english": "praise",
+   "korean": "칭찬",
+   "rank": 2473
+  },
+  {
+   "english": "silent",
+   "korean": "조용한",
+   "rank": 2474
+  },
+  {
+   "english": "pump",
+   "korean": "펌프",
+   "rank": 2475
+  },
+  {
+   "english": "publisher",
+   "korean": "발행자",
+   "rank": 2476
+  },
+  {
+   "english": "celebration",
+   "korean": "축하",
+   "rank": 2477
+  },
+  {
+   "english": "golf",
+   "korean": "골프",
+   "rank": 2478
+  },
+  {
+   "english": "compensation",
+   "korean": "보상",
+   "rank": 2479
+  },
+  {
+   "english": "classical",
+   "korean": "고전",
+   "rank": 2480
+  },
+  {
+   "english": "weigh",
+   "korean": "달다",
+   "rank": 2481
+  },
+  {
+   "english": "versus",
+   "korean": "~ 대",
+   "rank": 2482
+  },
+  {
+   "english": "deficit",
+   "korean": "부족",
+   "rank": 2483
+  },
+  {
+   "english": "modify",
+   "korean": "수정하다",
+   "rank": 2484
+  },
+  {
+   "english": "flash",
+   "korean": "플래시",
+   "rank": 2485
+  },
+  {
+   "english": "friendship",
+   "korean": "우정",
+   "rank": 2486
+  },
+  {
+   "english": "profession",
+   "korean": "직업",
+   "rank": 2487
+  },
+  {
+   "english": "literally",
+   "korean": "문자 그대로",
+   "rank": 2488
+  },
+  {
+   "english": "equation",
+   "korean": "방정식",
+   "rank": 2489
+  },
+  {
+   "english": "gesture",
+   "korean": "몸짓",
+   "rank": 2490
+  },
+  {
+   "english": "entertain",
+   "korean": "즐겁게 하다",
+   "rank": 2491
+  },
+  {
+   "english": "fantastic",
+   "korean": "환상적",
+   "rank": 2492
+  },
+  {
+   "english": "assign",
+   "korean": "양수인",
+   "rank": 2493
+  },
+  {
+   "english": "inflation",
+   "korean": "인플레이션",
+   "rank": 2494
+  },
+  {
+   "english": "historic",
+   "korean": "역사적인",
+   "rank": 2495
+  },
+  {
+   "english": "injure",
+   "korean": "해치다",
+   "rank": 2496
+  },
+  {
+   "english": "remote",
+   "korean": "원격",
+   "rank": 2497
+  },
+  {
+   "english": "therapy",
+   "korean": "요법",
+   "rank": 2498
+  },
+  {
+   "english": "orange",
+   "korean": "주황색",
+   "rank": 2499
+  },
+  {
+   "english": "twist",
+   "korean": "트위스트",
+   "rank": 2500
+  },
+  {
+   "english": "personnel",
+   "korean": "인원",
+   "rank": 2501
+  },
+  {
+   "english": "imagination",
+   "korean": "상상력",
+   "rank": 2502
+  },
+  {
+   "english": "disagree",
+   "korean": "맞지 않다",
+   "rank": 2503
+  },
+  {
+   "english": "throat",
+   "korean": "목",
+   "rank": 2504
+  },
+  {
+   "english": "insight",
+   "korean": "통찰력",
+   "rank": 2505
+  },
+  {
+   "english": "tackle",
+   "korean": "태클",
+   "rank": 2506
+  },
+  {
+   "english": "forever",
+   "korean": "영원히",
+   "rank": 2507
+  },
+  {
+   "english": "exceed",
+   "korean": "초과하다",
+   "rank": 2508
+  },
+  {
+   "english": "expenditure",
+   "korean": "지출",
+   "rank": 2509
+  },
+  {
+   "english": "joy",
+   "korean": "기쁨",
+   "rank": 2510
+  },
+  {
+   "english": "pregnant",
+   "korean": "임신한",
+   "rank": 2511
+  },
+  {
+   "english": "reliable",
+   "korean": "믿을 수 있는",
+   "rank": 2512
+  },
+  {
+   "english": "gear",
+   "korean": "기어",
+   "rank": 2513
+  },
+  {
+   "english": "click",
+   "korean": "딸깍 하는 소리",
+   "rank": 2514
+  },
+  {
+   "english": "poet",
+   "korean": "시인",
+   "rank": 2515
+  },
+  {
+   "english": "fortune",
+   "korean": "행운",
+   "rank": 2516
+  },
+  {
+   "english": "ceremony",
+   "korean": "의식",
+   "rank": 2517
+  },
+  {
+   "english": "pile",
+   "korean": "말뚝",
+   "rank": 2518
+  },
+  {
+   "english": "pig",
+   "korean": "돼지",
+   "rank": 2519
+  },
+  {
+   "english": "mixture",
+   "korean": "혼합물",
+   "rank": 2520
+  },
+  {
+   "english": "automatically",
+   "korean": "자동으로",
+   "rank": 2521
+  },
+  {
+   "english": "scholar",
+   "korean": "학자",
+   "rank": 2522
+  },
+  {
+   "english": "psychological",
+   "korean": "심리적",
+   "rank": 2523
+  },
+  {
+   "english": "dramatically",
+   "korean": "극적으로",
+   "rank": 2524
+  },
+  {
+   "english": "stake",
+   "korean": "말뚝",
+   "rank": 2525
+  },
+  {
+   "english": "creature",
+   "korean": "생물",
+   "rank": 2526
+  },
+  {
+   "english": "partnership",
+   "korean": "공동",
+   "rank": 2527
+  },
+  {
+   "english": "participation",
+   "korean": "참여",
+   "rank": 2528
+  },
+  {
+   "english": "clause",
+   "korean": "절",
+   "rank": 2529
+  },
+  {
+   "english": "penalty",
+   "korean": "패널티",
+   "rank": 2530
+  },
+  {
+   "english": "chamber",
+   "korean": "방",
+   "rank": 2531
+  },
+  {
+   "english": "fancy",
+   "korean": "팬시한",
+   "rank": 2532
+  },
+  {
+   "english": "poetry",
+   "korean": "시",
+   "rank": 2533
+  },
+  {
+   "english": "chat",
+   "korean": "채팅",
+   "rank": 2534
+  },
+  {
+   "english": "clothing",
+   "korean": "의류",
+   "rank": 2535
+  },
+  {
+   "english": "evolve",
+   "korean": "진화하다",
+   "rank": 2536
+  },
+  {
+   "english": "sake",
+   "korean": "동기",
+   "rank": 2537
+  },
+  {
+   "english": "shelf",
+   "korean": "선반",
+   "rank": 2538
+  },
+  {
+   "english": "boost",
+   "korean": "끌어올리다",
+   "rank": 2539
+  },
+  {
+   "english": "tail",
+   "korean": "꼬리",
+   "rank": 2540
+  },
+  {
+   "english": "possession",
+   "korean": "소유",
+   "rank": 2541
+  },
+  {
+   "english": "abortion",
+   "korean": "유산",
+   "rank": 2542
+  },
+  {
+   "english": "curious",
+   "korean": "궁금한",
+   "rank": 2543
+  },
+  {
+   "english": "wooden",
+   "korean": "멍청한",
+   "rank": 2544
+  },
+  {
+   "english": "boom",
+   "korean": "팔",
+   "rank": 2545
+  },
+  {
+   "english": "tale",
+   "korean": "이야기",
+   "rank": 2546
+  },
+  {
+   "english": "democratic",
+   "korean": "민주주의",
+   "rank": 2547
+  },
+  {
+   "english": "maintenance",
+   "korean": "유지",
+   "rank": 2548
+  },
+  {
+   "english": "consequently",
+   "korean": "따라서",
+   "rank": 2549
+  },
+  {
+   "english": "pot",
+   "korean": "냄비",
+   "rank": 2550
+  },
+  {
+   "english": "cow",
+   "korean": "암소",
+   "rank": 2551
+  },
+  {
+   "english": "strengthen",
+   "korean": "강하게 하다",
+   "rank": 2552
+  },
+  {
+   "english": "whilst",
+   "korean": "...하는 동안",
+   "rank": 2553
+  },
+  {
+   "english": "constraint",
+   "korean": "강제",
+   "rank": 2554
+  },
+  {
+   "english": "fold",
+   "korean": "겹",
+   "rank": 2555
+  },
+  {
+   "english": "bin",
+   "korean": "큰 상자",
+   "rank": 2556
+  },
+  {
+   "english": "undergo",
+   "korean": "받다",
+   "rank": 2557
+  },
+  {
+   "english": "potentially",
+   "korean": "잠재적으로",
+   "rank": 2558
+  },
+  {
+   "english": "scope",
+   "korean": "범위",
+   "rank": 2559
+  },
+  {
+   "english": "pretend",
+   "korean": "~인 척하다",
+   "rank": 2560
+  },
+  {
+   "english": "diversity",
+   "korean": "다양성",
+   "rank": 2561
+  },
+  {
+   "english": "allege",
+   "korean": "주장하다",
+   "rank": 2562
+  },
+  {
+   "english": "pride",
+   "korean": "자부심",
+   "rank": 2563
+  },
+  {
+   "english": "intense",
+   "korean": "극심한",
+   "rank": 2564
+  },
+  {
+   "english": "inquiry",
+   "korean": "문의",
+   "rank": 2565
+  },
+  {
+   "english": "resign",
+   "korean": "사직하다",
+   "rank": 2566
+  },
+  {
+   "english": "craft",
+   "korean": "선박",
+   "rank": 2567
+  },
+  {
+   "english": "strict",
+   "korean": "엄격한",
+   "rank": 2568
+  },
+  {
+   "english": "concrete",
+   "korean": "콘크리트",
+   "rank": 2569
+  },
+  {
+   "english": "shell",
+   "korean": "껍데기",
+   "rank": 2570
+  },
+  {
+   "english": "damn",
+   "korean": "젠장",
+   "rank": 2571
+  },
+  {
+   "english": "distinct",
+   "korean": "별개의",
+   "rank": 2572
+  },
+  {
+   "english": "humor",
+   "korean": "기분",
+   "rank": 2573
+  },
+  {
+   "english": "limitation",
+   "korean": "한정",
+   "rank": 2574
+  },
+  {
+   "english": "indication",
+   "korean": "표시",
+   "rank": 2575
+  },
+  {
+   "english": "stability",
+   "korean": "안정",
+   "rank": 2576
+  },
+  {
+   "english": "wise",
+   "korean": "지혜로운",
+   "rank": 2577
+  },
+  {
+   "english": "neglect",
+   "korean": "소홀히 하다",
+   "rank": 2578
+  },
+  {
+   "english": "compose",
+   "korean": "구성하다",
+   "rank": 2579
+  },
+  {
+   "english": "jail",
+   "korean": "교도소",
+   "rank": 2580
+  },
+  {
+   "english": "shelter",
+   "korean": "대피소",
+   "rank": 2581
+  },
+  {
+   "english": "mere",
+   "korean": "호수",
+   "rank": 2582
+  },
+  {
+   "english": "carbon",
+   "korean": "탄소",
+   "rank": 2583
+  },
+  {
+   "english": "regulate",
+   "korean": "규제하다",
+   "rank": 2584
+  },
+  {
+   "english": "cheese",
+   "korean": "치즈",
+   "rank": 2585
+  },
+  {
+   "english": "trigger",
+   "korean": "방아쇠",
+   "rank": 2586
+  },
+  {
+   "english": "pipe",
+   "korean": "파이프",
+   "rank": 2587
+  },
+  {
+   "english": "destruction",
+   "korean": "파괴",
+   "rank": 2588
+  },
+  {
+   "english": "guitar",
+   "korean": "기타",
+   "rank": 2589
+  },
+  {
+   "english": "flag",
+   "korean": "깃발",
+   "rank": 2590
+  },
+  {
+   "english": "piano",
+   "korean": "피아노",
+   "rank": 2591
+  },
+  {
+   "english": "magic",
+   "korean": "마법",
+   "rank": 2592
+  },
+  {
+   "english": "mystery",
+   "korean": "신비",
+   "rank": 2593
+  },
+  {
+   "english": "ski",
+   "korean": "스키",
+   "rank": 2594
+  },
+  {
+   "english": "whisper",
+   "korean": "속삭임",
+   "rank": 2595
+  },
+  {
+   "english": "rear",
+   "korean": "뒤쪽",
+   "rank": 2596
+  },
+  {
+   "english": "menu",
+   "korean": "메뉴",
+   "rank": 2597
+  },
+  {
+   "english": "species",
+   "korean": "종",
+   "rank": 2598
+  },
+  {
+   "english": "moon",
+   "korean": "달",
+   "rank": 2599
+  },
+  {
+   "english": "presumably",
+   "korean": "아마도",
+   "rank": 2600
+  },
+  {
+   "english": "bless",
+   "korean": "신을 하다",
+   "rank": 2601
+  },
+  {
+   "english": "airline",
+   "korean": "공기 호스",
+   "rank": 2602
+  },
+  {
+   "english": "amendment",
+   "korean": "개정",
+   "rank": 2603
+  },
+  {
+   "english": "grandmother",
+   "korean": "할머니",
+   "rank": 2604
+  },
+  {
+   "english": "jury",
+   "korean": "배심",
+   "rank": 2605
+  },
+  {
+   "english": "cooperation",
+   "korean": "협력",
+   "rank": 2606
+  },
+  {
+   "english": "civilian",
+   "korean": "일반 민간인",
+   "rank": 2607
+  },
+  {
+   "english": "composition",
+   "korean": "구성",
+   "rank": 2608
+  },
+  {
+   "english": "coin",
+   "korean": "동전",
+   "rank": 2609
+  },
+  {
+   "english": "regardless",
+   "korean": "~에 관계없이",
+   "rank": 2610
+  },
+  {
+   "english": "scan",
+   "korean": "주사",
+   "rank": 2611
+  },
+  {
+   "english": "bunch",
+   "korean": "다발",
+   "rank": 2612
+  },
+  {
+   "english": "racial",
+   "korean": "인종",
+   "rank": 2613
+  },
+  {
+   "english": "greet",
+   "korean": "환영하다",
+   "rank": 2614
+  },
+  {
+   "english": "hopefully",
+   "korean": "바라건대",
+   "rank": 2615
+  },
+  {
+   "english": "sanction",
+   "korean": "제재",
+   "rank": 2616
+  },
+  {
+   "english": "trick",
+   "korean": "장난",
+   "rank": 2617
+  },
+  {
+   "english": "paragraph",
+   "korean": "절",
+   "rank": 2618
+  },
+  {
+   "english": "maker",
+   "korean": "만드는 사람",
+   "rank": 2619
+  },
+  {
+   "english": "chocolate",
+   "korean": "초콜릿",
+   "rank": 2620
+  },
+  {
+   "english": "stimulate",
+   "korean": "자극하다",
+   "rank": 2621
+  },
+  {
+   "english": "belt",
+   "korean": "벨트",
+   "rank": 2622
+  },
+  {
+   "english": "potato",
+   "korean": "감자",
+   "rank": 2623
+  },
+  {
+   "english": "narrative",
+   "korean": "이야기",
+   "rank": 2624
+  },
+  {
+   "english": "tissue",
+   "korean": "조직",
+   "rank": 2625
+  },
+  {
+   "english": "barely",
+   "korean": "간신히",
+   "rank": 2626
+  },
+  {
+   "english": "invent",
+   "korean": "꾸미다",
+   "rank": 2627
+  },
+  {
+   "english": "tourism",
+   "korean": "관광 여행",
+   "rank": 2628
+  },
+  {
+   "english": "pro",
+   "korean": "찬성",
+   "rank": 2629
+  },
+  {
+   "english": "stair",
+   "korean": "계단",
+   "rank": 2630
+  },
+  {
+   "english": "hesitate",
+   "korean": "망설이다",
+   "rank": 2631
+  },
+  {
+   "english": "shine",
+   "korean": "빛나는",
+   "rank": 2632
+  },
+  {
+   "english": "motivation",
+   "korean": "동기 부여",
+   "rank": 2633
+  },
+  {
+   "english": "romantic",
+   "korean": "로맨틱",
+   "rank": 2634
+  },
+  {
+   "english": "firmly",
+   "korean": "단단히",
+   "rank": 2635
+  },
+  {
+   "english": "interior",
+   "korean": "내부",
+   "rank": 2636
+  },
+  {
+   "english": "stomach",
+   "korean": "위",
+   "rank": 2637
+  },
+  {
+   "english": "pray",
+   "korean": "기도하다",
+   "rank": 2639
+  },
+  {
+   "english": "championship",
+   "korean": "선수권 대회",
+   "rank": 2640
+  },
+  {
+   "english": "servant",
+   "korean": "하인",
+   "rank": 2641
+  },
+  {
+   "english": "immigrant",
+   "korean": "이민",
+   "rank": 2642
+  },
+  {
+   "english": "excess",
+   "korean": "과잉",
+   "rank": 2643
+  },
+  {
+   "english": "complexity",
+   "korean": "복잡성",
+   "rank": 2644
+  },
+  {
+   "english": "liability",
+   "korean": "책임",
+   "rank": 2645
+  },
+  {
+   "english": "surprisingly",
+   "korean": "놀랍게도",
+   "rank": 2646
+  },
+  {
+   "english": "extract",
+   "korean": "발췌",
+   "rank": 2647
+  },
+  {
+   "english": "implementation",
+   "korean": "구현",
+   "rank": 2648
+  },
+  {
+   "english": "bias",
+   "korean": "편견",
+   "rank": 2649
+  },
+  {
+   "english": "differently",
+   "korean": "다르게",
+   "rank": 2650
+  },
+  {
+   "english": "catalog",
+   "korean": "목록",
+   "rank": 2651
+  },
+  {
+   "english": "continuous",
+   "korean": "마디 없는",
+   "rank": 2652
+  },
+  {
+   "english": "golden",
+   "korean": "황금",
+   "rank": 2653
+  },
+  {
+   "english": "stamp",
+   "korean": "우표",
+   "rank": 2654
+  },
+  {
+   "english": "guideline",
+   "korean": "지침",
+   "rank": 2655
+  },
+  {
+   "english": "envelope",
+   "korean": "봉투",
+   "rank": 2656
+  },
+  {
+   "english": "knife",
+   "korean": "칼",
+   "rank": 2657
+  },
+  {
+   "english": "biological",
+   "korean": "생물학적",
+   "rank": 2658
+  },
+  {
+   "english": "consume",
+   "korean": "소비하다",
+   "rank": 2659
+  },
+  {
+   "english": "luxury",
+   "korean": "사치",
+   "rank": 2660
+  },
+  {
+   "english": "weekly",
+   "korean": "주간",
+   "rank": 2661
+  },
+  {
+   "english": "bite",
+   "korean": "깨물다",
+   "rank": 2663
+  },
+  {
+   "english": "printer",
+   "korean": "인쇄기",
+   "rank": 2664
+  },
+  {
+   "english": "firstly",
+   "korean": "첫째로",
+   "rank": 2665
+  },
+  {
+   "english": "anxious",
+   "korean": "불안해하는",
+   "rank": 2666
+  },
+  {
+   "english": "adventure",
+   "korean": "모험",
+   "rank": 2667
+  },
+  {
+   "english": "fence",
+   "korean": "울타리",
+   "rank": 2668
+  },
+  {
+   "english": "exhaust",
+   "korean": "배기가스",
+   "rank": 2669
+  },
+  {
+   "english": "attraction",
+   "korean": "끌어 당김",
+   "rank": 2670
+  },
+  {
+   "english": "ocean",
+   "korean": "대양",
+   "rank": 2671
+  },
+  {
+   "english": "quietly",
+   "korean": "조용히",
+   "rank": 2672
+  },
+  {
+   "english": "castle",
+   "korean": "성",
+   "rank": 2673
+  },
+  {
+   "english": "veteran",
+   "korean": "재향 군인",
+   "rank": 2674
+  },
+  {
+   "english": "reflection",
+   "korean": "반사",
+   "rank": 2675
+  },
+  {
+   "english": "nerve",
+   "korean": "신경 이상",
+   "rank": 2676
+  },
+  {
+   "english": "determination",
+   "korean": "결정",
+   "rank": 2677
+  },
+  {
+   "english": "altogether",
+   "korean": "전부",
+   "rank": 2678
+  },
+  {
+   "english": "fiction",
+   "korean": "소설",
+   "rank": 2679
+  },
+  {
+   "english": "carpet",
+   "korean": "양탄자",
+   "rank": 2680
+  },
+  {
+   "english": "cluster",
+   "korean": "무리",
+   "rank": 2681
+  },
+  {
+   "english": "confusion",
+   "korean": "착란",
+   "rank": 2682
+  },
+  {
+   "english": "hurry",
+   "korean": "서두르다",
+   "rank": 2683
+  },
+  {
+   "english": "logic",
+   "korean": "논리",
+   "rank": 2684
+  },
+  {
+   "english": "controversial",
+   "korean": "논란이 많은",
+   "rank": 2685
+  },
+  {
+   "english": "raw",
+   "korean": "날것의",
+   "rank": 2686
+  },
+  {
+   "english": "grammar",
+   "korean": "문법",
+   "rank": 2687
+  },
+  {
+   "english": "revise",
+   "korean": "개정하다",
+   "rank": 2688
+  },
+  {
+   "english": "hint",
+   "korean": "힌트",
+   "rank": 2689
+  },
+  {
+   "english": "hook",
+   "korean": "훅",
+   "rank": 2690
+  },
+  {
+   "english": "bell",
+   "korean": "벨",
+   "rank": 2691
+  },
+  {
+   "english": "liquid",
+   "korean": "액체",
+   "rank": 2692
+  },
+  {
+   "english": "panic",
+   "korean": "공황",
+   "rank": 2693
+  },
+  {
+   "english": "uncle",
+   "korean": "삼촌",
+   "rank": 2694
+  },
+  {
+   "english": "rice",
+   "korean": "쌀",
+   "rank": 2695
+  },
+  {
+   "english": "slope",
+   "korean": "경사",
+   "rank": 2696
+  },
+  {
+   "english": "happiness",
+   "korean": "행복",
+   "rank": 2697
+  },
+  {
+   "english": "genuine",
+   "korean": "진실한",
+   "rank": 2698
+  },
+  {
+   "english": "vessel",
+   "korean": "선박",
+   "rank": 2699
+  },
+  {
+   "english": "verb",
+   "korean": "동사",
+   "rank": 2700
+  },
+  {
+   "english": "reckon",
+   "korean": "세다",
+   "rank": 2701
+  },
+  {
+   "english": "silly",
+   "korean": "바보 같은",
+   "rank": 2702
+  },
+  {
+   "english": "transportation",
+   "korean": "운송",
+   "rank": 2703
+  },
+  {
+   "english": "harbor",
+   "korean": "항구",
+   "rank": 2704
+  },
+  {
+   "english": "comedy",
+   "korean": "코메디",
+   "rank": 2705
+  },
+  {
+   "english": "chase",
+   "korean": "뒤쫓다다",
+   "rank": 2706
+  },
+  {
+   "english": "storage",
+   "korean": "저장",
+   "rank": 2707
+  },
+  {
+   "english": "universe",
+   "korean": "우주",
+   "rank": 2708
+  },
+  {
+   "english": "horrible",
+   "korean": "끔찍해",
+   "rank": 2709
+  },
+  {
+   "english": "sheep",
+   "korean": "양",
+   "rank": 2710
+  },
+  {
+   "english": "lover",
+   "korean": "애인",
+   "rank": 2711
+  },
+  {
+   "english": "rat",
+   "korean": "쥐",
+   "rank": 2712
+  },
+  {
+   "english": "portrait",
+   "korean": "초상화",
+   "rank": 2713
+  },
+  {
+   "english": "innocent",
+   "korean": "순결한",
+   "rank": 2714
+  },
+  {
+   "english": "substitute",
+   "korean": "대리자",
+   "rank": 2715
+  },
+  {
+   "english": "supplement",
+   "korean": "보충",
+   "rank": 2716
+  },
+  {
+   "english": "adjustment",
+   "korean": "조정",
+   "rank": 2717
+  },
+  {
+   "english": "reasonably",
+   "korean": "합리적으로",
+   "rank": 2718
+  },
+  {
+   "english": "filter",
+   "korean": "필터",
+   "rank": 2719
+  },
+  {
+   "english": "flexible",
+   "korean": "유연한",
+   "rank": 2720
+  },
+  {
+   "english": "abstract",
+   "korean": "추상적인",
+   "rank": 2721
+  },
+  {
+   "english": "tent",
+   "korean": "텐트",
+   "rank": 2722
+  },
+  {
+   "english": "precise",
+   "korean": "정밀한",
+   "rank": 2723
+  },
+  {
+   "english": "distant",
+   "korean": "먼",
+   "rank": 2724
+  },
+  {
+   "english": "stranger",
+   "korean": "낯선 사람",
+   "rank": 2725
+  },
+  {
+   "english": "shade",
+   "korean": "그늘",
+   "rank": 2726
+  },
+  {
+   "english": "grain",
+   "korean": "곡물",
+   "rank": 2727
+  },
+  {
+   "english": "situate",
+   "korean": "...을 놓다",
+   "rank": 2728
+  },
+  {
+   "english": "summarize",
+   "korean": "요약",
+   "rank": 2729
+  },
+  {
+   "english": "leap",
+   "korean": "뛰다",
+   "rank": 2730
+  },
+  {
+   "english": "snap",
+   "korean": "스냅",
+   "rank": 2731
+  },
+  {
+   "english": "probability",
+   "korean": "개연성",
+   "rank": 2732
+  },
+  {
+   "english": "leather",
+   "korean": "가죽",
+   "rank": 2733
+  },
+  {
+   "english": "uncertainty",
+   "korean": "불확실성",
+   "rank": 2734
+  },
+  {
+   "english": "swear",
+   "korean": "욕을 하다",
+   "rank": 2735
+  },
+  {
+   "english": "refugee",
+   "korean": "난민",
+   "rank": 2736
+  },
+  {
+   "english": "shore",
+   "korean": "지주",
+   "rank": 2737
+  },
+  {
+   "english": "monthly",
+   "korean": "월간 간행물",
+   "rank": 2738
+  },
+  {
+   "english": "comprise",
+   "korean": "이루다",
+   "rank": 2739
+  },
+  {
+   "english": "stir",
+   "korean": "젓다",
+   "rank": 2740
+  },
+  {
+   "english": "excitement",
+   "korean": "흥분",
+   "rank": 2741
+  },
+  {
+   "english": "sigh",
+   "korean": "한숨을 쉬다",
+   "rank": 2742
+  },
+  {
+   "english": "pregnancy",
+   "korean": "임신",
+   "rank": 2743
+  },
+  {
+   "english": "experimental",
+   "korean": "실험적인",
+   "rank": 2744
+  },
+  {
+   "english": "institutional",
+   "korean": "기관",
+   "rank": 2745
+  },
+  {
+   "english": "slice",
+   "korean": "일부분",
+   "rank": 2746
+  },
+  {
+   "english": "wander",
+   "korean": "떠돌다",
+   "rank": 2747
+  },
+  {
+   "english": "empire",
+   "korean": "제국",
+   "rank": 2748
+  },
+  {
+   "english": "subsequently",
+   "korean": "그후",
+   "rank": 2749
+  },
+  {
+   "english": "gentle",
+   "korean": "온화한",
+   "rank": 2750
+  },
+  {
+   "english": "attendance",
+   "korean": "출석",
+   "rank": 2751
+  },
+  {
+   "english": "ownership",
+   "korean": "소유권",
+   "rank": 2752
+  },
+  {
+   "english": "qualification",
+   "korean": "자격",
+   "rank": 2753
+  },
+  {
+   "english": "suspend",
+   "korean": "유예하다",
+   "rank": 2754
+  },
+  {
+   "english": "functional",
+   "korean": "기능적인",
+   "rank": 2755
+  },
+  {
+   "english": "voluntary",
+   "korean": "자발적인",
+   "rank": 2756
+  },
+  {
+   "english": "pale",
+   "korean": "창백한",
+   "rank": 2757
+  },
+  {
+   "english": "stain",
+   "korean": "얼룩",
+   "rank": 2758
+  },
+  {
+   "english": "athlete",
+   "korean": "운동 선수",
+   "rank": 2759
+  },
+  {
+   "english": "organic",
+   "korean": "본질적인",
+   "rank": 2760
+  },
+  {
+   "english": "tongue",
+   "korean": "혀",
+   "rank": 2761
+  },
+  {
+   "english": "server",
+   "korean": "섬기는 사람",
+   "rank": 2762
+  },
+  {
+   "english": "structural",
+   "korean": "구조적인",
+   "rank": 2763
+  },
+  {
+   "english": "website",
+   "korean": "웹사이트",
+   "rank": 2764
+  },
+  {
+   "english": "fool",
+   "korean": "바보",
+   "rank": 2765
+  },
+  {
+   "english": "alongside",
+   "korean": "함께",
+   "rank": 2766
+  },
+  {
+   "english": "unite",
+   "korean": "맞잡다",
+   "rank": 2767
+  },
+  {
+   "english": "gently",
+   "korean": "부드럽게",
+   "rank": 2768
+  },
+  {
+   "english": "compute",
+   "korean": "계산하다",
+   "rank": 2769
+  },
+  {
+   "english": "wipe",
+   "korean": "닦음",
+   "rank": 2770
+  },
+  {
+   "english": "weird",
+   "korean": "기이한",
+   "rank": 2771
+  },
+  {
+   "english": "gaze",
+   "korean": "시선",
+   "rank": 2772
+  },
+  {
+   "english": "fade",
+   "korean": "바래다",
+   "rank": 2773
+  },
+  {
+   "english": "cough",
+   "korean": "기침",
+   "rank": 2774
+  },
+  {
+   "english": "hypothesis",
+   "korean": "가설",
+   "rank": 2775
+  },
+  {
+   "english": "royal",
+   "korean": "감청색",
+   "rank": 2776
+  },
+  {
+   "english": "theoretical",
+   "korean": "이론적인",
+   "rank": 2777
+  },
+  {
+   "english": "curtain",
+   "korean": "커튼",
+   "rank": 2778
+  },
+  {
+   "english": "mayor",
+   "korean": "시장",
+   "rank": 2779
+  },
+  {
+   "english": "darkness",
+   "korean": "어둠",
+   "rank": 2780
+  },
+  {
+   "english": "aunt",
+   "korean": "이모",
+   "rank": 2781
+  },
+  {
+   "english": "tournament",
+   "korean": "토너먼트",
+   "rank": 2782
+  },
+  {
+   "english": "registration",
+   "korean": "등록",
+   "rank": 2783
+  },
+  {
+   "english": "fragment",
+   "korean": "파편",
+   "rank": 2784
+  },
+  {
+   "english": "listener",
+   "korean": "경청자",
+   "rank": 2785
+  },
+  {
+   "english": "immigration",
+   "korean": "이민",
+   "rank": 2786
+  },
+  {
+   "english": "tender",
+   "korean": "부드러운",
+   "rank": 2787
+  },
+  {
+   "english": "density",
+   "korean": "밀도",
+   "rank": 2788
+  },
+  {
+   "english": "ugly",
+   "korean": "못생긴",
+   "rank": 2789
+  },
+  {
+   "english": "module",
+   "korean": "기준 치수",
+   "rank": 2790
+  },
+  {
+   "english": "faithfully",
+   "korean": "충실히",
+   "rank": 2791
+  },
+  {
+   "english": "autumn",
+   "korean": "가을",
+   "rank": 2792
+  },
+  {
+   "english": "cheek",
+   "korean": "볼",
+   "rank": 2793
+  },
+  {
+   "english": "attachment",
+   "korean": "부착",
+   "rank": 2794
+  },
+  {
+   "english": "holder",
+   "korean": "보유자",
+   "rank": 2795
+  },
+  {
+   "english": "solar",
+   "korean": "태양열",
+   "rank": 2796
+  },
+  {
+   "english": "grin",
+   "korean": "이를 드러내고 웃다",
+   "rank": 2797
+  },
+  {
+   "english": "rose",
+   "korean": "장미",
+   "rank": 2798
+  },
+  {
+   "english": "noun",
+   "korean": "명사",
+   "rank": 2799
+  },
+  {
+   "english": "fortunate",
+   "korean": "운이 좋은",
+   "rank": 2800
+  },
+  {
+   "english": "alright",
+   "korean": "괜찮은",
+   "rank": 2801
+  },
+  {
+   "english": "lazy",
+   "korean": "게으른",
+   "rank": 2802
+  },
+  {
+   "english": "hello",
+   "korean": "안녕하세요",
+   "rank": 2803
+  },
+  {
+   "english": "hunger",
+   "korean": "굶주림",
+   "rank": 2804
+  },
+  {
+   "english": "insure",
+   "korean": "안전하게 하다",
+   "rank": 2805
+  },
+  {
+   "english": "ashamed",
+   "korean": "부끄러운",
+   "rank": 2806
+  },
+  {
+   "english": "found",
+   "korean": "설립하다",
+   "rank": 2807
+  },
+  {
+   "english": "blog",
+   "korean": "블로그",
+   "rank": 2808
+  },
+  {
+   "english": "thirst",
+   "korean": "갈증",
+   "rank": 2809
+  }
+ ]
+}

@@ -38,7 +38,9 @@ data class EnglishVocabularyItem(
     @SerializedName("english")
     val english: String,
     @SerializedName("korean")
-    val korean: String
+    val korean: String,
+    @SerializedName("rank")
+    val rank: Int? = null       // NGSL 빈도 순위 (작을수록 자주 쓰이는 쉬운 단어)
 )
 
 // =============================================================================================
@@ -47,7 +49,8 @@ data class EnglishVocabularyItem(
 data class TestWord(
     val foreignWord: String,
     val koreanMeaning: String,
-    val languageCode: String
+    val languageCode: String,
+    val rank: Int? = null
 )
 
 data class QuizQuestion(
