@@ -37,23 +37,23 @@ class LevelTestTest {
     }
 }
 
-class RankBandSamplingTest {
+class BandSamplingTest {
 
     @Test
-    fun rankedWordsArePickedAcrossEasyMiddleHardBands() {
-        val words = (101..2809).map { TestWord("w$it", "뜻$it", "en", rank = it) }
+    fun wordsArePickedAcrossEasyMiddleHardBands() {
+        val words = (1..900).map { TestWord("w$it", "뜻$it", "en", band = it % 3 + 1) }
         repeat(20) { seed ->
             val picked = com.example.capstone.data.service.pickWords(words, 10, Random(seed))
-            val ranks = picked.map { it.rank!! }
-            assertEquals(3, ranks.count { it <= 1000 })
-            assertEquals(4, ranks.count { it in 1001..2000 })
-            assertEquals(3, ranks.count { it > 2000 })
-            assertEquals(ranks.sorted(), ranks)   // 쉬운 단어부터
+            val bands = picked.map { it.band!! }
+            assertEquals(3, bands.count { it == 1 })
+            assertEquals(4, bands.count { it == 2 })
+            assertEquals(3, bands.count { it == 3 })
+            assertEquals(bands.sorted(), bands)   // 쉬운 구간부터
         }
     }
 
     @Test
-    fun unrankedWordsFallBackToRandom() {
+    fun wordsWithoutBandFallBackToRandom() {
         val words = (1..50).map { TestWord("w$it", "뜻$it", "ja") }
         assertEquals(10, com.example.capstone.data.service.pickWords(words, 10, Random(0)).distinct().size)
     }

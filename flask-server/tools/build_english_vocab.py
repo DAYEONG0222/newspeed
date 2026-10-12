@@ -66,7 +66,9 @@ def main():
             if is_bad_translation(word, meaning):
                 dropped.append((word, meaning))
             else:
-                items.append({"english": word, "korean": meaning, "rank": rank})
+                # band: 레벨 테스트 출제 구간 (1: ~1000위, 2: ~2000위, 3: 그 이후)
+                band = 1 if rank <= 1000 else 2 if rank <= 2000 else 3
+                items.append({"english": word, "korean": meaning, "rank": rank, "band": band})
 
     OUT.write_text(json.dumps({
         "source": "NGSL 1.2 (Browne, Culligan & Phillips), https://www.newgeneralservicelist.com",

@@ -91,10 +91,15 @@ flowchart TD
 - 일본어·스페인어 **어휘 레벨 테스트**(10문항, 정답률 80% 이상 고급·60% 이상 중급)를 화면에 연결했습니다. 기존 채점 함수는 문제 번호가 바뀌지 않아 항상 1번 문제의 정답과 비교하던 버그가 있어 문제별로 채점하도록 고쳤습니다.
 - 언어별 레벨을 기기에 저장하고, 뉴스 화면 상단에서 직접 바꿀 수도 있습니다.
 - **영어 레벨 테스트 추가**: 제출본에는 영어 단어 목록이 없었습니다. 공개 어휘 목록 [NGSL 1.2](https://www.newgeneralservicelist.com)(핵심 어휘 2,809개와 빈도 순위, CC BY-SA 4.0)에서 기능어와 1~100위를 빼고 Google Cloud Translation으로 한국어 뜻을 붙여 2,575개 목록을 만들었습니다([`flask-server/tools/build_english_vocab.py`](flask-server/tools/build_english_vocab.py)). 무작위 100개를 검토한 결과 명백한 오역 1개·애매 2개였고, 발견한 오역은 직접 보정했습니다.
-- 영어는 빈도 순위가 있어서 무작위 대신 **쉬운(101~1,000위)·중간(~2,000위)·어려운(2,001위~) 구간에서 3:4:3으로, 쉬운 것부터** 출제합니다. 정답률이 실력을 반영하도록 하기 위해서입니다.
+- **일본어·스페인어 단어 목록 교체**: 제출본의 두 목록은 출처가 기록되어 있지 않아, 출처와 라이선스가 분명한 공개 목록으로 바꿨습니다([`flask-server/tools/build_ja_es_vocab.py`](flask-server/tools/build_ja_es_vocab.py)).
+  - 일본어: JLPT 급수별 어휘(Jonathan Waller, CC BY)에서 급수마다 최대 400개, 1,943개
+  - 스페인어: OpenSubtitles 빈도 목록(FrequencyWords, CC BY-SA 4.0)에서 기본형 명사·동사·형용사·부사 2,400개. 자막 말뭉치라 섞여 있는 영어 단어·사람 이름·욕설·동사 활용형을 걸렀습니다.
+  - 단어만 따로 번역하면 뜻이 엇나가는 경우가 많아(스페인어 표본 100개 중 약 15%) **역번역 검증**을 넣었습니다. 한국어 뜻을 다시 원래 언어로 번역해 원래 단어로 돌아오는 것만 남기고, 영어로 옮겼을 때 고유명사(Rachel, Makoto 등)로 나오는 단어는 뺐습니다. 최종 무작위 100개 검토에서 문제 단어는 일본어 약 3개, 스페인어 약 6개였고 발견한 것은 직접 보정했습니다.
+- 세 언어 모두 단어마다 출제 구간(쉬움·중간·어려움)을 두고 **3:4:3으로, 쉬운 것부터** 출제합니다. 영어는 NGSL 빈도 순위(~1,000위 / ~2,000위 / 그 이후), 일본어는 JLPT 급수(N5·N4 / N3 / N2·N1), 스페인어는 빈도 순위(~800 / ~1,600 / ~2,400)로 나눴습니다. 정답률이 실력을 반영하도록 하기 위해서입니다.
 - 레벨이 바뀌면 이미 받은 기사를 **네트워크 재요청 없이** 다시 나눕니다.
 - 에뮬레이터에서 10문항 중 7개를 맞혀 '중급'이 추천되고, 저장 후 My Level에 중급 기사가 표시되며, 앱을 다시 켜도 레벨이 유지되는 것을 확인했습니다.
 - 영어 레벨 테스트에서 출제 단어의 빈도 순위가 179·424·983 / 1342·1496·1512·1786 / 2186·2579·2712로 구간별 3·4·3개가 쉬운 순서로 나오는 것을 확인했습니다.
+- 일본어 레벨 테스트 출제 순서 N5·N4·N4·N3·N3·N3·N3·N2·N2·N1, 스페인어는 쉬움 3·중간 4·어려움 3으로 나오는 것을 확인했습니다.
 
 검증: 서버 pytest 9개, 앱 JVM 단위 테스트 6개. 에뮬레이터에서 다음 흐름을 직접 확인했습니다.
 - 일본어 기사 목록·난이도 표시, 레벨 테스트(7/10 → 중급) → My Level 반영 → 앱 재시작 후 유지
@@ -104,7 +109,7 @@ flowchart TD
 ### 남은 과제
 - 번역은 Google Cloud Translation 키, 유의어는 BabelNet 키가 있을 때만 동작합니다.
 - 단어 하나만 따로 번역해서 뜻이 어색한 경우가 있습니다(예: salido → '왼쪽'). 문장 문맥을 함께 보내는 방식이 필요합니다.
-- 일본어·스페인어 레벨 테스트 단어 목록은 제출본에 있던 것으로 출처가 기록되어 있지 않고, 빈도 순위가 없어 무작위로 출제합니다.
+- 레벨 테스트 단어의 한국어 뜻은 기계 번역이라, 검증을 거쳤어도 일부 어색한 뜻이 남아 있을 수 있습니다.
 - DB v1 → v2 마이그레이션은 v1 앱을 설치한 기기에서 업그레이드하는 방식으로는 확인하지 않았습니다.
 
 ## 담당 역할 (캡스톤 당시)
@@ -144,6 +149,9 @@ python run.py            # http://localhost:5000
 ## 데이터 출처
 
 - 영어 레벨 테스트 단어: NGSL 1.2 — Browne, C., Culligan, B., & Phillips, J. ([newgeneralservicelist.com](https://www.newgeneralservicelist.com)), CC BY-SA 4.0. 한국어 뜻을 덧붙인 `app/src/main/assets/vocabulary/english.json`도 같은 라이선스를 따릅니다.
+- 일본어 레벨 테스트 단어: JLPT 어휘 목록 — Jonathan Waller ([tanos.co.uk](http://www.tanos.co.uk/jlpt/)), CC BY. 정리본 [Bluskyo/JLPT_Vocabulary](https://github.com/Bluskyo/JLPT_Vocabulary)을 사용했습니다. `japanese.json`은 CC BY를 따릅니다.
+- 스페인어 레벨 테스트 단어: FrequencyWords — Hermit Dave ([github.com/hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords), OpenSubtitles 2018), CC BY-SA 4.0. `spanish.json`도 같은 라이선스를 따릅니다.
+- 제출본(`v1-team-submission`)에 있던 이전 일본어·스페인어 단어 목록은 출처가 기록되어 있지 않습니다.
 - 난이도 평가 말뭉치: SNOW T15 (CC BY 4.0), Vikidia·Wikipedia (CC BY-SA). 원문은 저장소에 포함하지 않습니다.
 
 ## 보안

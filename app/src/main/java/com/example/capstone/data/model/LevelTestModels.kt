@@ -14,7 +14,9 @@ data class SpanishVocabularyItem(
     @SerializedName("spanish")
     val spanish: String,
     @SerializedName("korean")
-    val korean: String
+    val korean: String,
+    @SerializedName("band")
+    val band: Int? = null       // 1 쉬움 / 2 중간 / 3 어려움 (빈도 순위 기준)
 )
 
 data class JapaneseVocabularyData(
@@ -26,7 +28,9 @@ data class JapaneseVocabularyItem(
     @SerializedName("japanese")
     val japanese: String,
     @SerializedName("korean")
-    val korean: String
+    val korean: String,
+    @SerializedName("band")
+    val band: Int? = null       // 1 = N5·N4, 2 = N3, 3 = N2·N1
 )
 
 data class EnglishVocabularyData(
@@ -40,7 +44,9 @@ data class EnglishVocabularyItem(
     @SerializedName("korean")
     val korean: String,
     @SerializedName("rank")
-    val rank: Int? = null       // NGSL 빈도 순위 (작을수록 자주 쓰이는 쉬운 단어)
+    val rank: Int? = null,      // NGSL 빈도 순위 (작을수록 자주 쓰이는 쉬운 단어)
+    @SerializedName("band")
+    val band: Int? = null       // 1: ~1000위, 2: ~2000위, 3: 그 이후
 )
 
 // =============================================================================================
@@ -50,7 +56,7 @@ data class TestWord(
     val foreignWord: String,
     val koreanMeaning: String,
     val languageCode: String,
-    val rank: Int? = null
+    val band: Int? = null       // 출제 구간 1 쉬움 / 2 중간 / 3 어려움
 )
 
 data class QuizQuestion(

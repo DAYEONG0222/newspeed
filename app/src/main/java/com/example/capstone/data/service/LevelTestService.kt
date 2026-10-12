@@ -19,7 +19,9 @@ class LevelTestService(
     companion object {
         const val TOTAL_QUESTIONS = 10
 
-        // Assets 파일 경로. 영어는 NGSL 1.2 (CC BY-SA 4.0) 에 빈도 순위가 붙어 있다.
+        // Assets 파일 경로. 세 목록 모두 출처가 분명한 공개 목록에 band(출제 구간)가 붙어 있다.
+        //   영어: NGSL 1.2 (CC BY-SA 4.0), 일본어: JLPT 목록 Jonathan Waller (CC BY),
+        //   스페인어: FrequencyWords / OpenSubtitles 2018 (CC BY-SA 4.0)
         private const val SPANISH_FILE = "vocabulary/spanish.json"
         private const val JAPANESE_FILE = "vocabulary/japanese.json"
         private const val ENGLISH_FILE = "vocabulary/english.json"
@@ -42,7 +44,7 @@ class LevelTestService(
                                 val word: String? = item.spanish
                                 val meaning: String? = item.korean
                                 if (word.isNullOrBlank() || meaning.isNullOrBlank()) null
-                                else TestWord(word, meaning, languageType.code)
+                                else TestWord(word, meaning, languageType.code, item.band)
                             }
                     }
                     LanguageType.JAPANESE -> {
@@ -52,7 +54,7 @@ class LevelTestService(
                                 val word: String? = item.japanese
                                 val meaning: String? = item.korean
                                 if (word.isNullOrBlank() || meaning.isNullOrBlank()) null
-                                else TestWord(word, meaning, languageType.code)
+                                else TestWord(word, meaning, languageType.code, item.band)
                             }
                     }
                     LanguageType.ENGLISH -> {
@@ -62,7 +64,7 @@ class LevelTestService(
                                 val word: String? = item.english
                                 val meaning: String? = item.korean
                                 if (word.isNullOrBlank() || meaning.isNullOrBlank()) null
-                                else TestWord(word, meaning, languageType.code, item.rank)
+                                else TestWord(word, meaning, languageType.code, item.band)
                             }
                     }
                 }
@@ -85,26 +87,25 @@ class LevelTestService(
     }
 }
 
-/** 빈도 구간: 101~1000위 / 1001~2000위 / 2001위~ 에서 3:4:3 비율로 뽑는다 */
-private val RANK_BANDS = listOf(0..1000, 1001..2000, 2001..Int.MAX_VALUE)
-private val BAND_SHARE = listOf(0.3, 0.4, 0.3)
+/** 구간(band) 1·2·3 에서 3:4:3 비율로 뽑는다 */
+private val BAND_SHARE = mapOf(1 to 0.3, 2 to 0.4, 3 to 0.3)
 
 /**
  * 출제할 단어 고르기.
- * 빈도 순위가 있으면(영어) 쉬운·중간·어려운 구간에서 골고루, 쉬운 것부터 순서대로 낸다.
- * 순위가 없으면(일본어·스페인어 목록) 기존처럼 무작위.
+ * 구간 정보가 있으면 쉬운·중간·어려운 구간에서 골고루, 쉬운 것부터 순서대로 낸다.
+ * 구간 정보가 없으면 무작위.
  */
 fun pickWords(allWords: List<TestWord>, count: Int, random: kotlin.random.Random = kotlin.random.Random): List<TestWord> {
-    if (allWords.isEmpty() || allWords.any { it.rank == null }) return allWords.shuffled(random).take(count)
+    if (allWords.isEmpty() || allWords.any { it.band == null }) return allWords.shuffled(random).take(count)
     val picked = mutableListOf<TestWord>()
-    RANK_BANDS.forEachIndexed { i, band ->
-        val n = if (i == RANK_BANDS.lastIndex) count - picked.size else Math.round(count * BAND_SHARE[i]).toInt()
-        picked += allWords.filter { it.rank!! in band }.shuffled(random).take(n)
+    BAND_SHARE.forEach { (band, share) ->
+        val n = if (band == 3) count - picked.size else Math.round(count * share).toInt()
+        picked += allWords.filter { it.band == band }.shuffled(random).take(n)
     }
     if (picked.size < count) {  // 어떤 구간 단어가 모자라면 나머지에서 채움
         picked += (allWords - picked.toSet()).shuffled(random).take(count - picked.size)
     }
-    return picked.sortedBy { it.rank }
+    return picked.sortedBy { it.band }
 }
 
 /** 단어 목록에서 문제 생성 (짝수 번은 단어→뜻, 홀수 번은 뜻→단어). 테스트하기 쉽도록 분리 */
