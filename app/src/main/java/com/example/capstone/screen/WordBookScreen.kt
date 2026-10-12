@@ -8,6 +8,7 @@ import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Language
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
@@ -25,8 +26,9 @@ fun WordBookScreen(
     wordViewModel: WordViewModel = viewModel(),
     modifier: Modifier = Modifier
 ) {
-    var selectedLanguage by remember { mutableStateOf("en") }
-    var sortOption by remember { mutableStateOf("최신순") }
+    // 퀴즈·오답노트에서 돌아와도 고른 언어 탭이 유지되도록 rememberSaveable 사용
+    var selectedLanguage by rememberSaveable { mutableStateOf("en") }
+    var sortOption by rememberSaveable { mutableStateOf("최신순") }
     var currentWords by remember { mutableStateOf<List<Vocabulary>>(emptyList()) }
     var isLoading by remember { mutableStateOf(true) }
 

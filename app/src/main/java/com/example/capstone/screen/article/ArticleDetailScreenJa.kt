@@ -216,21 +216,27 @@ fun ArticleDetailScreenJa(
                             onLongClick = {
                                 selectedWord.value = word
                                 coroutineScope.launch {
+                                    // 유의어 조회가 실패해도(키 없음 등) 단어 저장 창은 열려야 한다.
+                                    // 기존에는 실패하면 창이 열리지 않아 단어를 저장할 수 없었다.
+                                    synonymList.clear()
                                     try {
                                         val response = RetrofitTranslateClient.translateService
                                             .translateText(TranslateRequest(word))
                                         if (response.isSuccessful) {
                                             lastTranslated.value = response.body()?.translated_text ?: ""
                                         }
+                                    } catch (e: Exception) {
+                                        Toast.makeText(context, "번역 실패", Toast.LENGTH_SHORT).show()
+                                    }
+                                    try {
                                         val result = RetrofitClient.flaskService.getRelations(
                                             ThesaurusRequest(word, language)
                                         )
-                                        synonymList.clear()
                                         synonymList.addAll(result.synonyms)
-                                        showSynonymSheet.value = true
                                     } catch (e: Exception) {
-                                        Toast.makeText(context, "유의어 조회 실패: ${e.message}", Toast.LENGTH_SHORT).show()
+                                        // 유의어는 부가 기능: 목록만 비워 두고 계속 진행
                                     }
+                                    showSynonymSheet.value = true
                                 }
                             }
                         )
